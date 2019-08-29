@@ -1,0 +1,22 @@
+@import "../config";
+
+:host {
+    display: flex;
+    flex-direction: column;
+
+    .action-button {
+        $height: 56px;
+        height: $height;
+        line-height: $height;
+        border-radius: $height / 2;
+        width: $side-bar-width - (map-get($spacers, 3) * 2);
+        transition: width $side-bar-animation;
+        overflow: hidden;
+
+        &.action-hide {
+            border: $_2px dashed $gray-400;
+            background-color: transparent;
+            color: transparent;
+        }
+    }
+}

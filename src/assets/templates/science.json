@@ -1,0 +1,491 @@
+[
+  {
+    "title": "Wired",
+    "url": "https://www.wired.com/latest",
+    "image": "https://storage.googleapis.com/site-assets/tLs-1vBwN-VbKdXz72E49J0xQKpgQOM84Ue-E_GZh84_icon-16324db50f2"
+  },
+  {
+    "title": "TED Talks Daily (SD video)",
+    "url": "https://www.ted.com/talks",
+    "image": "https://storage.googleapis.com/site-assets/aANiHgsmGDykAZE5mDpF1X6vSBbJgJaU6lIEEstKh6w_icon-15ccd799771"
+  },
+  {
+    "title": "National Geographic News",
+    "url": "http://news.nationalgeographic.com",
+    "image": "https://storage.googleapis.com/site-assets/wdwi7d_Qu2JKq-G9zjzeFiSdW_54hA-dhFSvV8oj9RI_icon-1668f05b579"
+  },
+  {
+    "title": "Scientific American Content",
+    "url": "http://www.scientificamerican.com",
+    "image": "https://storage.googleapis.com/site-assets/47ajA_U-LLkVhRLGMFCxgXOVXDuViiKa-2VRCQJM5-c_icon-15bf3c146cc"
+  },
+  {
+    "title": "Science current issue",
+    "url": "http://science.sciencemag.org",
+    "image": "https://storage.googleapis.com/site-assets/uYuHkca-SUqlKx8hrJBJkCoW-psRQpxBOVPrNKf627U_icon-163b558433d"
+  },
+  {
+    "title": "Popular Science",
+    "url": "https://www.popsci.com/rss.xml",
+    "image": "https://storage.googleapis.com/site-assets/F_I-w-CV2pJEmFd4LPSTg6qdawOOyY7Lcl6xGTBKf5w_icon-16538a8fbe7"
+  },
+  {
+    "title": "io9",
+    "url": "https://io9.gizmodo.com",
+    "image": "https://storage.googleapis.com/site-assets/34uZQ3l3EMlh1188WT1P6ZTSyTMdCFLd-8NwYFrkblI_sicon-168c32b171f"
+  },
+  {
+    "title": "BBC News - Science & Environment",
+    "url": "https://www.bbc.co.uk/news/",
+    "image": "https://storage.googleapis.com/site-assets/GNExvO6g4xZWBsEtz3Fiz4RBD4GCyUYzwIiEPpC8pQ8_icon-163b563d262"
+  },
+  {
+    "title": "New Scientist ",
+    "url": "https://www.newscientist.com",
+    "image": "https://storage.googleapis.com/site-assets/MRtI0BgUeNeZmYidaOR1CJr44LNAj-1lhP4HpG20Is4_sicon-1682b49cfb7"
+  },
+  {
+    "title": "Nature",
+    "url": "http://feeds.nature.com/nature/rss/current",
+    "image": "https://storage.googleapis.com/test-site-assets/BJi9nUvd4jCSd9rf0lPNeaPIDvhjO_Py-q6EVKn1X88_oicon-1658664fbd2"
+  },
+  {
+    "title": "Information is Beautiful",
+    "url": "https://informationisbeautiful.net",
+    "image": "https://storage.googleapis.com/site-assets/6dy5SnfJK-4w9_iDxcsOIgAhPXHSTJkT2LloDWSZDxQ_icon-160abae882a"
+  },
+  {
+    "title": "NPR",
+    "url": "https://www.npr.org/templates/story/story.php?storyId=1007",
+    "image": "https://storage.googleapis.com/site-assets/lmkH2ljUFmsqGqNCeBY3yUzFm4mUy3PNI8kDYHPVYNw_icon-15f9fd9fe62"
+  },
+  {
+    "title": "FlowingData",
+    "url": "https://flowingdata.com",
+    "image": "https://storage.googleapis.com/site-assets/69-I8g7AdPLNdj56CTP_B8vWxQ7n6_VzvvHPQr8J60g_icon-169556f4427"
+  },
+  {
+    "title": "Space.com",
+    "url": "https://www.space.com/feeds/all"
+  },
+  {
+    "title": "ScienceDaily ",
+    "url": "https://www.sciencedaily.com",
+    "image": "https://storage.googleapis.com/site-assets/eZaCevciEreD8s0Zedt8X-L-aaCxZoIBs9SqbT5yzbg_icon-15d5f79328c"
+  },
+  {
+    "title": "New on MIT Technology Review",
+    "url": "https://www.technologyreview.com/",
+    "image": "https://storage.googleapis.com/site-assets/Uj-CdaagUWK3MlmzxLAxgNcqNGJXiYXjmrsBNefGR2c_icon-167a4c97d71"
+  },
+  {
+    "title": "NYT > Science",
+    "url": "https://www.nytimes.com/section/science?partner=rss&emc=rss",
+    "image": "https://storage.googleapis.com/site-assets/hZA0ogAAjnOqabtKZhrMg3Dh93cMRgSDrXKV41zU1LI_icon-1690c014f5c"
+  },
+  {
+    "title": "Futurity",
+    "url": "https://www.futurity.org",
+    "image": "https://storage.googleapis.com/site-assets/dQWfsetpMj2Apv8_evPF1KwHykOV48Ja9Q7hdVZ4jWA_icon-165801a37bb"
+  },
+  {
+    "title": "Big Think",
+    "url": "https://bigthink.com/",
+    "image": "https://storage.googleapis.com/site-assets/fck2OPWE8yRe8wky-uNYkOOBe3idQ5Y8Q_sUurx_1kI_icon-166c2130640"
+  },
+  {
+    "title": "Phys.org",
+    "url": "https://phys.org/",
+    "image": "https://storage.googleapis.com/site-assets/W4rZpWk1aGk-nAy0FRfIyAZPuS91uPftsoYwMG7CTvQ_sicon-15b645bcb11"
+  },
+  {
+    "title": "Mind Hacks",
+    "url": "https://mindhacks.com",
+    "image": "https://storage.googleapis.com/site-assets/MflwSr6MZQGgR0ZAxzdut5J-AEAuGye5UDytyTHk0uE_icon-161ccc483f0"
+  },
+  {
+    "title": "NASA Image of the Day",
+    "url": "http://www.nasa.gov/",
+    "image": "https://storage.googleapis.com/site-assets/k0Bgy1CRUQ0dppUorBKX-9WKsoM0yAGYNSeXf4JuWYA_icon-168a6ce97ea"
+  },
+  {
+    "title": "NASA Breaking News",
+    "url": "http://www.nasa.gov/",
+    "image": "https://storage.googleapis.com/site-assets/cLCgw6sGmQhSKas4cNMflXaPHTYWdLg8n1Gj3omAo-M_icon-168a6ce9ebe"
+  },
+  {
+    "title": "Universe Today",
+    "url": "https://www.universetoday.com",
+    "image": "https://storage.googleapis.com/test-site-assets/XmNs0ujbHQPBjGGcA7DX4_HssrKh6Q2VMoI1M3jyTGw_oicon-1658667cc9b"
+  },
+  {
+    "title": "Science and technology",
+    "url": "https://www.economist.com/science-and-technology/",
+    "image": "https://storage.googleapis.com/site-assets/XGuujbNWHQNimdqDL_Dd6n8iKYH1Cvn5BoUaO4caoHM_icon-165e17fe109"
+  },
+  {
+    "title": "APOD",
+    "url": "https://apod.nasa.gov/"
+  },
+  {
+    "title": "Nature Communications - current - nature.com science feeds",
+    "url": "http://feeds.nature.com/ncomms/rss/current",
+    "image": "https://storage.googleapis.com/site-assets/jwXlck1dDuZkRMiQieilKprXSaqkYbbYUBRtrvL-pQ0_icon-16552575a37"
+  },
+  {
+    "title": "RealClimate",
+    "url": "http://www.realclimate.org",
+    "image": "http://storage.googleapis.com/site-assets/NMg6TkKfdrGgYfMnajjFZO81XH1r5YVrR_4SjS8LrNw_sicon-154110144a5"
+  },
+  {
+    "title": "Nautilus",
+    "url": "http://nautil.us/rss/all",
+    "image": "https://storage.googleapis.com/site-assets/S65pG8T5116n56AmIrqwA0f-yTjIabsNnbHsiawHax0_icon-15cb51499d0"
+  },
+  {
+    "title": "Live Science",
+    "url": "https://www.livescience.com",
+    "image": "https://storage.googleapis.com/site-assets/guxZMc9RH4ctdlNIMUMDuSTi2OcBAOPyvOkKz8IyCyE_icon-15cb04e708a"
+  },
+  {
+    "title": "Futurism",
+    "url": "https://futurism.com"
+  },
+  {
+    "title": "Scientific American: Mind & Brain",
+    "url": "http://www.scientificamerican.com",
+    "image": "https://storage.googleapis.com/site-assets/XOoSRuismEheRpzyUQA15EXT9qu74Coaj-xKJvSrf3o_icon-15bf3c14c93"
+  },
+  {
+    "title": "Science-Based Medicine",
+    "url": "https://sciencebasedmedicine.org",
+    "image": "https://storage.googleapis.com/site-assets/InKY0ovIqQMK8zHx-hFo_c1mac--hRLanH7LF_hBlG4_icon-161b59307f8"
+  },
+  {
+    "title": "Proceedings of the National Academy of Sciences current issue",
+    "url": "http://www.pnas.org",
+    "image": "https://storage.googleapis.com/site-assets/LqvuAeMqm9nkm7Cff_NWP76nBVzJA3ZWW0KRj9ABemY_icon-16655b77141"
+  },
+  {
+    "title": "Quanta Magazine",
+    "url": "https://www.quantamagazine.org",
+    "image": "https://storage.googleapis.com/site-assets/YbAZjYg9Uln3HzhccSmRK68bdUELxHvcStWuUYq6sWQ_icon-15bcc9fe725"
+  },
+  {
+    "title": "drorzel",
+    "url": "https://scienceblogs.com/author/drorzel/feed",
+    "image": "https://storage.googleapis.com/site-assets/ggLS55yIMkqgnTkqZfQBfZ5n-7a55znO5Efk2sBWOaw_sicon-16725d9b0fa"
+  },
+  {
+    "title": "Edge.org",
+    "url": "https://www.edge.org/",
+    "image": "https://storage.googleapis.com/site-assets/kC9VgYM43kW__uZYuQmcrxufPNybbHi30i2BEnzlJLU_sicon-16591695219"
+  },
+  {
+    "title": "Nature Biotechnology",
+    "url": "http://feeds.nature.com/nbt/rss/current",
+    "image": "https://storage.googleapis.com/test-site-assets/0qZSsMpEyvTD_JmJ6fQGs2jjQHT0cDASmHnvbQXUs9I_oicon-166b30c5bda"
+  },
+  {
+    "title": "Science | The Guardian",
+    "url": "https://www.theguardian.com/science",
+    "image": "https://storage.googleapis.com/site-assets/a7E98_xDSQuhbnsOJTjRWq5XKQ9p57zjElCfp8O2GGE_icon-167084bda37"
+  },
+  {
+    "title": "NeuroLogica Blog",
+    "url": "https://theness.com/neurologicablog",
+    "image": "https://storage.googleapis.com/site-assets/grrDH4oZ5iTS6hEcrTrvwvYDCSpaAoQzUD0lBQLYBeU_sicon-166cadd579a"
+  },
+  {
+    "title": "PLOS Biology: New Articles",
+    "url": "https://journals.plos.org/plosbiology/",
+    "image": "https://storage.googleapis.com/site-assets/GQ68GDDK1puoZR_5r34tuQkf5vYz_-d21QfBV88_rnw_icon-16589bfe0a4"
+  },
+  {
+    "title": "Not Even Wrong",
+    "url": "http://www.math.columbia.edu/~woit/wordpress"
+  },
+  {
+    "title": "BBC Future",
+    "url": "http://www.bbc.com/future",
+    "image": "https://storage.googleapis.com/site-assets/uouZVp_DmPWNma4TZCnB_5SHMbajQGOIx0aQaeywwyQ_icon-16689480f74"
+  },
+  {
+    "title": "Centauri Dreams",
+    "url": "https://www.centauri-dreams.org",
+    "image": "https://storage.googleapis.com/site-assets/E2cvJTzfCRdBzgjB7lonhJfgmHTorRyF-9ykBURDtiA_sicon-1674376f743"
+  },
+  {
+    "title": "Shtetl-Optimized",
+    "url": "https://www.scottaaronson.com/blog"
+  },
+  {
+    "title": "Discover Magazine",
+    "url": "http://discovermagazine.com/rss/master-feeds/all",
+    "image": "https://storage.googleapis.com/test-site-assets/quIOGlZ5eTv9ocKUq4709MSMzwjYO0GWl3aClJa3Qi0_oicon-16586674096"
+  },
+  {
+    "title": "Astronomy Picture of the Day RSS Feed",
+    "url": "http://www.acme.com/jef/apod/"
+  },
+  {
+    "title": "Science Latest",
+    "url": "https://www.wired.com/category/science/latest",
+    "image": "https://storage.googleapis.com/site-assets/8u8gOlZa5UFZ-p_ZXAUPP6YfHbco-flp0L4E4UJoVgc_icon-15ceda6d225"
+  },
+  {
+    "title": "Pharyngula",
+    "url": "https://freethoughtblogs.com/pharyngula"
+  },
+  {
+    "title": "EurekAlert! - Breaking News",
+    "url": "http://www.eurekalert.org",
+    "image": "https://storage.googleapis.com/site-assets/iFaSZ91MGYbXjLMGA_umWHQsa40gKXxV1VcSzkT7TxE_icon-162799b4bac"
+  },
+  {
+    "title": "Retraction Watch",
+    "url": "https://retractionwatch.com",
+    "image": "https://storage.googleapis.com/site-assets/qNHw4qqcS78s1DFvWEBYWGT56lGD2XB6jpsK1Ko5j8o_icon-1684b9781a8"
+  },
+  {
+    "title": "NASA Earth Observatory",
+    "url": "https://earthobservatory.nasa.gov/",
+    "image": "https://storage.googleapis.com/site-assets/30ltEUHh79FMEL0eozKArDTqjmshJtjEKR636XVb4mI_icon-15e62abb75b"
+  },
+  {
+    "title": "ScienceAlert - Latest",
+    "url": "https://www.sciencealert.com/",
+    "image": "https://storage.googleapis.com/site-assets/vSYqYa_n7gqRWevMFWHT0xdsCnNTeb2AW7wG3W97zWg_icon-168cecc2516"
+  },
+  {
+    "title": "Science Express TOC RSS Feed",
+    "url": "http://science.sciencemag.org",
+    "image": "https://storage.googleapis.com/site-assets/4BJWcpirE4PLQhOiCNN283oPZXIfL_YpxzS-9AxpG-0_icon-163b558499a"
+  },
+  {
+    "title": "Science & Health – FiveThirtyEight",
+    "url": "https://fivethirtyeight.com",
+    "image": "https://storage.googleapis.com/site-assets/kcwaaBulbucWQM5vGJLK4xXhlxBg66sqrrSqmQ34EhM_icon-15caf91a515"
+  },
+  {
+    "title": "Science | Smithsonian",
+    "url": "https://www.smithsonianmag.com/rss/science-nature/",
+    "image": "https://storage.googleapis.com/test-site-assets/pTNibF8MeACKzBB1-rBiC0ukxM6JIwFsdIjGnGeW_To_oicon-16586688ae0"
+  },
+  {
+    "title": "Reuters: Science News",
+    "url": "https://www.reuters.com",
+    "image": "https://storage.googleapis.com/site-assets/sGFRtLKkwGOt1zHadve2olx0oX6tqPdD31zHpJLX_YA_icon-164e7438f01"
+  },
+  {
+    "title": "Planetary Society Blog",
+    "url": "http://www.planetary.org",
+    "image": "https://storage.googleapis.com/site-assets/mKhFvWT3YWDL-mLLAQShREoAjRGhUV76WdfLNdOY7Nw_icon-15cc799957e"
+  },
+  {
+    "title": "Physics - spotlighting exceptional research",
+    "url": "http://physics.aps.org/",
+    "image": "https://storage.googleapis.com/site-assets/blPn9Zl7XncSTYgPU0tFG6eNVt4C9sUdynS4iCf8Nmg_icon-15e8129146d"
+  },
+  {
+    "title": "Sean Carroll",
+    "url": "http://www.preposterousuniverse.com/blog",
+    "image": "https://storage.googleapis.com/site-assets/H6fV6PkkA1FEpPnxhJID1nJW__L-KD-bZ_MALaQFpkI_icon-168102f3955"
+  },
+  {
+    "title": "Sciencemag",
+    "url": "http://blogs.sciencemag.org/pipeline",
+    "image": "https://storage.googleapis.com/site-assets/2k24_TFePIh3MUUJr_vqRk--EkKG_RZ2TtOvsKiJXX4_icon-16817fe1aa7"
+  },
+  {
+    "title": "Why Evolution Is True",
+    "url": "https://whyevolutionistrue.wordpress.com",
+    "image": "https://storage.googleapis.com/site-assets/T0vZNaemtVUGfmC5DrPrfp6S3n7cYxd2H1XDG50IU3c_sicon-162dfee5e2d"
+  },
+  {
+    "title": "Backreaction",
+    "url": "http://backreaction.blogspot.com/",
+    "image": "https://storage.googleapis.com/site-assets/1JvTgi4t63t1vdI5j1Zg5CPV2qIMArmsoxwwVe9BvyY_icon-163ec646d25"
+  },
+  {
+    "title": "Seeker",
+    "url": "https://www.seeker.com/?utm_medium=RSS&utm_source=feeds",
+    "image": "https://storage.googleapis.com/site-assets/O1od7hPjB6yweUInDVNYtAU-DKfRiZ2PS5O4TzhwMJg_icon-16730f19885"
+  },
+  {
+    "title": "Science Magazine",
+    "url": "http://www.sciencemag.org/rss/weekly_news_email.xml",
+    "image": "https://storage.googleapis.com/site-assets/-zjryZtAUx7FGu5ywwxT59xksvlmQnFoHgoFStd0sRk_sicon-16817e4df5e"
+  },
+  {
+    "title": "Scientific American News",
+    "url": "https://www.scientificamerican.com/section/news/",
+    "image": "https://storage.googleapis.com/site-assets/XpBLz9t-zAvSF05BzlP5nGS9tfSSYtyd7m2xzbf5eZ8_icon-162f68d9e19"
+  },
+  {
+    "title": "Science – Ars Technica",
+    "url": "https://arstechnica.com",
+    "image": "https://storage.googleapis.com/site-assets/Hd12BxeTGBL7DO86ejs_6RrRiokzNDPRW-NSV1PsIO8_icon-1601e2f97ca"
+  },
+  {
+    "title": "Neuroskeptic",
+    "url": "http://discovermagazine.com/rss/blog-feeds/neuroskeptic"
+  },
+  {
+    "title": "Latest Headlines | Science News",
+    "url": "https://www.sciencenews.org/",
+    "image": "http://storage.googleapis.com/site-assets/kA5WsYZLM4F2bE4SCTDJV6E6b-qRKO7B-8ycxZ6ubIs_icon-15413eff6d3"
+  },
+  {
+    "title": "Science twis",
+    "url": "http://science.sciencemag.org",
+    "image": "https://storage.googleapis.com/site-assets/AJsAjuNnFzo1z1PI872rnyvVlaWx1vdOVtz4HGl7cAM_icon-163b5584f79"
+  },
+  {
+    "title": "Science Advances current issue",
+    "url": "http://advances.sciencemag.org",
+    "image": "https://storage.googleapis.com/site-assets/hB_95Qa3Ss8NdR9zqtYsx_BigqlQ397wVxZs9yDBkro_sicon-169c1d1e366"
+  },
+  {
+    "title": "Phenomena",
+    "url": "http://news.nationalgeographic.com",
+    "image": "https://storage.googleapis.com/site-assets/FDeGORGy9Ly3LeAHq2u7DobEMMq7EQFq4Rbo32C7lJ4_icon-1668f0c16f5"
+  },
+  {
+    "title": "Popular Mechanics",
+    "url": "https://www.popularmechanics.co.za",
+    "image": "https://storage.googleapis.com/site-assets/P9rTepgwoZanx3w0YkcZUPEpJkjSTgWcTIufAJyHxPM_icon-1667170ccbf"
+  },
+  {
+    "title": "The Last Word On Nothing",
+    "url": "https://www.lastwordonnothing.com",
+    "image": "https://storage.googleapis.com/site-assets/oT7fxaK6bIMsHviAa-3OX8VkBuyoLa29DiPE_iibzVI_sicon-169143c2fd0"
+  },
+  {
+    "title": "Science",
+    "url": "https://www.popsci.com/rss-science.xml",
+    "image": "https://storage.googleapis.com/site-assets/WQw-BuXisPupm5Ck7H74705yHEJcju7Jx0zvQaYEfBk_icon-16534d3f5e8"
+  },
+  {
+    "title": "Improbable Research",
+    "url": "https://www.improbable.com"
+  },
+  {
+    "title": "STAT",
+    "url": "https://www.statnews.com",
+    "image": "https://storage.googleapis.com/site-assets/e58Ek-LiURnitwRt2y7O6OhMBrbNGVVt51i_I-JVPWQ_icon-16672126722"
+  },
+  {
+    "title": "symmetry magazine",
+    "url": "https://www.symmetrymagazine.org/"
+  },
+  {
+    "title": "The Scientist RSS",
+    "url": "https://www.the-scientist.com/",
+    "image": "https://storage.googleapis.com/site-assets/21BJJP6e8YrX7WB-1T8rwSMfM83sIZ6IECJ8gLQlQAI_icon-1643e36a8f4"
+  },
+  {
+    "title": "oracknows",
+    "url": "https://scienceblogs.com/author/oracknows/feed",
+    "image": "https://storage.googleapis.com/site-assets/t2QSyU421F9qgrf-c0saOjuz6zUNNy33lzEE1yj55c0_sicon-1671b939f4c"
+  },
+  {
+    "title": "Slashdot: Science",
+    "url": "https://science.slashdot.org/",
+    "image": "https://storage.googleapis.com/site-assets/xkfn90nTpNftNY80DGa1tE84UOwZSQQFKFMqJ7WHxZo_icon-15b910f8d94"
+  },
+  {
+    "title": "Scientific American Blog Posts",
+    "url": "http://www.scientificamerican.com",
+    "image": "https://storage.googleapis.com/site-assets/ND9LuAtbhV17SyAc_der4KqxbRJVtsVzTRw1XqSEoIQ_icon-1609d7cf662"
+  },
+  {
+    "title": "Science Blog",
+    "url": "https://scienceblog.com",
+    "image": "https://storage.googleapis.com/site-assets/1mQmJ-aFS9hS82OCGx9VgEgWhSy0peY5pFkaA4Tvrg4_icon-1663840de11"
+  },
+  {
+    "title": "Physics News - Physics News, Material Sciences, Science News, Physics",
+    "url": "https://phys.org/physics-news/",
+    "image": "https://storage.googleapis.com/site-assets/dCMRbY9FvdYpaBC43pYpXVFXRBHpd6Trwfm2sDu784U_sicon-15b64a39ea1"
+  },
+  {
+    "title": "Cosmos Magazine",
+    "url": "https://cosmosmagazine.com/",
+    "image": "https://storage.googleapis.com/site-assets/6Ymgu6JiOTZy_kgzflRsBaVwpJ1re17Q8G-Kx61nMkY_icon-15c584a0821"
+  },
+  {
+    "title": "Bad Astronomy",
+    "url": "https://www.syfy.com/tags/bad-astronomy/feed",
+    "image": "https://storage.googleapis.com/site-assets/7K4ASncrVRhbPDSLZULYHDF7zYtXmPGjhA0TJjTTZJ8_icon-166af6035f7"
+  },
+  {
+    "title": "PLOS Blogs Network",
+    "url": "https://blogs.plos.org",
+    "image": "https://storage.googleapis.com/site-assets/kfTzAGHZrl9OHXdNg1OCSLTzrrg3uLjHtjs5kYYclzA_sicon-167828b6b39"
+  },
+  {
+    "title": "Science + Technology – The Conversation",
+    "url": "http://theconversation.com",
+    "image": "https://storage.googleapis.com/site-assets/cdLU7I9RvGA8Chf1BqpT5VYptWZwXPv5bMvIDj-UuN8_icon-169dd24d298"
+  },
+  {
+    "title": "Compound Interest",
+    "url": "https://www.compoundchem.com"
+  },
+  {
+    "title": "Mosaic Science - the science of life",
+    "url": "https://mosaicscience.com/feed/rss.xml",
+    "image": "https://mosaicscience.com/sites/default/files/twitter-logo.png"
+  },
+  {
+    "title": "Science | The Atlantic",
+    "url": "https://www.theatlantic.com/science/",
+    "image": "https://storage.googleapis.com/site-assets/GL_lISVEcHW9HRjdQP7OAD1exhljt3jl3NbvC7Xo4t8_icon-1630b2bbb77"
+  },
+  {
+    "title": "Science 2.0",
+    "url": "https://www.science20.com",
+    "image": "https://storage.googleapis.com/site-assets/laglPgBjzLAO2neFCqSjJt4bXVWS4QTzT8EWDsUOjxE_sicon-164bba8397d"
+  },
+  {
+    "title": "RealClearScience - Homepage",
+    "url": "http://www.realclearscience.com/",
+    "image": "https://storage.googleapis.com/site-assets/idlDF_27HkozuqI1QIIn_UQWTfwTPwm2YWabU27Y7V8_icon-15da9929612"
+  },
+  {
+    "title": "All Top News -- ScienceDaily",
+    "url": "https://www.sciencedaily.com/news/top/",
+    "image": "https://storage.googleapis.com/site-assets/s8yqG-flBjPJ3t0e0eboXgnIHbrgM_GbJoJwgR_eHaI_icon-15d60c0b039"
+  },
+  {
+    "title": "Starts With A Bang! - Medium",
+    "url": "https://medium.com/starts-with-a-bang?source=rss----458a773bccd2---4",
+    "image": "https://storage.googleapis.com/site-assets/KdXGt-WUL_lUJmUIpSJU9PQqgf3va5Z10Ztnj3ELOso_icon-15e0cb6757a"
+  },
+  {
+    "title": "SciBabe",
+    "url": "http://scibabe.com",
+    "image": "https://storage.googleapis.com/site-assets/uCdvHFLYaa5YAv0_wrQwbCKbTpf4n9_pI-vVMU_LDR0_icon-16969b05447"
+  },
+  {
+    "title": "Undark",
+    "url": "https://undark.org",
+    "image": "https://storage.googleapis.com/site-assets/l_Ur2OZ_YGGCzom5mVn6_PNv3cE-ODcflPdpbGBkTgo_icon-163ccf768de"
+  },
+  {
+    "title": "Breaking Science News | Sci-News.com",
+    "url": "http://www.sci-news.com",
+    "image": "https://storage.googleapis.com/site-assets/eKMc6kNp3hxBvLMNqRcz6UEcY1UckUktS-rVbQuMQMo_icon-15b6451cd2b"
+  },
+  {
+    "title": "Mapping Ignorance",
+    "url": "https://mappingignorance.org",
+    "image": "https://storage.googleapis.com/site-assets/BqxyOegWeC6zN0q44Qi54ioLUwKOfACgf92h66iVU3k_icon-1612cdab328"
+  },
+  {
+    "title": "Ed Yong | The Atlantic",
+    "url": "https://www.theatlantic.com/author/ed-yong/",
+    "image": "https://storage.googleapis.com/site-assets/dJAGQT_kFKbvLRf67lT1ojLqHFsIQUowc7lHTYmbYKM_icon-1630b2f8753"
+  }
+]

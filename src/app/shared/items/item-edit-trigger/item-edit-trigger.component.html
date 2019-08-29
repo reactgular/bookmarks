@@ -1,0 +1,23 @@
+<ng-container *ngIf="item$ | async as item">
+    <ng-container *ngIf="item._new else itemTemplate">
+        <a class="txt"
+           href="javascript: void (0);"
+           (click)="click($event)">
+            Add a bookmark...
+        </a>
+    </ng-container>
+    <ng-template #itemTemplate>
+        <tag-item-image [itemId]="item.id"></tag-item-image>
+        <a class="txt item-title"
+           [attr.href]="item.url"
+           (click)="click($event)">
+            {{(showLongUrl$ | async) ? (item.url | shortenUrl) : (item.title || item.url | shortenUrl)}}
+        </a>
+        <a class="txt muted ml-3"
+           *ngIf="!(showLongUrl$ | async) && item.url"
+           [attr.href]="item.url"
+           (click)="click($event, false)">
+            {{item.url | shortenUrl}}
+        </a>
+    </ng-template>
+</ng-container>

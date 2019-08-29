@@ -1,0 +1,498 @@
+[
+  {
+    "title": "Fast Company",
+    "url": "https://www.fastcompany.com",
+    "image": "https://storage.googleapis.com/site-assets/FXo4hbYMcVMG4DMa6lzD_36M21OEGgDUjmAuOzeuMs0_icon-16677f47e4e"
+  },
+  {
+    "title": "Business Insider",
+    "url": "https://www.businessinsider.com",
+    "image": "https://storage.googleapis.com/site-assets/UGoT913Pj2iVsp570XrRhskqe5_o7yyV3N_NTloByRs_icon-164d075260d"
+  },
+  {
+    "title": "Entrepreneur",
+    "url": "https://www.entrepreneur.com/latest?utm_source=Feedly&utm_medium=related&utm_campaign=syndication",
+    "image": "https://storage.googleapis.com/site-assets/9kvTSXJ_FoV0tKjA81ehh0HicK5d-u3ZYbKAl6iUAKY_icon-15ec75541b2"
+  },
+  {
+    "title": "Seth Godin's Blog ",
+    "url": "https://seths.blog",
+    "image": "https://storage.googleapis.com/site-assets/6GV_GbWOJ6VnCKxInEF8KnvUbqZzRLHHRNcmgK9rnUk_icon-163cece37c0"
+  },
+  {
+    "title": "Harvard Business Review ",
+    "url": "http://hbr.org",
+    "image": "https://storage.googleapis.com/site-assets/RUSFMaap2epUB1Hxr7coT6Cd7n5A3BtYAIay0ExHdcs_icon-15d810a31d8"
+  },
+  {
+    "title": "The Economist",
+    "url": "https://www.economist.com/the-world-this-week/",
+    "image": "https://storage.googleapis.com/site-assets/g-rVxYCEsK3iPjTBPXEffBXGbIKQTTo1apZkiUddlAo_icon-165e17fd724"
+  },
+  {
+    "title": "TIME",
+    "url": "http://time.com",
+    "image": "http://storage.googleapis.com/site-assets/v8GrIox8wlD_6wSJ1nXQ_TWpl1cfTv1BstdxM39R8AY_icon-1541250575c"
+  },
+  {
+    "title": "VentureBeat",
+    "url": "https://venturebeat.com",
+    "image": "http://storage.googleapis.com/site-assets/6YCRt11ERFyhDgXE747vRsWbQYVW1DvYhSLVdQmenKU_icon-154124f1e6f"
+  },
+  {
+    "title": "Wall Street Journal",
+    "url": "http://online.wsj.com",
+    "image": "https://storage.googleapis.com/site-assets/mrSunhhu2GxTS4k-bWRuAXq-XFPw3dXIO--d8Amxp9I_icon-162035c0e80"
+  },
+  {
+    "title": "Hubspot",
+    "url": "https://blog.hubspot.com/marketing",
+    "image": "https://storage.googleapis.com/site-assets/lhgjm_H-RcSKdVOpXbkTYvGyhceBnVw9hxxc_-M3vj4_icon-1645d1d5a0e"
+  },
+  {
+    "title": "Yahoo News - Latest News & Headlines",
+    "url": "https://www.yahoo.com/news/topstories",
+    "image": "https://storage.googleapis.com/site-assets/U43yQtocz9j0g8DqctN2n1T_HphZ9Wi6hciGimQiEZw_icon-168124a258e"
+  },
+  {
+    "title": "Freakonomics",
+    "url": "http://freakonomics.com",
+    "image": "http://storage.googleapis.com/site-assets/vJ8sBRzTQHc_DENJRMiQp5ROkzx8UvF4WUuluDSKkyU_icon-154124f637a"
+  },
+  {
+    "title": "Copyblogger",
+    "url": "https://www.copyblogger.com",
+    "image": "https://storage.googleapis.com/site-assets/ZHRZtYiHJQ6J-UVQHPBOZDQsUR9mTy4Wuxkt7gN-1UM_sicon-164455f19f7"
+  },
+  {
+    "title": "Get Rich Slowly",
+    "url": "https://www.getrichslowly.org",
+    "image": "https://storage.googleapis.com/site-assets/E13ZgnqrTzmR2YQ2MfwHw6gnAGdxOFpB5qhgzGlIdVo_icon-161d692d4bc"
+  },
+  {
+    "title": "Finance and economics",
+    "url": "https://www.economist.com/finance-and-economics/",
+    "image": "https://storage.googleapis.com/site-assets/iAIUsVHadavS0Zh078N8sKe5eQvOQg5FWJOpvgUGarc_icon-165e17fdc1d"
+  },
+  {
+    "title": "Calculated Risk",
+    "url": "http://www.calculatedriskblog.com/",
+    "image": "https://storage.googleapis.com/site-assets/bQV7MgaeyZnrZ19m7Pax9HFqwEsJ8Me7pOLUgbe0uqA_icon-15c853cbcd9"
+  },
+  {
+    "title": "MarketWatch.com - Top Stories",
+    "url": "http://www.marketwatch.com/",
+    "image": "http://storage.googleapis.com/site-assets/no1B3lnqjlfyGXcCSfoyoWNrhpGPVUfjD2cOKRDhhVs_icon-15412500984"
+  },
+  {
+    "title": "The Blog of Author Tim Ferriss",
+    "url": "https://tim.blog",
+    "image": "https://storage.googleapis.com/site-assets/RwyumVv25fU133DkXeU_us81RK20Em58MSXG--9jY9k_icon-163dbb986ba"
+  },
+  {
+    "title": "PSFK",
+    "url": "http://www.psfk.com/",
+    "image": "http://storage.googleapis.com/test-site-assets/CvXTapverWJKxzHMFtdLAnIgkRkSysvOpa2jl_VsATM_oicon-14e9d313524"
+  },
+  {
+    "title": "Business | The Atlantic",
+    "url": "https://www.theatlantic.com/business/",
+    "image": "https://storage.googleapis.com/site-assets/c88zlBS7ddar-Zky4VGH7rNE30TdW4bGusU-oIaNE5I_icon-16324dacfc4"
+  },
+  {
+    "title": "AVC",
+    "url": "https://avc.com",
+    "image": "https://storage.googleapis.com/test-site-assets/HHt3UnsOIXnIPDzeAeTDAxydi3oiavGpvZ5wXC1Iq5A_oicon-1658b9c814a"
+  },
+  {
+    "title": "Bloomberg",
+    "url": "http://www.bloomberg.com/",
+    "image": "https://storage.googleapis.com/site-assets/oq1n42IyECknOTiNfjNXiOoqagEUqv7DFJF0BkkUIkQ_sicon-160d0493815"
+  },
+  {
+    "title": "I Will Teach You To Be Rich",
+    "url": "https://www.iwillteachyoutoberich.com",
+    "image": "https://storage.googleapis.com/site-assets/132-kjCFfpvgbHz_R-7LnnyP0tpqAaFDI4aI6R3AKUs_icon-1660163312a"
+  },
+  {
+    "title": "The Big Picture",
+    "url": "https://ritholtz.com",
+    "image": "http://storage.googleapis.com/site-assets/-Gg2TBSK2DpXBH7hamJJw-FtjP1QG8wnHkYnsrV11I0_icon-1541251fd35"
+  },
+  {
+    "title": "andrewchen",
+    "url": "http://andrewchen.co",
+    "image": "https://storage.googleapis.com/site-assets/x7dFM3Dg53g2rSRK9FRo86xF47Mlb6ZMSSkSCElnhCg_icon-15b7f984d8c"
+  },
+  {
+    "title": "CNNMoney",
+    "url": "http://money.cnn.com/?section=money_topstories",
+    "image": "https://storage.googleapis.com/site-assets/V9Q2XbcAvYkNLgsVkvsiSqTT7lelcUuwBf0CFGdUoXM_icon-16644fad324"
+  },
+  {
+    "title": "Small Business Trends",
+    "url": "https://smallbiztrends.com",
+    "image": "https://storage.googleapis.com/site-assets/3dImH0xEoo9pukvxI-EgQNbjVXpQHinrOcWT53hM6OQ_icon-166d492e425"
+  },
+  {
+    "title": "Signal v. Noise",
+    "url": "https://m.signalvnoise.com",
+    "image": "https://storage.googleapis.com/site-assets/7Za_zqY5-X7fYgcQFIcOrkUBr06oZlqE1S903nI1Du8_icon-1685b0ebb2f"
+  },
+  {
+    "title": "Both Sides of the Table",
+    "url": "https://bothsidesofthetable.com?source=rss----97f98e5df342---4",
+    "image": "https://storage.googleapis.com/site-assets/7saDh-AX3ShYtqFzfI8VZaySaMTMA3qr8Z9bcohTi6I_icon-15b926dce8d"
+  },
+  {
+    "title": "Gigaom",
+    "url": "http://gigaom.com",
+    "image": "http://storage.googleapis.com/site-assets/g78Ho6HMbuVMw_FFLurbIPomPzNl-ZR7GP4tgCLOwMc_icon-154124fe8a2"
+  },
+  {
+    "title": "The Smart Passive Income ",
+    "url": "https://www.smartpassiveincome.com",
+    "image": "https://storage.googleapis.com/site-assets/ooHy6_Vi1FhBt5mSu5kamiMsZ_snvPuvfeqmPaK0Hrk_sicon-15b64a37b0d"
+  },
+  {
+    "title": "NYT > Business",
+    "url": "https://www.nytimes.com/section/business?partner=rss&emc=rss",
+    "image": "https://storage.googleapis.com/site-assets/LHB8De6Z7uvP0LcU9DRrQSPjBYC9vuyfNCfCZaUEC6c_icon-169111df695"
+  },
+  {
+    "title": "Steve Blank",
+    "url": "https://steveblank.com",
+    "image": "https://storage.googleapis.com/site-assets/XJggJQksH_1J3xnry1LJlJFz7-BLRe9RTPZXFIoF-F4_icon-1621e3c2406"
+  },
+  {
+    "title": "Stratechery by Ben Thompson",
+    "url": "https://stratechery.com",
+    "image": "https://storage.googleapis.com/site-assets/IO2zuaapKQips7nY9h1s4RGyk4HVVT953cfQ3dx7bH0_icon-1626a32670b"
+  },
+  {
+    "title": "Quartz",
+    "url": "https://qz.com",
+    "image": "https://storage.googleapis.com/site-assets/t9NJb6rMt3WVivgF5JJtqOwhhWhdxPuJjlu7LCw1vdk_icon-15b926da760"
+  },
+  {
+    "title": "The Business of Fashion",
+    "url": "https://www.businessoffashion.com",
+    "image": "https://storage.googleapis.com/site-assets/13dQxBpYv_S22vUFxsifPradWazBipczZK9qEpwYtNc_icon-1639392a800"
+  },
+  {
+    "title": "Feld Thoughts",
+    "url": "https://feld.com",
+    "image": "http://storage.googleapis.com/test-site-assets/VQzDvjaJVe7ksi7B2V5vRQ2WAAtSQLE50PO6o4XEK-8_oicon-14f4376a74e"
+  },
+  {
+    "title": "Duct Tape Marketing",
+    "url": "https://ducttapemarketing.com",
+    "image": "https://storage.googleapis.com/site-assets/u38pTMsvEtG5zvgVKW_5aYxZPrPwMDpAWJTWNfiZYfs_icon-167788c5e5c"
+  },
+  {
+    "title": "The Motley Fool",
+    "url": "https://www.fool.com/",
+    "image": "https://storage.googleapis.com/site-assets/ihhK3twM97XeY21-k0EPCFrPjaZ2Bb4sJ2P8v-_dyiw_icon-166aa2c92c2"
+  },
+  {
+    "title": "McKinsey",
+    "url": "https://www.mckinsey.com/",
+    "image": "https://storage.googleapis.com/site-assets/T9dXVnOBgV5b2wRF9gvaxEPV5IfwUS6G_OuNv3LgPPM_sicon-1691e8b2876"
+  },
+  {
+    "title": "Forbes - Business",
+    "url": "http://www.forbes.com/business/",
+    "image": "https://storage.googleapis.com/site-assets/oqN73z0QK_LTcGAQuOw11QRTUR9-sEYT2bpPV-Eevoc_icon-169855bd0ce"
+  },
+  {
+    "title": "Economic Times",
+    "url": "https://economictimes.indiatimes.com",
+    "image": "https://storage.googleapis.com/site-assets/8i35Y8yIJwXrrCVhAzTsRBQE5ON9Bkg-jBpoxOtOhnQ_sicon-16563b08972"
+  },
+  {
+    "title": "International homepage",
+    "url": "https://www.ft.com/",
+    "image": "https://storage.googleapis.com/site-assets/oidJVIgCqlL6cjceUEAbk1QLEWmuN9VwXQ916UKfTP4_icon-15fc67704f5"
+  },
+  {
+    "title": "WSJ.com: WSJD",
+    "url": "http://online.wsj.com",
+    "image": "https://storage.googleapis.com/site-assets/TECT2jyn8e7qbhZe1iowvul0_xhTD-RYE_x1c4MbtjE_icon-16205ef716c"
+  },
+  {
+    "title": "James Altucher",
+    "url": "https://jamesaltucher.com",
+    "image": "https://storage.googleapis.com/site-assets/KlpEjC8ZNnoax4oK-KH19xRcDZgvYyvCX94VKgfLOyU_icon-16859bc10f2"
+  },
+  {
+    "title": "Forbes Real Time",
+    "url": "http://www.forbes.com/real-time/",
+    "image": "https://storage.googleapis.com/site-assets/OyWVSO_58oWznPIHyCqChh6lFjrrVWqz0SpVp88fNPQ_icon-169888ab296"
+  },
+  {
+    "title": "Reuters: Business News",
+    "url": "https://www.reuters.com",
+    "image": "https://storage.googleapis.com/site-assets/ZLhGk6lFGk3QYDu66VuvfBYiGVCiw62uKpP4v5UNRz0_icon-164e74370b1"
+  },
+  {
+    "title": "Forbes - Leadership",
+    "url": "http://www.forbes.com/leadership/",
+    "image": "https://storage.googleapis.com/site-assets/IquPiygIHw4icOmrvB1jcWpL7oArgN639w2Pu22105s_icon-169855bd30b"
+  },
+  {
+    "title": "TechCrunch",
+    "url": "https://techcrunch.com",
+    "image": "https://storage.googleapis.com/site-assets/hM30vcQZ_oA0LeyNChBsqmsjjLZMqnV4Le4N6GeCh_w_sicon-166f3a1c0e7"
+  },
+  {
+    "title": "HBS Working Knowledge",
+    "url": "http://hbswk.hbs.edu/",
+    "image": "https://storage.googleapis.com/site-assets/R5oc1QvUAONIxedcH7xfc8l3URqiWEWtO53B7AYn3tI_icon-15fdcf97e1a"
+  },
+  {
+    "title": "WSJ.com: US Business",
+    "url": "http://online.wsj.com",
+    "image": "https://storage.googleapis.com/site-assets/AyDedNd7uyBIaT2xrw4lRgus0rLWsAd1jGVabzkl05I_icon-16205ef6a20"
+  },
+  {
+    "title": "Business",
+    "url": "https://www.economist.com/business/",
+    "image": "https://storage.googleapis.com/site-assets/YbpqnXjLbb7MtdlZJXAPK1wsS-o7ckd2bRk9BcrrZzk_icon-165e17fe62b"
+  },
+  {
+    "title": "All Articles on Seeking Alpha",
+    "url": "https://seekingalpha.com",
+    "image": "https://storage.googleapis.com/site-assets/rMXjrMnuYVI9URjXDZZfTXp9vpVgwNMPXIAxjH1C48g_icon-15b92713f0d"
+  },
+  {
+    "title": "NYT > DealBook",
+    "url": "https://www.nytimes.com/section/business/dealbook?partner=rss&emc=rss",
+    "image": "https://storage.googleapis.com/site-assets/eN49BuoR_FESOepDXNPN9ea1uA0ChR9h9PhbiBHNXBM_icon-1690d42f39c"
+  },
+  {
+    "title": "UK homepage",
+    "url": "https://www.ft.com/",
+    "image": "https://storage.googleapis.com/site-assets/YTC4ZvwFe9z0SWnnVy3SEPcUXD0RZgZW1Qhm0MRaiKE_icon-15fc67708bb"
+  },
+  {
+    "title": "MIT Sloan Management Review",
+    "url": "https://sloanreview.mit.edu",
+    "image": "https://storage.googleapis.com/site-assets/BUEvBIVe03FbDU0EyzEzv_VDSm4_Zd00EUbS6Vcjq40_icon-15fe3144443"
+  },
+  {
+    "title": "Yahoo Finance",
+    "url": "http://finance.yahoo.com/",
+    "image": "https://storage.googleapis.com/site-assets/SQZwslwtFHF9hEDy172ilOHsF7WMGMna6MGVId8oauI_sicon-16610d4e5e9"
+  },
+  {
+    "title": "BBC News - Business",
+    "url": "https://www.bbc.co.uk/news/",
+    "image": "https://storage.googleapis.com/site-assets/ZjY1BX87j5yt7JfVVtHLFZSTV1HD2ce5G6el_wlwGtY_icon-163b563e642"
+  },
+  {
+    "title": "Derek Sivers",
+    "url": "https://sivers.org/",
+    "image": "http://storage.googleapis.com/site-assets/TguSrC7kfbUs0b6Id-6C0EiuVAEYgbFjXW38ZK7dMNU_icon-15415d027f5"
+  },
+  {
+    "title": "Forbes.com: Most popular stories",
+    "url": "http://www.forbes.com/most-popular/",
+    "image": "https://storage.googleapis.com/site-assets/F_nYF3-tPvM_WTL49eOyN1hg2cW-B85Y4LdNbGq7S0c_icon-169840f6f23"
+  },
+  {
+    "title": "Knowledge@Wharton",
+    "url": "http://knowledge.wharton.upenn.edu",
+    "image": "https://storage.googleapis.com/site-assets/PWg2vencwAYBGzg8UoYDhDVKd-qiszXuwi7W5i-DyNs_icon-16624277b05"
+  },
+  {
+    "title": "Entrepreneur: Latest Starting a Business Articles",
+    "url": "https://www.entrepreneur.com/topic/starting-a-business",
+    "image": "http://storage.googleapis.com/site-assets/WEr0mrLpSA4Ojhbi3qtz3l5trY76tRQcKQ2i6DGx7v4_icon-15415e2dd4c"
+  },
+  {
+    "title": "Harvard Business Review -  Leadership",
+    "url": "https://hbr.org/topic/leadership"
+  },
+  {
+    "title": "Strategy business",
+    "url": "https://www.strategy-business.com",
+    "image": "https://storage.googleapis.com/site-assets/7GQ6Q6yTx5YEt1sPgESTnAruguSQFWR03c7o4ALASUs_icon-168aac048a9"
+  },
+  {
+    "title": "CNBC",
+    "url": "http://www.cnbc.com/",
+    "image": "https://storage.googleapis.com/site-assets/MkJEU9_Z1DOZndBDzsSaCZfHFIrJ6FuMf1N7Ymxm_kA_icon-1668c75b88e"
+  },
+  {
+    "title": "Strategy",
+    "url": "https://www.businessinsider.com/warroom",
+    "image": "https://storage.googleapis.com/site-assets/bhZVHHTkTFNrsOFmkZ4n3C5d86zwRgmuWnGENCUk9XQ_icon-164d0752e6c"
+  },
+  {
+    "title": "Inc.com",
+    "url": "https://www.inc.com/",
+    "image": "https://storage.googleapis.com/site-assets/vjbhJukR8oBm5AiMjzloTevZpptmnTkSsoalecL5wsA_icon-15b926e78cb"
+  },
+  {
+    "title": "WSJ.com: Markets",
+    "url": "http://online.wsj.com",
+    "image": "https://storage.googleapis.com/site-assets/4lyRCJNNZNXVY6zcgUrRsLRopnqlalF98Qo98I279JY_icon-16205f146d4"
+  },
+  {
+    "title": "Dealbreaker",
+    "url": "https://dealbreaker.com",
+    "image": "https://storage.googleapis.com/site-assets/2362bHV0ttVARVmkn5D79NzN8-9CIJlpBfgTTHPxjds_icon-16580167a7f"
+  },
+  {
+    "title": "Bloomberg View",
+    "url": "https://bloomberg.com/view/",
+    "image": "https://storage.googleapis.com/site-assets/AhcTOseVRt61AcX63VIHJCOqvjcB_S76KFY4oFXNNZY_sicon-16325786428"
+  },
+  {
+    "title": "Moneycontrol Latest News",
+    "url": "https://www.moneycontrol.com",
+    "image": "https://storage.googleapis.com/site-assets/yn9Yn1L_-TK7h0SJ9Fd_fgda2NuOIP674xeEUctCxPQ_icon-161ff830f0f"
+  },
+  {
+    "title": "Fortune",
+    "url": "http://fortune.com",
+    "image": "https://storage.googleapis.com/site-assets/UYzvfwGmYZiBjzg4GDzfGaZ21_XQGmsONHSa817_6K4_icon-167abe73337"
+  },
+  {
+    "title": "Business – TIME",
+    "url": "http://time.com",
+    "image": "http://storage.googleapis.com/site-assets/7LeocDHLiic1lKNiL7wWtuSdLk5P_hx4iRwniPyiesU_icon-1541265637e"
+  },
+  {
+    "title": "Business",
+    "url": "http://www.washingtonpost.com/pb/business/",
+    "image": "https://storage.googleapis.com/site-assets/fAO3h-i6tc0zXxqpABSaljbszt2LZvoxtgmYjDALitc_icon-166f129f985"
+  },
+  {
+    "title": "Marie Forleo",
+    "url": "https://www.marieforleo.com",
+    "image": "https://storage.googleapis.com/site-assets/7vMs_DM6jbaxe4Gkd517JyYcvjO4MCAj3InddY7Qb38_sicon-15b645b9a91"
+  },
+  {
+    "title": "Business - News, Opinion and Analysis",
+    "url": "https://www.huffpost.com/impact/business",
+    "image": "https://storage.googleapis.com/site-assets/XKOXLGaOMgydbIRI68jkO2MvjCV9twCXs8iEISEH1Js_icon-168f07b0ad6"
+  },
+  {
+    "title": "Business",
+    "url": "https://mashable.com/category/business/?utm_campaign=Mash-Prod-RSS-Feedburner-Bus-Partial&utm_cid=Mash-Prod-RSS-Feedburner-Bus-Partial",
+    "image": "https://storage.googleapis.com/site-assets/o5nQjrJG-vRV0_UkRKv-VS_UgiJbJWj0kQyHhXB5SeI_icon-164bda911bc"
+  },
+  {
+    "title": "Business | The Guardian",
+    "url": "https://www.theguardian.com/us/business",
+    "image": "https://storage.googleapis.com/site-assets/xdenFx9LYwV63xP8GY61L_2_XZBVfHQVz5vbsYH5-DU_icon-167084d0279"
+  },
+  {
+    "title": "Knowledge feed articles",
+    "url": "http://knowledge.insead.edu/",
+    "image": "http://storage.googleapis.com/site-assets/s_SDmPHPdQrsXdSq4oJ3Rcd9pUEhZ_AIZ3fHHyvveJU_icon-154129c5532"
+  },
+  {
+    "title": "Business Standard",
+    "url": "https://www.business-standard.com",
+    "image": "https://storage.googleapis.com/site-assets/rh4xL0cvnhRGtxN4wHdl5LZoaHNra8m2aFKC17u-8iI_icon-166d3ec192c"
+  },
+  {
+    "title": "Business Opportunities",
+    "url": "https://www.business-opportunities.biz",
+    "image": "http://storage.googleapis.com/site-assets/TCUt9L1_0EKpQrtQbyzfEv4-nYJsi-y3BivYgsbnBUk_icon-15411e7d0ce"
+  },
+  {
+    "title": "\"business\" - Google News",
+    "url": "https://news.google.com/search?q=business&hl=en-US&gl=US&ceid=US:en",
+    "image": "https://storage.googleapis.com/site-assets/XH-mf4ORbk_ZsxUqSneDKqgqNqbCy_n1TVfDrUixbPA_sicon-16763a54889"
+  },
+  {
+    "title": "Financial Post - Top Stories",
+    "url": "https://business.financialpost.com",
+    "image": "https://storage.googleapis.com/site-assets/ekZeSDD3heRnUJtNCkSxkenoMuqmNS5h0FO9iqPNIjs_icon-1644f964c53"
+  },
+  {
+    "title": "Harvard Business Review (uploads) on YouTube",
+    "url": "https://youtube.com/playlist?list=UUWo4IA01TXzBeGJJKWHOG9g",
+    "image": "https://storage.googleapis.com/site-assets/5cPggJ2lh442a_RtPY9fzT4I640D8ckQw4-_s77cB4A_sicon-161f1f8ac75"
+  },
+  {
+    "title": "Investment Banking",
+    "url": "https://www.ft.com/stream/6f2d135e-ea98-4b47-a1cf-2c24b88749cb",
+    "image": "https://storage.googleapis.com/site-assets/6WFTGpXTOMOIQASNtqYnXWr8Vq3HLLqAiGNQbWnCJlg_icon-16198a1f52b"
+  },
+  {
+    "title": "rediff Business",
+    "url": "http://www.rediff.com/money/index.html"
+  },
+  {
+    "title": "Strategyzer",
+    "url": "https://blog.strategyzer.com/",
+    "image": "https://storage.googleapis.com/site-assets/UQkkeWEPKl5sM9KWcWDmPvW5hbUcB65vZcCWywYaNQA_icon-16348eab697"
+  },
+  {
+    "title": "NBC News Business",
+    "url": "https://www.nbcnews.com/",
+    "image": "https://storage.googleapis.com/site-assets/bbC9NG2U2sZRw4MC8THImo9SZm2M3NT7W8pE-Cu2u-M_icon-1699ca67dbf"
+  },
+  {
+    "title": "Side Hustle Nation",
+    "url": "https://www.sidehustlenation.com"
+  },
+  {
+    "title": "Black Enterprise",
+    "url": "https://www.blackenterprise.com",
+    "image": "https://storage.googleapis.com/site-assets/tD_RVjb6zHIEBWX8Kb_ZrQBuFbMr25gUN5Iaut476Ic_icon-168118e90da"
+  },
+  {
+    "title": "re:Work - The Water Cooler",
+    "url": "https://rework.withgoogle.com/blog/",
+    "image": "http://storage.googleapis.com/site-assets/H8W9J4iJP8wkaKMSXSN_J4WOV9qx3gx9RXeA5HUvqlE_sicon-154285a7abf"
+  },
+  {
+    "title": "The Hustle",
+    "url": "http://thehustle.co"
+  },
+  {
+    "title": "FOX Business",
+    "url": "http://www.foxbusiness.com/",
+    "image": "https://storage.googleapis.com/site-assets/E4R0rHH98LAujIMrQRgeSoeYdp2DgRPFms1ebdkwRMI_sicon-161b80cebc3"
+  },
+  {
+    "title": "Business : NPR",
+    "url": "https://www.npr.org/templates/story/story.php?storyId=1006",
+    "image": "https://storage.googleapis.com/site-assets/1ZNtOBsGoRr2TWHw8zmCJRAZa585m8vnReiLKP_JiBo_icon-15f9fdd269a"
+  },
+  {
+    "title": "L.A. Times - Business",
+    "url": "http://www.latimes.com/business/rss2.0.xml",
+    "image": "https://storage.googleapis.com/site-assets/7T5v_g9W8F5bQcOw5jAJEb4IJFAYOU2JG_hdy8ngOzM_icon-165fe5039eb"
+  },
+  {
+    "title": "BusinessNewsDaily.com",
+    "url": "https://www.businessnewsdaily.com/",
+    "image": "https://storage.googleapis.com/site-assets/ujwaaAzv3ynGZ8tGpSL9Cs7wBMIwDYar-kpZOsCCS-U_icon-15fbed824aa"
+  },
+  {
+    "title": "Canadian Business – Your Source For Business News",
+    "url": "https://www.canadianbusiness.com",
+    "image": "https://storage.googleapis.com/site-assets/B6TmvfaUeXg3th-h0kWUdx-3viQsqfLpirhvaJB9TRM_icon-1644a902ce7"
+  },
+  {
+    "title": "GrowthLab",
+    "url": "https://growthlab.com",
+    "image": "https://storage.googleapis.com/site-assets/uPoz2K6D7dFQxvNZl-sc64GDUCodb5aUMOAK_mZRa_s_sicon-15e6a997470"
+  },
+  {
+    "title": "Foundr",
+    "url": "https://foundr.com",
+    "image": "https://storage.googleapis.com/site-assets/d7fxJePrgdHaitpdVFHq8ahDlOLSWlif-TnBKyAN8FY_icon-15e6296fb04"
+  },
+  {
+    "title": "\"harvard business review\" - Google News",
+    "url": "https://news.google.com/search?q=harvard+business+review&hl=en-US&gl=US&ceid=US:en",
+    "image": "https://storage.googleapis.com/site-assets/UpbCdUp0c2DsIuCeR4Hf6XiDEmvG3qEwAhwySVEoonc_sicon-16763a63016"
+  }
+]

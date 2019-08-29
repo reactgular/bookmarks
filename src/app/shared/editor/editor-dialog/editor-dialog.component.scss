@@ -1,0 +1,39 @@
+@import "../config";
+
+:host {
+
+    .outer-frame {
+        display: flex;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+        opacity: 0;
+    }
+
+    tag-card-edit {
+        display: block;
+        width: $card-editor-width;
+        pointer-events: auto;
+    }
+
+    .outer-frame.hidden_layout {
+        align-items: center;
+        justify-content: center;
+        opacity: 0;
+    }
+
+    .outer-frame.animating {
+        opacity: 1;
+    }
+
+    .outer-frame.visible_layout {
+        align-items: center;
+        justify-content: center;
+        opacity: 1;
+    }
+}

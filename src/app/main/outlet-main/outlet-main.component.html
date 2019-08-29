@@ -1,0 +1,9 @@
+<tag-general-tool-bar></tag-general-tool-bar>
+<tag-side-bar-overlay *ngIf="showOverlay$ | async"></tag-side-bar-overlay>
+<div class="main-outlet">
+    <router-outlet></router-outlet>
+    <div *ngIf="someSelected$ | async"
+         class="selection-overlay"
+         (click)="clearSelection()"></div>
+</div>
+<tag-side-bar-panels></tag-side-bar-panels>

@@ -1,0 +1,29 @@
+@import "../config";
+
+:host {
+    $height: 2px;
+
+    display: block;
+    position: relative;
+    height: $height;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+
+    &.top {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 2000;
+        background-color: transparent;;
+    }
+
+    .bar {
+        display: block;
+        position: relative;
+        background-color: $primary;
+        height: $height;
+        width: 0;
+        box-shadow: 0 0 8px rgba($primary, 0.5);
+    }
+}

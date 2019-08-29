@@ -1,0 +1,27 @@
+@import "../config";
+
+:host {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    min-width: 0;
+
+    .txt {
+        display: flex;
+        color: $white;
+        flex-grow: 1;
+        min-width: 0;
+    }
+
+    .logo {
+        display: flex;
+        background-image: url("/assets/logo/reactgular-logo-64.png");
+        background-size: $_64px $_64px;
+        width: $_64px;
+        height: $_64px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: map-get($spacers, 3);
+    }
+}

@@ -1,0 +1,4 @@
+<ng-container *ngFor="let tool of tools; let indx = index">
+    <hr *ngIf="isSeparated(indx, tools)" class="separator">
+    <tag-reactive-tool mode="button" [tool]="tool"></tag-reactive-tool>
+</ng-container>

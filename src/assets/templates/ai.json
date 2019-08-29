@@ -1,0 +1,492 @@
+[
+  {
+    "title": "Google AI Blog",
+    "url": "http://ai.googleblog.com/",
+    "image": "https://storage.googleapis.com/site-assets/pWClOtlZIG9udPVjdsMP8XbYc2AFwEu_nwunfGkdSEs_sicon-16343b7027a"
+  },
+  {
+    "title": "Microsoft Research",
+    "url": "https://www.microsoft.com/en-us/research",
+    "image": "https://storage.googleapis.com/site-assets/EBf6TycQErOeGrg4af20NGee70vqObmft3vMoPVjJcE_icon-15befe69232"
+  },
+  {
+    "title": "No Free Hunch",
+    "url": "http://blog.kaggle.com",
+    "image": "http://storage.googleapis.com/site-assets/L89srjhd1NwVkT_n-ZeCmrBORqaT9TsnzMJ1BGo9zWo_icon-154127fc1ba"
+  },
+  {
+    "title": "Singularity Hub",
+    "url": "https://singularityhub.com",
+    "image": "https://storage.googleapis.com/site-assets/yj7GtLn6A9UWo3t7lXjz7CUrJ2Wtru1DTlnvFm7d6Bs_icon-16690bee48d"
+  },
+  {
+    "title": "Machine Learning (Theory)",
+    "url": "http://hunch.net",
+    "image": "https://storage.googleapis.com/test-site-assets/l2lKHpFaBONW95mPAXAULLgio8DXgbnUvTP4cNhaGsA_oicon-1658681e01f"
+  },
+  {
+    "title": "KDnuggets",
+    "url": "https://www.kdnuggets.com",
+    "image": "https://storage.googleapis.com/site-assets/oTrBGDRUbWQ5Ct_9MNFXGRyrWMMBZMTNkDErsjOe3MI_icon-15f29a24d44"
+  },
+  {
+    "title": "ScienceDaily - Artificial Intelligence",
+    "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+    "image": "https://storage.googleapis.com/site-assets/IpHv-jDa6w_19ua6Hl6Q5EvmDwiahgs9zXPtEBF5Tng_icon-16196958ddc"
+  },
+  {
+    "title": "Machine Learning Mastery",
+    "url": "https://machinelearningmastery.com",
+    "image": "https://storage.googleapis.com/site-assets/xZl-APZYg1FzY5Ag6yC_pmDgpByIbz2YTf_4eD8ZJuI_sicon-15e08c33207"
+  },
+  {
+    "title": "Machine Learning",
+    "url": "https://www.reddit.com/r/MachineLearning/",
+    "image": "https://storage.googleapis.com/site-assets/CFnlVUX7rGI_CuvDC5qIXBTgZ9Q2rngCwe-FcggKVwM_icon-169e808c1ba"
+  },
+  {
+    "title": "Artificial Intelligence",
+    "url": "https://www.reddit.com/r/artificial/",
+    "image": "https://storage.googleapis.com/site-assets/daShR8m1s9Tn1IN9Xm295f_dvVR81gFcCS-R-8OBYnk_icon-169e40e5d2c"
+  },
+  {
+    "title": "MIT News - Computer Science and Artificial Intelligence Laboratory ",
+    "url": "https://www.csail.mit.edu/",
+    "image": "https://storage.googleapis.com/site-assets/NwHO2cNXnJxomKwaSvhGDBXV4Lc7B4INaC4YnMl3_fs_icon-165b2fd6670"
+  },
+  {
+    "title": "DataTau",
+    "url": "http://www.datatau.com/",
+    "image": "http://storage.googleapis.com/site-assets/xwEsjNyF_YlTJRFII-XuqUVXL5MzTUGbo4oE4htjcN8_sicon-154139796fe"
+  },
+  {
+    "title": "Kurzweil » news",
+    "url": "http://www.kurzweilai.net",
+    "image": "https://storage.googleapis.com/site-assets/FrHPYiRX6kKtQ5t3GoBeRm6HqZG6yTxmM-VWMfu5JgI_sicon-162b7601fc0"
+  },
+  {
+    "title": "OpenAI ",
+    "url": "https://blog.openai.com"
+  },
+  {
+    "title": "Kurzweil",
+    "url": "http://www.kurzweilai.net",
+    "image": "https://storage.googleapis.com/site-assets/sD6Q8JBmpoxr2rkHdywQrw_7-Q7dlQTgC9d8nqzgSdk_sicon-162b7626fcb"
+  },
+  {
+    "title": "Machine Learning Blog",
+    "url": "https://blogs.technet.microsoft.com/machinelearning",
+    "image": "https://storage.googleapis.com/site-assets/ITCMTAllf42b-RWHwCuBGlkdvnfVXMl_X05-PUvnlvo_icon-1600743e938"
+  },
+  {
+    "title": "The Guardian - Artificial intelligence",
+    "url": "https://www.theguardian.com/technology/artificialintelligenceai",
+    "image": "https://storage.googleapis.com/site-assets/xDpHpGAcQ764xfK-TXJpfldzHyzRJqZNXOjonG4wtx4_icon-167084f6689"
+  },
+  {
+    "title": "Artificial Intelligence Weekly",
+    "url": "http://aiweekly.co/issues",
+    "image": "http://storage.googleapis.com/site-assets/XFcv11wbE3_MbJZXRNPGjiNe7RWOZ-VfsAwuEpKYxy8_sicon-15428582384"
+  },
+  {
+    "title": "MIT News - Robotics",
+    "url": "http://news.mit.edu/topic/mitrobotics-rss.xml",
+    "image": "https://storage.googleapis.com/site-assets/urnuozH9ouFZl1vlj3OBj1uWXy74HyvfkAuC4XTPawU_icon-15f9820aab2"
+  },
+  {
+    "title": "DeepMind ",
+    "url": "https://deepmind.com/blog/",
+    "image": "https://storage.googleapis.com/test-site-assets/ycZq4kSKHUSKenXbLcJeyA3JYSM_zY89qgB5ndrd5Xs_oicon-16587fd9702"
+  },
+  {
+    "title": "Distill",
+    "url": "https://distill.pub",
+    "image": "https://storage.googleapis.com/site-assets/9OlOHhO-4O1s8B9KBVhogF3IxcG17rQ6WoJqg2UIGaY_icon-15d645e15af"
+  },
+  {
+    "title": "Towards Data Science - Medium",
+    "url": "https://towardsdatascience.com?source=rss----7f60cf5620c9---4",
+    "image": "https://storage.googleapis.com/site-assets/pC8eyprOu8BZHgA6hwFmQZIQlJUhxSGSyzTSLmmNQSw_icon-15f959e5e0b"
+  },
+  {
+    "title": "Apple Machine Learning Journal",
+    "url": "https://machinelearning.apple.com/",
+    "image": "https://storage.googleapis.com/site-assets/C3Xs_BtGx7dr6dPhH0flS_tHz09UWt9UXXU0iRf-XEs_sicon-15ec6ac2cb1"
+  },
+  {
+    "title": "The Official NVIDIA Blog",
+    "url": "https://blogs.nvidia.com",
+    "image": "http://storage.googleapis.com/site-assets/U7ZODdLIgpnrzJ3qF0L2gT6lsM4-onSec4TJGrPks4Q_icon-15415d2a465"
+  },
+  {
+    "title": " Machine Intelligence Research Institute ",
+    "url": "https://intelligence.org",
+    "image": "https://storage.googleapis.com/site-assets/lOoQ-GzAEvRhqPwMhgHyJCx6j7ssK3oggzYvMqJ0_bw_icon-15edf3bb14b"
+  },
+  {
+    "title": "New York Times - Artificial Intelligence ",
+    "url": "http://www.nytimes.com/topic/subject/artificial-intelligence",
+    "image": "https://storage.googleapis.com/site-assets/He_vdIHUpu50uhGv9p-ST8IJtYwC0dwixqu549hl_64_icon-1691082a1a0"
+  },
+  {
+    "title": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/",
+    "image": "https://storage.googleapis.com/site-assets/Fk1XJ9pLJgGyuv6Ap20tmTlLCTVt9yPX6x_yefbSvU0_sicon-160df182e5c"
+  },
+  {
+    "title": "Robohub",
+    "url": "https://robohub.org",
+    "image": "https://storage.googleapis.com/site-assets/tyAVBaif9_rZDXSeUD_csOF0nwCcpBqCa_I7SUEs2eA_icon-16459e68e04"
+  },
+  {
+    "title": "The AI Blog",
+    "url": "https://blogs.microsoft.com/ai",
+    "image": "https://storage.googleapis.com/site-assets/IGaTmdErdxXA_Ob5RwZEsmNj8u2q3ZkEkQeBcWlel2U_icon-16289c91f05"
+  },
+  {
+    "title": "Blog – Facebook Research",
+    "url": "https://research.fb.com",
+    "image": "https://storage.googleapis.com/site-assets/EBtqjUPjgBfQna5mlDQrKxIZotDJ4NvnTedIKCbhzz0_sicon-15b64ad6c60"
+  },
+  {
+    "title": "Chatbots Magazine - Medium",
+    "url": "https://chatbotsmagazine.com?source=rss----d6dc2c824f17---4",
+    "image": "https://storage.googleapis.com/site-assets/eQ2_NF_x5kv9Gf09gg9hpfT0vr-RqFuoTfH_1TQ33mg_icon-15b92ab6c29"
+  },
+  {
+    "title": "The Berkeley Artificial Intelligence Research Blog",
+    "url": "http://bair.berkeley.edu/blog/",
+    "image": "https://storage.googleapis.com/site-assets/sKXhPacXoZcRVzv1YBxH3Ztfj1AczdWn6N2quHEMzcc_sicon-162b38439f6"
+  },
+  {
+    "title": "cs.AI updates on arXiv.org",
+    "url": "http://arxiv.org/",
+    "image": "https://storage.googleapis.com/site-assets/ixIEYBNfjES8d9iX-CeRNj_2VID6LM8hV4LVw-m3KRk_icon-16149fae385"
+  },
+  {
+    "title": "The Official Blog of BigML.com",
+    "url": "https://blog.bigml.com",
+    "image": "https://storage.googleapis.com/site-assets/MiXeY_TncAOyjevP5e5KlpGqHcvW9EtPE_EorJr5k6k_icon-1668f0aa84e"
+  },
+  {
+    "title": "inFERENCe",
+    "url": "https://www.inference.vc/"
+  },
+  {
+    "title": "O'Reilly - Artificial Intelligence",
+    "url": "https://www.oreilly.com/topics/ai",
+    "image": "https://storage.googleapis.com/site-assets/AS0g47ezezBOlfr2kYxz7HHaIHtBcyp0ncqGjjvL47E_icon-165b2fdaf23"
+  },
+  {
+    "title": "fast.ai",
+    "url": "http://www.fast.ai/",
+    "image": "https://storage.googleapis.com/site-assets/jdPejyYrV9sEbUBnafe9HvY1pRdpuK4VQctxcFkNk9g_sicon-15b645e8e03"
+  },
+  {
+    "title": "AI Trends",
+    "url": "https://www.aitrends.com"
+  },
+  {
+    "title": "Communications of the ACM - Artificial Intelligence ",
+    "url": "https://cacm.acm.org/news?subject=1",
+    "image": "https://storage.googleapis.com/site-assets/0y3ZIlZGDxD1wXoFZFsJF0828JgwL5XPs0guhahNCpc_icon-167f5ee2d95"
+  },
+  {
+    "title": "\"artificial intelligence\" - Google News",
+    "url": "https://news.google.com/search?q=artificial+intelligence&hl=en-US&gl=US&ceid=US:en",
+    "image": "https://storage.googleapis.com/site-assets/rTDhGs1Oc8Rv0f9DORyr7G0lUVsU-tkeAtk8eFgwp6U_sicon-16763a56f4c"
+  },
+  {
+    "title": "Singularity Weblog",
+    "url": "https://www.singularityweblog.com",
+    "image": "https://storage.googleapis.com/site-assets/7PA-ME3PCwEXmQ8JMTCTpCbz4ILzN7IlqdKVJ7wZ6D8_icon-15c102fa51f"
+  },
+  {
+    "title": "Chatbots Life - Medium",
+    "url": "https://chatbotslife.com?source=rss----a49517e4c30b---4",
+    "image": "https://storage.googleapis.com/site-assets/CJpAnCrYzc-1F876F19l0ueYgpI29CCFBYlW7jU5q4s_icon-161210dd101"
+  },
+  {
+    "title": "Natural Language Processing",
+    "url": "https://www.reddit.com/r/LanguageTechnology/",
+    "image": "https://storage.googleapis.com/site-assets/XdAqXOOyOwd-ZmR1xTM8vk9q26BRo7ZDrrR-Dunc5C4_icon-169e69cea03"
+  },
+  {
+    "title": "Artificial Intelligence – TechCrunch",
+    "url": "https://techcrunch.com",
+    "image": "https://storage.googleapis.com/site-assets/dEefNwN6VCaLIlsEzefzozQPhrg9ETf1PW84CyFhBBo_sicon-169e5de6f6c"
+  },
+  {
+    "title": "Deep Learning Weekly",
+    "url": "http://digest.deeplearningweekly.com/",
+    "image": "https://storage.googleapis.com/site-assets/F4M1zECu4af-ZL4dgHgAtVJZU_8R1MLaFD6TVu0lwrk_icon-15b9775c243"
+  },
+  {
+    "title": "Import AI",
+    "url": "https://jack-clark.net",
+    "image": "https://storage.googleapis.com/site-assets/yoh1uBNmx2VU6h91Xmjqd93y-EqZ4gtU3H9YEngsERw_sicon-15b645ddd20"
+  },
+  {
+    "title": "Deep Learning on Medium",
+    "url": "https://medium.com/tag/deep-learning/latest?source=rss------deep_learning-5",
+    "image": "https://storage.googleapis.com/site-assets/0ZKT1bqE6YmSdrWp6HZCUnbMy2QCYl_Y_G_LzBayWqc_sicon-15ee06f7dd4"
+  },
+  {
+    "title": "AI Impacts",
+    "url": "http://aiimpacts.org",
+    "image": "https://storage.googleapis.com/site-assets/fJ3W73iAhWmpAvKPEL4HdPFTuD-NiJ8YFXs1IEZew_0_sicon-15ec74be223"
+  },
+  {
+    "title": "Algorithmia Blog",
+    "url": "https://blog.algorithmia.com",
+    "image": "https://storage.googleapis.com/site-assets/20tAExShAQEEUCMDXqXKkXAKdXMeA9Rvcav680eAk4I_icon-164b875bcef"
+  },
+  {
+    "title": "Artificial Intelligence on Medium",
+    "url": "https://medium.com/tag/artificial-intelligence/latest?source=rss------artificial_intelligence-5",
+    "image": "https://storage.googleapis.com/site-assets/OwoJpJrifS7PAPz41DYjpioRVa6Mvpq-qMDvgIKMqLM_sicon-15ee07beca0"
+  },
+  {
+    "title": "MIT News - Artificial intelligence",
+    "url": "http://news.mit.edu/topic/mitartificial-intelligence2-rss.xml",
+    "image": "https://storage.googleapis.com/site-assets/3zP4eP7w9gIZTPYVlyM-PU_80DlaaFcyfuefKw92QQ8_icon-15fd899f7be"
+  },
+  {
+    "title": "Machine Learnings - Medium",
+    "url": "https://machinelearnings.co?source=rss----6b021343882e---4",
+    "image": "https://storage.googleapis.com/site-assets/1Yo05JuL_H7xgwS55hj1jVgx8evOJm48VB_-nqkAqfU_sicon-15cd3495fd7"
+  },
+  {
+    "title": "Future of Life Institute",
+    "url": "https://futureoflife.org",
+    "image": "https://storage.googleapis.com/site-assets/JTpdZjHTUDWBxgq6qmmMYG82WLqBwViv8GcnsReg8pk_icon-15b931ec250"
+  },
+  {
+    "title": "TOPBOTS",
+    "url": "https://www.topbots.com",
+    "image": "https://storage.googleapis.com/site-assets/f7SCBvHdtw4PU8JYTIu_1_7bUsmsWFVbnxxbpDtsUhk_icon-169d484fb6a"
+  },
+  {
+    "title": "TensorFlow - Medium",
+    "url": "https://medium.com/tensorflow?source=rss----dca47aab201b---4",
+    "image": "https://storage.googleapis.com/site-assets/dTd9JMGr_Nx71S7YEVJl71a4KvmxTelm9FbuN8IU9qk_icon-1628018b3b3"
+  },
+  {
+    "title": "\"deep learning\" - Google News",
+    "url": "https://news.google.com/search?q=deep+learning&hl=en-US&gl=US&ceid=US:en",
+    "image": "https://storage.googleapis.com/site-assets/jjopCR3EU3I9lL8ZOS_7L_M6aeem2ZB0qT0C2ykXF10_sicon-16763a691b4"
+  },
+  {
+    "title": "Deep Learning",
+    "url": "https://www.reddit.com/r/deeplearning/",
+    "image": "https://storage.googleapis.com/site-assets/mfBu4OjWKG4FbgEaa2ZJ3U1-NEPPinIs6AtfMPBcD68_icon-15c6e3bb481"
+  },
+  {
+    "title": "Latest Results for Artificial Intelligence Review",
+    "url": "http://link.springer.com",
+    "image": "https://storage.googleapis.com/site-assets/KfFDxhIxId8rr298pc--zhdeZ3ACl5Bdzfk0b-eCN7k_sicon-1696b918a33"
+  },
+  {
+    "title": "DeepMind - YouTube",
+    "url": "https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A",
+    "image": "https://storage.googleapis.com/site-assets/p_-z2rXmAYyugh_6WvC3hWZ_TghKqY-2wQ0ORChb1og_sicon-161d5afeb7a"
+  },
+  {
+    "title": "deep learning – VentureBeat",
+    "url": "https://venturebeat.com",
+    "image": "https://storage.googleapis.com/site-assets/qtgPVoQ6IHwUv96dvXeWeVmFAgbjIxXyhZ602fTiAmM_icon-15b936f1336"
+  },
+  {
+    "title": "CFPs on Artificial Intelligence : WikiCFP",
+    "url": "http://www.wikicfp.com/cfp/call?conference=artificial%20intelligence",
+    "image": "http://storage.googleapis.com/site-assets/PQGKVW99wb9s9ZJFQIaoB1I4ew4zDrAr9cMa6QBmmOU_sicon-15427b0360d"
+  },
+  {
+    "title": "The Gradient",
+    "url": "https://thegradient.pub/"
+  },
+  {
+    "title": "DZone AI Zone",
+    "url": "https://dzone.com/artificial-intelligence-tutorials-tools-news",
+    "image": "https://storage.googleapis.com/site-assets/u3gw_8APR58qqCwRFFIMnegNU6EvfFf-8b0T85BLES8_icon-1665552a53f"
+  },
+  {
+    "title": "ScienceDirect Publication: Artificial Intelligence",
+    "url": "https://www.sciencedirect.com/journal/artificial-intelligence",
+    "image": "https://storage.googleapis.com/site-assets/FtdT-uakUAk1-2odT-YAnKaslhRbwJD--VdhptdymyU_icon-169c50d961b"
+  },
+  {
+    "title": "Becoming Human: Artificial Intelligence Magazine - Medium",
+    "url": "https://becominghuman.ai?source=rss----5e5bef33608a---4",
+    "image": "https://storage.googleapis.com/site-assets/l9YqcawT9X-0DZgh2MkP-JuXDzdrAOfuQYMwiG9IZzo_sicon-166c5b6b435"
+  },
+  {
+    "title": "Emerj",
+    "url": "https://emerj.com",
+    "image": "https://storage.googleapis.com/site-assets/67ehSg9_xUNWH54FE-G2PEyBMAVNoJ5cK-RCcygswRM_icon-1678ce941c3"
+  },
+  {
+    "title": "Intuition Machine - Medium",
+    "url": "https://medium.com/intuitionmachine?source=rss----d777623c68cf---4",
+    "image": "https://storage.googleapis.com/site-assets/cISIB0r3ET0IufEGSUnvgZLajO71MHV4Alap4tUUmN0_icon-15e23569de7"
+  },
+  {
+    "title": "This Week in Machine Learning & AI",
+    "url": "https://twimlai.com",
+    "image": "https://storage.googleapis.com/site-assets/l4-_-xUzdIFcT4CeAgJopZo0ZHon1NEhs3YjWenqaC8_icon-15f430bf36d"
+  },
+  {
+    "title": "Research Publications",
+    "url": "https://deepmind.com/research/publications/"
+  },
+  {
+    "title": "Piekniewski's blog",
+    "url": "https://blog.piekniewski.info"
+  },
+  {
+    "title": "The World's Number One Portal for Artificial Intelligence in Business",
+    "url": "https://aibusiness.com",
+    "image": "https://storage.googleapis.com/site-assets/ORTr6B565jwqa5b9fzKEPs3gI3TvouiWVmK64gO1bJ0_icon-16831cd569d"
+  },
+  {
+    "title": "What’s next",
+    "url": "https://whatsnext.nuance.com",
+    "image": "https://storage.googleapis.com/site-assets/sZMC9V4oudtL3kLmF1UelJcuJlvtBfYqSTa-uuopai8_icon-160cbcecced"
+  },
+  {
+    "title": "AI News",
+    "url": "https://www.artificialintelligence-news.com",
+    "image": "https://storage.googleapis.com/site-assets/yoyj7eKqXJaMOV4-uPjalVuNBkNRwLT8kj_e6_SfN2w_icon-162af2a33a4"
+  },
+  {
+    "title": "Artificial Intelligence for Games",
+    "url": "https://www.reddit.com/r/gameai/",
+    "image": "https://storage.googleapis.com/site-assets/C_oRDjg3HxRb4mdpqF-zDM12IA36_OovzZ7PJMYWOl0_icon-15c6d76ce9d"
+  },
+  {
+    "title": "Intel AI",
+    "url": "https://www.intel.ai",
+    "image": "https://storage.googleapis.com/site-assets/FHEvNlIYqAjtlYl5lQMUolokQpgBrUsuXT5G2v71MxY_sicon-1686527aca9"
+  },
+  {
+    "title": "Artificial Intelligence Blog » Artificial Intelligence Blog »",
+    "url": "http://artent.net"
+  },
+  {
+    "title": "AI Magazine | Artificial Intelligence News and Discussions",
+    "url": "https://paper.li/DorianStaten/1434338693",
+    "image": "https://storage.googleapis.com/site-assets/X8Gi2tEeYgzuCBl54H7XKRv-PyCqMy_dWcZtKftdyyw_sicon-1677eae2294"
+  },
+  {
+    "title": "The Vital Edge by Gideon Rosenblatt",
+    "url": "https://www.the-vital-edge.com",
+    "image": "https://storage.googleapis.com/site-assets/0kCrouzEE5ImVXF2ZKVVjFPCsxNQ5OU87dlwsj92bt4_icon-166b46997bd"
+  },
+  {
+    "title": "World Economic Forum | Agenda | Artificial Intelligence and Robotics",
+    "url": "https://www.weforum.org",
+    "image": "https://storage.googleapis.com/site-assets/9MQb2RWdBX6zcJgvkOyIsox7VIucoqR0hP54Gl6UKR8_icon-15fa0914f9d"
+  },
+  {
+    "title": "Artificial Intelligence and Deep Learning Weekly",
+    "url": "http://aidl.io/issues",
+    "image": "https://storage.googleapis.com/site-assets/YIIBKXcq-3J7F3xSzU9CkvHJqlBiuhHszqERQ0Voits_sicon-15ca8a268d5"
+  },
+  {
+    "title": "OpenCog Brainwave",
+    "url": "https://blog.opencog.org",
+    "image": "https://storage.googleapis.com/site-assets/ehsHKRPcf8YrNWyjRm2D9-ruELUnwHzfd3ZO927YNJQ_sicon-164076c250e"
+  },
+  {
+    "title": "人工智能",
+    "url": "http://www.newsmth.net/nForum/board/AI",
+    "image": "http://storage.googleapis.com/site-assets/_ZmnDalgaUWOqrGvKE9tCr_Bohqu-TR0MfXeimFG89I_sicon-15428340ea6"
+  },
+  {
+    "title": "\"AI\" - Google News",
+    "url": "https://news.google.com/search?q=AI&hl=en-US&gl=US&ceid=US:en",
+    "image": "https://storage.googleapis.com/site-assets/qihWzH63cdgC9GyaFAmCSGYkA4A7JbHoadmiuNr8PTQ_sicon-16763b1fc78"
+  },
+  {
+    "title": "Handpicked stories about Artificial Intelligence on Medium",
+    "url": "https://medium.com/topic/artificial-intelligence?source=rss-------8-----------------artificial_intelligence",
+    "image": "https://storage.googleapis.com/site-assets/aDN2clUiA2RksovvByjjUuJzBFow6IBG3N25BmoPaTs_icon-16581ff988b"
+  },
+  {
+    "title": "Skynet Today",
+    "url": "https://www.skynettoday.com/",
+    "image": "https://storage.googleapis.com/site-assets/4JLYgV2JwhP9NGaH5hDsponAbxNemLvkxy7goS-EI3w_icon-16362bcf14b"
+  },
+  {
+    "title": "Synced",
+    "url": "https://syncedreview.com",
+    "image": "https://storage.googleapis.com/site-assets/t09fVHoWWsZbbLItZi0QuuhxXKEY3DTY1MJ66h7eoE4_icon-15faaf2a79e"
+  },
+  {
+    "title": "MAII",
+    "url": "https://www.marketingaiinstitute.com/blog"
+  },
+  {
+    "title": "AI – VentureBeat",
+    "url": "https://venturebeat.com",
+    "image": "https://storage.googleapis.com/site-assets/s-9S2df7ZC1Ojqxi0Mq1_UIrXjTAKwLcuJZNhaJasB4_icon-15cd9ba6a8c"
+  },
+  {
+    "title": "The Partnership on AI",
+    "url": "https://www.partnershiponai.org",
+    "image": "https://storage.googleapis.com/site-assets/Iqzt-jgOZ-jafRbolSmLSNveVAr8sleG7ayhxPOpGF4_icon-168ad5a27cd"
+  },
+  {
+    "title": "机器之心",
+    "url": "https://www.jiqizhixin.com/",
+    "image": "https://storage.googleapis.com/site-assets/wyJEX1bqxCWECfPfYfKCoWuY22j1Akx7N47Pwclmkq4_icon-15fe8b9f1ac"
+  },
+  {
+    "title": "Watson",
+    "url": "https://www.ibm.com/blogs/watson",
+    "image": "https://storage.googleapis.com/site-assets/VkE0w3LC3GnLQqZzLTVYfoFv7a1bMhu-XzIM96Ne2gQ_sicon-1679d07eebf"
+  },
+  {
+    "title": "into.AI",
+    "url": "http://into.ai",
+    "image": "https://storage.googleapis.com/site-assets/2KFUHP3w5A1SP_yEtXVVzMTN-v8S6QwpjrY10ZkMzpI_sicon-166ceb9b58b"
+  },
+  {
+    "title": "Numenta",
+    "url": "https://www.youtube.com/channel/UCLNQzXAfcH8H8cMmG0sfV6g",
+    "image": "https://storage.googleapis.com/site-assets/7k23vKT1VrtMpIOYh_i7JrWF85pdsIs7-GPhrc73SV0_sicon-161be869301"
+  },
+  {
+    "title": "Intelligent Agent Foundations Forum",
+    "url": "http://agentfoundations.org/",
+    "image": "http://storage.googleapis.com/site-assets/V4luGxduBw2hIErACH-D-fBAlRrjKi7FFTx130uAKpk_sicon-15428518db3"
+  },
+  {
+    "title": "\"artificial intelligence\" - Google News",
+    "url": "https://news.google.com/search?q=artificial+intelligence&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "title": "Mighty AI",
+    "url": "https://mighty.ai",
+    "image": "https://storage.googleapis.com/site-assets/krg0ywApOHk6OtoHlS3HV9Rf-Q7ZfSuvB_9Jusqzhug_sicon-1654c7df8e6"
+  },
+  {
+    "title": "AI – IBM Research Blog",
+    "url": "https://www.ibm.com/blogs/research",
+    "image": "https://storage.googleapis.com/site-assets/qmlFo__jBsWNTh9oexOzhy3Tn2ip3PmTtZBZCCZ2YRk_icon-165aab06e73"
+  },
+  {
+    "title": "The Register - Emergent Tech: Artificial Intelligence",
+    "url": "https://www.theregister.co.uk/emergent_tech/artificial_intelligence/",
+    "image": "https://storage.googleapis.com/site-assets/J9JW1KufxBVOOt9Yu8SYXjbLSrNG0g4NNurY8iuBdkw_icon-15e8a8a3464"
+  },
+  {
+    "title": "Import AI Newsletter Archive Feed",
+    "url": "https://us13.campaign-archive.com/feed?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c"
+  },
+  {
+    "title": "Evolv",
+    "url": "https://www.evolv.ai",
+    "image": "https://storage.googleapis.com/site-assets/MCN1W0dACSLFmkS6FzY1hnUVoKlXsocNzu07OQr3g-o_icon-169a9843ade"
+  }
+]

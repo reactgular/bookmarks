@@ -1,0 +1,29 @@
+@import "../config";
+
+:host {
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    align-items: center;
+    justify-content: center;
+
+    .loader-frame {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        fa-icon {
+            font-size: $_64px;
+            color: $gray-200;
+        }
+
+        .message {
+            font-size: $_18px;
+            color: $gray-800;
+        }
+    }
+}

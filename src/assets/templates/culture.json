@@ -1,0 +1,498 @@
+[
+  {
+    "title": "TED Talks Daily (SD video)",
+    "url": "https://www.ted.com/talks",
+    "image": "https://storage.googleapis.com/site-assets/aANiHgsmGDykAZE5mDpF1X6vSBbJgJaU6lIEEstKh6w_icon-15ccd799771"
+  },
+  {
+    "title": "Slate - Culture",
+    "url": "https://slate.com/culture",
+    "image": "https://storage.googleapis.com/site-assets/UYLLtteHwMlBqAJdix1-rZ6nYC29mbsTyVq5t26GzPo_icon-165bd3fa8ed"
+  },
+  {
+    "title": "The Atlantic ",
+    "url": "https://www.theatlantic.com/",
+    "image": "https://storage.googleapis.com/site-assets/PiZyxgIkdjlmli7o0PIIinzT0eRAK6XGvK0WaTRcMRg_icon-15cf2d2e609"
+  },
+  {
+    "title": "Boing Boing",
+    "url": "https://boingboing.net",
+    "image": "http://storage.googleapis.com/site-assets/JbUUmyM9YFYPR8dGzgMM-JhkUnRrsgfeJD5BrLs6POs_icon-154124f4a90"
+  },
+  {
+    "title": "Brain Pickings",
+    "url": "https://www.brainpickings.org",
+    "image": "http://storage.googleapis.com/site-assets/y_OjhWUzyc2_L-QgRQtw37OlnJoPUaP7BF6Gz-IJIQ0_icon-1541550f380"
+  },
+  {
+    "title": "The Art of Manliness",
+    "url": "https://www.artofmanliness.com",
+    "image": "https://storage.googleapis.com/site-assets/8_xASU9jnUEiu07zoh0CYwFQrlKhl9qioiQ5iwzL5Gc_icon-168142bb084"
+  },
+  {
+    "title": "The New Yorker - Culture",
+    "url": "https://www.newyorker.com/culture",
+    "image": "https://storage.googleapis.com/site-assets/C9CfPZRBh-c_qSlXCotKuKjPbIhUHLA4NHKO5PZy49k_icon-165bd400541"
+  },
+  {
+    "title": "VICE",
+    "url": "https://www.vice.com/en_us",
+    "image": "https://storage.googleapis.com/site-assets/MeU9BtSj_A8jPpEQvxjkOT4bvgMzh5zwSPCIxB7OQ10_icon-15b926e823b"
+  },
+  {
+    "title": "COOL HUNTING",
+    "url": "https://coolhunting.com",
+    "image": "https://storage.googleapis.com/site-assets/7PpHKlCCjfAH7q8P6Y6gIz78aO5Birec12yJbSHpyHI_icon-1651da8c142"
+  },
+  {
+    "title": "io9",
+    "url": "https://io9.gizmodo.com",
+    "image": "https://storage.googleapis.com/site-assets/34uZQ3l3EMlh1188WT1P6ZTSyTMdCFLd-8NwYFrkblI_sicon-168c32b171f"
+  },
+  {
+    "title": "BuzzFeed - Latest",
+    "url": "https://www.buzzfeed.com/index",
+    "image": "https://storage.googleapis.com/site-assets/qGfbMSUQ1V2oMsYbIbmUpkD2GmSBUjTl7XPSCjatVPU_sicon-15b649a9f1d"
+  },
+  {
+    "title": "Open Culture",
+    "url": "http://www.openculture.com",
+    "image": "https://storage.googleapis.com/site-assets/pAt2Lmsxlgh2Uif7pfDYLiw4n3QZProR4KYQ_GwRSDA_icon-15b6390c4b8"
+  },
+  {
+    "title": "PostSecret",
+    "url": "http://postsecret.blogspot.com/",
+    "image": "https://storage.googleapis.com/site-assets/X5LPS7lFKBTlmcZrSe2ndYjpP4R_dyRuOPlEUh7OPx4_sicon-162c2f8a00f"
+  },
+  {
+    "title": "Jezebel",
+    "url": "https://jezebel.com",
+    "image": "https://storage.googleapis.com/site-assets/P-PQDBcuTCkFOUa7kqfWaJtuX243Rgnh6acxyGNAn9I_icon-164884b3755"
+  },
+  {
+    "title": "Colossal",
+    "url": "https://www.thisiscolossal.com",
+    "image": "https://storage.googleapis.com/test-site-assets/h6G0uySew8_wqe9QhKT3lnGCwHmA80hk4fLdXCQUjaI_oicon-166b2eb3d72"
+  },
+  {
+    "title": "The A.V. Club",
+    "url": "https://www.avclub.com",
+    "image": "https://storage.googleapis.com/site-assets/-BauHQcQUEmlbwi_54dAX2h3bGtu4uqYAeG0b_nQrSo_icon-166eff19462"
+  },
+  {
+    "title": "kottke.org",
+    "url": "http://kottke.org/",
+    "image": "https://storage.googleapis.com/site-assets/Ks7ygQeckyuYvQjUAmcQ-t9yNvb90TQlD-xXxy0txMc_icon-15b638fb8e9"
+  },
+  {
+    "title": "Vox -  All",
+    "url": "https://www.vox.com/",
+    "image": "https://storage.googleapis.com/site-assets/33Qk4QF65xZ2Kiom-Vs9Q3VHFCy_5Lcwa9OxFkQYJk4_icon-15bc817495b"
+  },
+  {
+    "title": "Salon.com",
+    "url": "https://www.salon.com",
+    "image": "https://storage.googleapis.com/site-assets/0y9nwCias3My5eserPhbWFOMmKwkaGmO-dQt5dMNNQg_icon-167bb3e77fa"
+  },
+  {
+    "title": "WebUrbanist",
+    "url": "https://weburbanist.com",
+    "image": "https://storage.googleapis.com/site-assets/zXJSxVY8pInJ84mEGETZZ0wmwntZM1ihl3FFnviTxlY_icon-15f526cceab"
+  },
+  {
+    "title": "Rolling Stone",
+    "url": "https://www.rollingstone.com",
+    "image": "https://storage.googleapis.com/site-assets/Dl1WNHettX3IppSxFERIHmRiV7QisiJZnDDkSDLSc7I_icon-1645e7d3f2f"
+  },
+  {
+    "title": "Big Think",
+    "url": "https://bigthink.com/",
+    "image": "https://storage.googleapis.com/site-assets/fck2OPWE8yRe8wky-uNYkOOBe3idQ5Y8Q_sUurx_1kI_icon-166c2130640"
+  },
+  {
+    "title": "The New York Review of Books",
+    "url": "https://www.nybooks.com",
+    "image": "https://storage.googleapis.com/site-assets/l3PhQqEZTpJRCpr309ZLo3QxBzOmi-qMBFY9tEeP0_Q_icon-164bbdd8fc1"
+  },
+  {
+    "title": "Letters of Note",
+    "url": "http://www.lettersofnote.com/",
+    "image": "http://storage.googleapis.com/site-assets/3KTD8QMbh1zd6sunQrIJoQOjdT96rwUtTHf_2k2Z7r4_icon-1541251ded7"
+  },
+  {
+    "title": "OZY",
+    "url": "https://www.ozy.com/",
+    "image": "http://storage.googleapis.com/test-site-assets/lBYIou4nmbqIvHzgpMRRU2xEjESdMJ0Z2CNSzactvTQ_oicon-14d6d2f0b32"
+  },
+  {
+    "title": "Quartz",
+    "url": "https://qz.com",
+    "image": "https://storage.googleapis.com/site-assets/t9NJb6rMt3WVivgF5JJtqOwhhWhdxPuJjlu7LCw1vdk_icon-15b926da760"
+  },
+  {
+    "title": "Buzz – 10ztalk",
+    "url": "https://10ztalk.com",
+    "image": "https://storage.googleapis.com/site-assets/F6_9JzHSze036igt8uXHtexzsexaZm3S_NaSv5j5gpQ_sicon-16953509c3a"
+  },
+  {
+    "title": "GOOD",
+    "url": "http://m.good.is/",
+    "image": "https://storage.googleapis.com/site-assets/x7jbDyUOpGgaVThmOc8zV251CmewSN1ZUd4kwdTP5T0_icon-15b8a9a33ae"
+  },
+  {
+    "title": "Bored Panda",
+    "url": "http://www.boredpanda.com",
+    "image": "http://storage.googleapis.com/site-assets/dde5lDFF7i2gSlTMZn7tvTIh2ZoH3cA7Xnq2IqInA9Y_icon-15412559d8d"
+  },
+  {
+    "title": "Aeon",
+    "url": "https://aeon.co",
+    "image": "http://storage.googleapis.com/site-assets/vosPqSnkbWbuUvDujCDv4p8E-iqsOMNKxKesJfhrGrU_icon-15415638f07"
+  },
+  {
+    "title": "Flavorwire",
+    "url": "http://flavorwire.com",
+    "image": "http://storage.googleapis.com/site-assets/ta9z-pUkDMovUszU8subj8mMmL1Oz6AnOREx6Do5cfc_icon-1541258c277"
+  },
+  {
+    "title": "Thought Catalog",
+    "url": "https://thoughtcatalog.com/",
+    "image": "https://storage.googleapis.com/site-assets/J_CBGJJoboBa651whq8xGl1lxDr5ss7MM-HLi4fDkFE_sicon-162cf348d57"
+  },
+  {
+    "title": "NYT > Books",
+    "url": "https://www.nytimes.com/section/books?partner=rss&emc=rss",
+    "image": "https://storage.googleapis.com/site-assets/VN2d82BMjp_VHZjc7vOYnSOBxI8rFGVg0cD9TwWxnL4_icon-1690c015799"
+  },
+  {
+    "title": "Atlas Obscura",
+    "url": "https://www.atlasobscura.com",
+    "image": "https://storage.googleapis.com/site-assets/yWQdzz6_vg_9NzvpU4FvlGZnxHKVOi-N_ya819Fjlcg_icon-168cd8b8cda"
+  },
+  {
+    "title": "vulture",
+    "url": "http://www.vulture.com/blog/",
+    "image": "http://storage.googleapis.com/site-assets/vHM2FkfWkVdqFW_H8Py12sY7zAOKNKiy6fxWQ5v9xAM_icon-15415b75ebb"
+  },
+  {
+    "title": "London Review of Books",
+    "url": "https://www.lrb.co.uk/",
+    "image": "https://storage.googleapis.com/site-assets/zYET_SKQEGwHjAIwhKBzY0N-PMaXMrlhDogFSWqlSSc_icon-160dde838e4"
+  },
+  {
+    "title": "Laughing Squid",
+    "url": "https://laughingsquid.com",
+    "image": "https://storage.googleapis.com/site-assets/iWlk7mZVpolT0f7LpFnW52fuMBQIUzs4hTHvpoYhDqY_icon-161fc7104f2"
+  },
+  {
+    "title": "Neatorama",
+    "url": "https://www.neatorama.com/",
+    "image": "https://storage.googleapis.com/site-assets/P1qGe58QXj54qVbOpfzIUwwCQTrf2JZ4cSPThOIDepw_icon-166dd9e4ce9"
+  },
+  {
+    "title": "The New Republic",
+    "url": "https://newrepublic.com",
+    "image": "https://storage.googleapis.com/site-assets/mL6NrxNdpMTQ6JTyiUJVB8H5VIzA4FinC2nNLgicKeg_icon-161a5737298"
+  },
+  {
+    "title": "Longform",
+    "url": "https://longform.org/",
+    "image": "https://storage.googleapis.com/site-assets/eZVH9YIVcsZFin8Vjr0bJ_iGRKG6YlqAmTyA6xTRPXo_icon-15b926f95b4"
+  },
+  {
+    "title": "The Paris Review",
+    "url": "https://www.theparisreview.org/blog",
+    "image": "https://storage.googleapis.com/site-assets/-mAqcRYe5Db1pGp9USEv1FtCP6Vdf2XuUzv8trg8Sjg_icon-15b92705f6a"
+  },
+  {
+    "title": "Book Reviews and News, Literary Criticism, and Fiction",
+    "url": "https://www.newyorker.com/books",
+    "image": "https://storage.googleapis.com/site-assets/f6tYp3t-Rz-Se1oUAieafNJAiypuXRwQkPxpCEBLH-Y_icon-15e0cb8b5bc"
+  },
+  {
+    "title": "Longreads",
+    "url": "https://longreads.com",
+    "image": "https://storage.googleapis.com/site-assets/8fhRhHZU63He_8dtTuHokrbYtqMWGj2IodDO2X9_Ng0_icon-164b697c765"
+  },
+  {
+    "title": "McSweeney’s",
+    "url": "https://www.mcsweeneys.net/"
+  },
+  {
+    "title": "Nautilus",
+    "url": "http://nautil.us/rss/all",
+    "image": "https://storage.googleapis.com/site-assets/S65pG8T5116n56AmIrqwA0f-yTjIabsNnbHsiawHax0_icon-15cb51499d0"
+  },
+  {
+    "title": "thecut",
+    "url": "https://www.thecut.com/news/",
+    "image": "https://storage.googleapis.com/site-assets/AINYKInZ7RWP2Tt8rvWNgKejCZThIlPQ-SvtdUDUVSE_icon-15e026e5813"
+  },
+  {
+    "title": "Urban Word of the Day",
+    "url": "http://www.urbandictionary.com/",
+    "image": "https://storage.googleapis.com/site-assets/P2xOEzAdtX57FB9_piwPif54rXRAPKDdIRby-M3LccY_icon-15b63921e9a"
+  },
+  {
+    "title": "The Daily Beast Latest Articles",
+    "url": "https://www.thedailybeast.com/?via=rss&source=articles",
+    "image": "https://storage.googleapis.com/site-assets/-tKG5UlMaY9RvpDYiaC7IZrxAzcc2hMSOnS1XdanTqo_icon-163bd680909"
+  },
+  {
+    "title": "Dangerous Minds",
+    "url": "https://dangerousminds.net/",
+    "image": "https://storage.googleapis.com/test-site-assets/c3qkIOFRiB77Z64yVJkFrHfTBBZiSeIxV7jp79u4BXY_oicon-165a64eb3b9"
+  },
+  {
+    "title": "Vanity Fair",
+    "url": "https://www.vanityfair.com",
+    "image": "https://storage.googleapis.com/site-assets/tPzyC4PwYI9enGVFPUVVP_EGRw2j_IPgujQ7iWPr8qs_icon-1653f39493b"
+  },
+  {
+    "title": "Dazed",
+    "url": "https://www.dazeddigital.com/rss",
+    "image": "https://storage.googleapis.com/site-assets/1uRSkd_8KBRzkuOZi8sqIJl_SrNmB1LNbgFT2YL8Im8_icon-1674f5211ed"
+  },
+  {
+    "title": "Nowness RSS",
+    "url": "https://www.nowness.com",
+    "image": "http://storage.googleapis.com/site-assets/4xlMx9OSUBq90Eu6Z2eR2r554D_IklfWc8PYcNoJNKc_icon-15411f34e99"
+  },
+  {
+    "title": "NYT > Magazine",
+    "url": "https://www.nytimes.com/section/magazine?partner=rss&emc=rss",
+    "image": "https://storage.googleapis.com/site-assets/l5_JYRSNgK_MgmsJZUVe_QtSrTUyYPbg0G7EfXtxLgE_icon-1690c018b32"
+  },
+  {
+    "title": "Complex",
+    "url": "http://www.complex.com/all",
+    "image": "https://storage.googleapis.com/site-assets/_Ys6C-7YMyP0NqZhmHZMu4_3v1xQaTB95ycCLhWuAZU_sicon-15efacaeab2"
+  },
+  {
+    "title": "Culture | The Guardian",
+    "url": "https://www.theguardian.com/us/culture",
+    "image": "https://storage.googleapis.com/site-assets/spQIi2l2LTwRkUtYdTcSzZpCYivT2Mg4I4fG1oU23qg_icon-167084bc8f3"
+  },
+  {
+    "title": "Futility Closet",
+    "url": "https://www.futilitycloset.com",
+    "image": "https://storage.googleapis.com/site-assets/lg9kHQcTxf0fWKrAfeczxm4JGs5zcaotYhPOaGTBjsA_icon-15b927261ff"
+  },
+  {
+    "title": "NYT > Arts",
+    "url": "https://www.nytimes.com/section/arts?partner=rss&emc=rss",
+    "image": "https://storage.googleapis.com/site-assets/tOh_39UG5WGJ2k9zI9RgYqwcUid-AifUtebJzvN6qFs_icon-1690c01cdb6"
+  },
+  {
+    "title": "Harper's MagazineHarper's Magazine",
+    "url": "https://harpers.org",
+    "image": "https://storage.googleapis.com/site-assets/Jh5utgZJ359menpC1mDUkrbbXphrYQZYufKdcMqfg5s_icon-1698564286d"
+  },
+  {
+    "title": "MetaFilter",
+    "url": "http://www.metafilter.com/",
+    "image": "https://storage.googleapis.com/site-assets/FkeIZY38QdgnQWEmge_GE7_SY9vRynDWpFs9N5yVBAw_sicon-1612cfb8ab4"
+  },
+  {
+    "title": "Arts & Letters Daily",
+    "url": "https://www.aldaily.com/",
+    "image": "https://storage.googleapis.com/site-assets/QfBIuVDs_mnB-q4v6URGgo8oX66Q-wHN2n9FW69ZsGs_icon-16352a22db6"
+  },
+  {
+    "title": "Vulture",
+    "url": "http://nymag.com/content/nymag/daily/entertainment.html",
+    "image": "https://storage.googleapis.com/site-assets/sp6H0SVBxxLjQOQ4fJc0s55AifiBo98O6pfHefPrCp8_sicon-15e1b6b7bcd"
+  },
+  {
+    "title": "The Public Domain Review",
+    "url": "https://publicdomainreview.org",
+    "image": "https://storage.googleapis.com/site-assets/dyf--jy2Hjq8A3HywPzfnVfAn1ksY77nOgP4WyvJkf4_icon-16423684831"
+  },
+  {
+    "title": "3quarksdaily",
+    "url": "https://3quarksdaily.blogs.com/3quarksdaily/",
+    "image": "https://storage.googleapis.com/site-assets/qjfYW8g2Zmz8vxTArBCyRA_Sit22pufEY1PTiLd7e5g_sicon-1699f1fe59a"
+  },
+  {
+    "title": "Literary  Hub",
+    "url": "https://lithub.com",
+    "image": "https://storage.googleapis.com/site-assets/tjjx1VNYoIoXEsZwakTs_bfnTULzq4va9A-nAZe3hkU_icon-1619372af9c"
+  },
+  {
+    "title": "Arts & Life : NPR",
+    "url": "https://www.npr.org/templates/story/story.php?storyId=1008",
+    "image": "https://storage.googleapis.com/site-assets/G3rEWGufAxPtGICFGqUe_ugwgITY-2RJUQ62542dvCs_icon-15f9fda18f4"
+  },
+  {
+    "title": "The Rumpus.net",
+    "url": "https://therumpus.net"
+  },
+  {
+    "title": "The New Inquiry",
+    "url": "https://thenewinquiry.com",
+    "image": "https://storage.googleapis.com/site-assets/Ownjsj8RuRD0To6PgGXdddHrGX0CYjZTe80qzoyrDmY_icon-169d1fdc373"
+  },
+  {
+    "title": "Los Angeles Review of Books",
+    "url": "https://lareviewofbooks.org",
+    "image": "https://storage.googleapis.com/site-assets/WnTEN7Sgoeihiqxj_5WvfVS0_HxfhM5oBNV1bp5M0i0_icon-1644034eba3"
+  },
+  {
+    "title": "The Outline",
+    "url": "https://theoutline.com",
+    "image": "https://storage.googleapis.com/site-assets/b7EgRvMO615YDxW115QTMhGy7eCHQInTlfht7A-CuwQ_icon-15b929e08eb"
+  },
+  {
+    "title": "n+1 » Articles",
+    "url": "https://nplusonemag.com",
+    "image": "https://storage.googleapis.com/site-assets/Rqz4zOQ9XaoSm0IU0EWZZUmruZ-Ol7N55EzquBjG4fQ_icon-1679205c0b0"
+  },
+  {
+    "title": "The Morning News",
+    "url": "https://themorningnews.org/",
+    "image": "https://storage.googleapis.com/site-assets/gz0lrmPVgXgKnQ_DfOFX1YD9mXd_0IsljMBGXj5sc3k_icon-166d49910f9"
+  },
+  {
+    "title": "Mental Floss",
+    "url": "http://mentalfloss.com",
+    "image": "https://storage.googleapis.com/site-assets/8EvZz2nRi4HoZpE6_XTG3TWvjDCvPCbKpIx2ebN1EJ0_icon-15bba768d66"
+  },
+  {
+    "title": "Quillette",
+    "url": "https://quillette.com"
+  },
+  {
+    "title": "PopMatters",
+    "url": "https://www.popmatters.com/",
+    "image": "https://storage.googleapis.com/site-assets/qeLaoQYcpnPoUJij8DZfdNJ89Xf-bIpuL5Blf-xtPBY_icon-15f80ba6101"
+  },
+  {
+    "title": "The Root",
+    "url": "https://www.theroot.com",
+    "image": "https://storage.googleapis.com/site-assets/sn_xF6Vt-kfMKDGCNy1lHfOSSHoft12lL4muG4jAXok_icon-1668d28f44a"
+  },
+  {
+    "title": "Latest – The Baffler",
+    "url": "https://thebaffler.com",
+    "image": "https://storage.googleapis.com/site-assets/cV33DQR1FKN46Ha8VHbkho6zBMGoxFCS0pjPG6fBA68_icon-15caf936541"
+  },
+  {
+    "title": "Entertainment | The Atlantic",
+    "url": "https://www.theatlantic.com/entertainment/",
+    "image": "https://storage.googleapis.com/site-assets/sQrT8sYZAR3ROvcoDFfqWDn-U_I4lyKXFUdaJ7MUztg_icon-1630b2bb1cb"
+  },
+  {
+    "title": "Guernica",
+    "url": "https://www.guernicamag.com",
+    "image": "https://storage.googleapis.com/site-assets/eT0BM_3AtME7T32WnCBXZ5mB6N1EO0ZqVww-OoNrkPs_icon-1683fd67abb"
+  },
+  {
+    "title": "The American Scholar",
+    "url": "https://theamericanscholar.org",
+    "image": "https://storage.googleapis.com/site-assets/MTbVRFExDjFX9sIhGOeAq7J7cnJhMnGj27YA_sokJys_icon-15f97c8facd"
+  },
+  {
+    "title": "PAPER",
+    "url": "http://www.papermag.com/",
+    "image": "https://storage.googleapis.com/site-assets/dRoL6ID8ZfBk0mv5rm8fXDcmi9sgYVliDBzqfvTz_V4_icon-16475871d50"
+  },
+  {
+    "title": "BBC Culture",
+    "url": "http://www.bbc.com/culture",
+    "image": "https://storage.googleapis.com/site-assets/rtpz9a70Xv-fH-PYTUp0YwbBkvSNtfVrv37BYHjRyUE_icon-16689488f7a"
+  },
+  {
+    "title": "Broadly",
+    "url": "https://broadly.vice.com/en_us",
+    "image": "https://storage.googleapis.com/site-assets/MmIRsnatodp6sgsaUpW6qmgQn_1bqm3kfnjHd7ovxho_icon-1646e7309eb"
+  },
+  {
+    "title": "The Talks",
+    "url": "http://the-talks.com",
+    "image": "http://storage.googleapis.com/site-assets/6q5agZ8nUoz_ZrUvra0wAuh--19zHAmBraPfqR0Az1s_icon-15414108ae4"
+  },
+  {
+    "title": "The Smart Set",
+    "url": "https://thesmartset.com"
+  },
+  {
+    "title": "The Walrus",
+    "url": "https://thewalrus.ca",
+    "image": "https://storage.googleapis.com/site-assets/w1GpcSn5Co1vjNVkvaafJOFUdOg6MlnOOtTA2sy2wec_icon-163f4fa2388"
+  },
+  {
+    "title": "Huck Magazine",
+    "url": "https://www.huckmag.com",
+    "image": "https://storage.googleapis.com/site-assets/hNabuSH874kIUugkbvUrVWiqlpq1gM1VE8NJ-QoRLmo_icon-1649d0fb92f"
+  },
+  {
+    "title": "The Point Magazine",
+    "url": "https://thepointmag.com",
+    "image": "https://storage.googleapis.com/site-assets/veBOZkaO8JmHObWmqCCJt7f6yQ_wplH5la4yO8jh4OY_icon-161d29b33e9"
+  },
+  {
+    "title": "Broadly",
+    "url": "https://www.youtube.com/channel/UCfQDD-pbllOCXHYwiXxjJxA",
+    "image": "https://storage.googleapis.com/site-assets/9w1R0TRY3hi-Hi6wWuZCU7aD1ar8f8DHBWyZdkVcTPY_sicon-169db92de1c"
+  },
+  {
+    "title": "Vox -  Culture",
+    "url": "https://www.vox.com/culture",
+    "image": "https://storage.googleapis.com/site-assets/jVRhaXtLegBzIV5UMlxEp-DZAIXyIsDRG3bJHzeb74M_icon-1607420ddc5"
+  },
+  {
+    "title": "Junkee",
+    "url": "https://junkee.com",
+    "image": "https://storage.googleapis.com/site-assets/PfNzkONamNQ3a9K3VVpFa9tn-1rVulp8VpF70hO6utY_sicon-166294adb61"
+  },
+  {
+    "title": "Snakes and Ladders",
+    "url": "https://blog.ayjay.org",
+    "image": "https://storage.googleapis.com/site-assets/6M-3Y4mp0Bq0xX6zq2Ta-L5KHdI_RpkIW5jDnQvFr4A_sicon-1679158b77a"
+  },
+  {
+    "title": "3 Quarks Daily",
+    "url": "https://www.3quarksdaily.com",
+    "image": "https://storage.googleapis.com/site-assets/SwXws-Bu_xacI05ZT0p11n2pnkCs_qZmjubnD03ntkE_icon-16315856f41"
+  },
+  {
+    "title": "The Verge -  Culture Posts",
+    "url": "https://www.theverge.com/culture",
+    "image": "https://storage.googleapis.com/site-assets/r03_Mp44ojUn4gJ-ECQjI_riEvSWpGekYYRkr84gTFg_icon-15ceb0e4a2b"
+  },
+  {
+    "title": "The Independent - Culture",
+    "url": "https://www.independent.co.uk/arts-entertainment/rss",
+    "image": "https://storage.googleapis.com/site-assets/UAuLyzjfLQiCFMSkj16GnQStKn82YbYghWu1YBfJK08_icon-164c18ad8f2"
+  },
+  {
+    "title": "The New Criterion April 2019",
+    "url": "https://www.newcriterion.com",
+    "image": "https://storage.googleapis.com/site-assets/U122_3sLxr-oIXfYvpoU7irAKQ9FVhoPyr0Xo4EvzTY_icon-15caaa5dee1"
+  },
+  {
+    "title": "Culture | The Guardian",
+    "url": "https://www.theguardian.com/uk/culture",
+    "image": "https://storage.googleapis.com/site-assets/spQIi2l2LTwRkUtYdTcSzZpCYivT2Mg4I4fG1oU23qg_icon-167084bc8f3"
+  },
+  {
+    "title": "Lapham’s Quarterly",
+    "url": "https://www.laphamsquarterly.org/",
+    "image": "https://storage.googleapis.com/site-assets/wDXAwgs-LVoMYw0iNxN3R7Zo7BNlQTh1SVNgoulegG8_icon-15f391597a8"
+  },
+  {
+    "title": "MEL Magazine",
+    "url": "https://melmagazine.com",
+    "image": "https://storage.googleapis.com/site-assets/I68zolhTAaAWlgpKJcrD-GaLEpni3Cmp2cw6s4HzxCo_icon-16667330c72"
+  },
+  {
+    "title": "THR Blog",
+    "url": "https://iasc-culture.org/THR/channels/THR",
+    "image": "https://storage.googleapis.com/site-assets/Nn_uL44VhXsS6SOrC3TREgrBJdxkiD4uwhT_m-iVv9c_sicon-169942f6cae"
+  },
+  {
+    "title": "Intellectual Takeout Feed",
+    "url": "http://www.intellectualtakeout.org/",
+    "image": "https://storage.googleapis.com/site-assets/8YbhKXYzP3Mo-7IPqK0rULlx42hKNiKHJqrnPQ1Fes8_icon-1687a06217f"
+  }
+]

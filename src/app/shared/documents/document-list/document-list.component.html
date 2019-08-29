@@ -1,0 +1,28 @@
+<ng-container *ngIf="ids$ | async as ids">
+    <div class="document-list"
+         (cdkDropListDropped)="drop($event, ids)"
+         cdkDropListLockAxis="y"
+         cdkDropListOrientation="vertical"
+         cdkDropList>
+        <div *ngFor="let id of ids"
+             cdkDragBoundary=".document-list"
+             cdkDrag>
+            <div class="document-button-placeholder" *cdkDragPlaceholder></div>
+            <tag-document-button [documentId]="id"></tag-document-button>
+        </div>
+    </div>
+    <ng-container *ngIf="archived else notArchived">
+        <tag-document-message *ngIf="ids?.length === 0">
+            <p>Documents that you archive will appear here.</p>
+        </tag-document-message>
+    </ng-container>
+    <ng-template #notArchived>
+        <tag-document-message *ngIf="ids?.length === 0">
+            <p>You don't have any documents.</p>
+            <p>Add a document by clicking the below "Document Templates" button.</p>
+        </tag-document-message>
+        <tag-document-message *ngIf="ids?.length !== 0 && ids?.length < 3">
+            <p>Add another document by clicking the below "Document Templates" button.</p>
+        </tag-document-message>
+    </ng-template>
+</ng-container>

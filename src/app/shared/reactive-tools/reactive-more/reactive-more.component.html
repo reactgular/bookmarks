@@ -1,0 +1,15 @@
+<button mat-icon-button
+        [matMenuTriggerFor]="matMenu"
+        (menuClosed)="closed.next()"
+        (menuOpened)="opened.next()"
+        [class.tool-muted]="muted"
+        matTooltip="More">
+    <fa-icon [icon]="icon"
+             [fixedWidth]="true"></fa-icon>
+</button>
+<mat-menu #matMenu="matMenu">
+    <tag-reactive-tool *ngFor="let tool of tools"
+                       mode="menu"
+                       [icon]="false"
+                       [tool]="tool"></tag-reactive-tool>
+</mat-menu>

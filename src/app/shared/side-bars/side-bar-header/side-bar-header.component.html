@@ -1,0 +1,10 @@
+<ng-content></ng-content>
+<button *ngIf="closable"
+        class="ml-auto"
+        type="button"
+        (click)="close()"
+        mat-icon-button>
+    <fa-icon [fixedWidth]="true"
+             [icon]="iconTimes"
+             matTooltip="Close"></fa-icon>
+</button>

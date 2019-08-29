@@ -1,0 +1,9 @@
+@import "../../config";
+
+:host {
+    display: flex;
+    position: relative;
+    color: $gray-500;
+    font-style: italic;
+    font-size: $_12px;
+}

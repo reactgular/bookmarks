@@ -1,0 +1,14 @@
+<div class="title">
+    <fa-icon *ngIf="icon"
+             class="mr-3"
+             [icon]="icon"
+             [fixedWidth]="true"></fa-icon>
+    <div class="txt">{{title}}</div>
+</div>
+<button *ngIf="closable"
+        class="ml-auto"
+        mat-icon-button
+        (click)="close.emit()">
+    <fa-icon [icon]="iconTimes"
+             [fixedWidth]="true"></fa-icon>
+</button>

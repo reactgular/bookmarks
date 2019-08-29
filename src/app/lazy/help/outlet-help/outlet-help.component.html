@@ -1,0 +1,23 @@
+<ng-container *ngIf="page$ | async as page; else pageNotFound">
+    <mat-card class="w-100">
+        <mat-card-content>
+            <rg-markdown [markdown]="page$ | async"></rg-markdown>
+            <div class="d-flex">
+                <rg-chapter-nav *ngIf="previous$ | async as previous"
+                                matRipple
+                                [class.mr-2]="next$ | async"
+                                [back]="true"
+                                [chapter]="previous"></rg-chapter-nav>
+                <rg-chapter-nav *ngIf="next$ | async as next"
+                                matRipple
+                                [class.ml-2]="previous$ | async"
+                                [chapter]="next"></rg-chapter-nav>
+            </div>
+        </mat-card-content>
+    </mat-card>
+</ng-container>
+<ng-template #pageNotFound>
+    <div class="pageNotFound">
+        <rg-page-not-found></rg-page-not-found>
+    </div>
+</ng-template>

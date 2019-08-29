@@ -1,0 +1,23 @@
+@import "../config";
+
+:host {
+    .tag-item-view {
+        display: flex;
+        align-items: baseline;
+        flex-grow: 1;
+        min-width: 0;
+        padding: map-get($spacers, 1) map-get($spacers, 3);
+    }
+
+    a {
+        position: relative;
+        line-height: $_22px;
+        padding-left: $_22px + map-get($spacers, 2);
+    }
+
+    tag-item-image {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+}

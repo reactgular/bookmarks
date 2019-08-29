@@ -1,0 +1,22 @@
+@import "../config";
+
+:host {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: $side-bar-width;
+    height: 100%;
+    margin-left: 0;
+    min-width: 0;
+    overflow: hidden;
+    box-shadow: none;
+    z-index: $side-bar-z-index - 1;
+
+    transition: box-shadow $side-bar-animation;
+
+    &.is-overlay {
+        box-shadow: 0 0 10px $gray-700;
+    }
+}

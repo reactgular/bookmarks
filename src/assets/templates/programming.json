@@ -1,0 +1,493 @@
+[
+  {
+    "title": "Smashing Magazine",
+    "url": "https://www.smashingmagazine.com/articles/",
+    "image": "https://storage.googleapis.com/site-assets/tqxRp-XekjpCAyUKzOl33ru_aSmWoHA1zDHI6-wSerE_icon-166cf61920a"
+  },
+  {
+    "title": "A List Apart: The Full Feed",
+    "url": "https://alistapart.com",
+    "image": "https://storage.googleapis.com/site-assets/0bf8Wkb5S_MXDZ8MKe9TgFwwRoJesPfDJbK2Ml9Zeos_icon-15c155896f0"
+  },
+  {
+    "title": "Coding Horror",
+    "url": "https://blog.codinghorror.com/"
+  },
+  {
+    "title": "Hacker News",
+    "url": "https://news.ycombinator.com/",
+    "image": "http://storage.googleapis.com/site-assets/boy6SFLkVrCyAh1eWapnAnWnZYkgaqPKxviKcFW5h20_sicon-1541393bb8e"
+  },
+  {
+    "title": "Android Developers Blog",
+    "url": "http://android-developers.googleblog.com/",
+    "image": "https://storage.googleapis.com/site-assets/f822SGvvqmLxLGFS8e4SDh70uKfJgnb5blQMPJGWQlE_sicon-1633d47a129"
+  },
+  {
+    "title": "CSS-Tricks",
+    "url": "https://css-tricks.com",
+    "image": "https://storage.googleapis.com/site-assets/wFwO6OgQoDtuKAWLVoY8U50Qudn5mgIh1EgenNDTaTg_sicon-1680ee02c7d"
+  },
+  {
+    "title": "Envato Tuts+ Code",
+    "url": "https://code.tutsplus.com",
+    "image": "https://storage.googleapis.com/site-assets/WgPmfUiX9K2RAFFxoBbOA2nVlkkF0DjCTKX6QoBaI4E_icon-1612d5abc20"
+  },
+  {
+    "title": "Scott Hanselman's Blog",
+    "url": "https://www.hanselman.com/blog/",
+    "image": "https://storage.googleapis.com/site-assets/sbxiOm44GctNNtGSiwB__vqtrWSD4kt_dFq2KPOK2Ug_icon-160ea0e2a5e"
+  },
+  {
+    "title": "Codrops",
+    "url": "https://tympanus.net/codrops",
+    "image": "https://storage.googleapis.com/site-assets/d7_1YuAkdmL4BHkhjZ6Y4gbgRmrrRabY-Tv1pdGdNG0_icon-15b926e3d14"
+  },
+  {
+    "title": "Martin Fowler",
+    "url": "https://martinfowler.com",
+    "image": "https://storage.googleapis.com/test-site-assets/6apOfTjgEN50qjTH0UVkoVR0PCu7ypqc904LGqg-mqo_oicon-1658bb901c9"
+  },
+  {
+    "title": "The Daily WTF",
+    "url": "http://thedailywtf.com/",
+    "image": "http://storage.googleapis.com/site-assets/WPn7zSiuQJvsu0IB4KBgvZCf3wMpC8Uq3PbuzUsCJCg_sicon-1541393c020"
+  },
+  {
+    "title": "Google Developers ",
+    "url": "http://developers.googleblog.com/",
+    "image": "https://storage.googleapis.com/site-assets/w5GYelXErp-3ku6oUz8t-anvmEYw2qvHSoZZ5eqQff4_sicon-1634311ff6b"
+  },
+  {
+    "title": "High Scalability",
+    "url": "http://highscalability.com/blog/",
+    "image": "http://storage.googleapis.com/site-assets/CBDR_ttTm2tfuOn_XgVgFBLddO7K0B3dvTzoY7VgscU_icon-1541250c7d6"
+  },
+  {
+    "title": "Netflix TechBlog - Medium",
+    "url": "https://medium.com/netflix-techblog?source=rss----2615bd06b42e---4",
+    "image": "https://storage.googleapis.com/site-assets/tIS4bIH0pLsrRvUnYVUgidjG6d8AUMGJ9KQl5OtMdqU_icon-15e0e003f97"
+  },
+  {
+    "title": "David Walsh Blog",
+    "url": "https://davidwalsh.name",
+    "image": "https://storage.googleapis.com/test-site-assets/YCYJBGWX00RRzVaPx2WJLoUuDfGeLF1vQLm3Chl7Y24_oicon-1658bbd8fc8"
+  },
+  {
+    "title": "DZone Java Zone",
+    "url": "https://dzone.com/java-jdk-development-tutorials-tools-news",
+    "image": "https://storage.googleapis.com/site-assets/HJQZqv767Oad4K_xYUeFtk3E6iOtBWq8un18sgn9roA_icon-16643b77557"
+  },
+  {
+    "title": "You’ve Been Haacked",
+    "url": "https://haacked.com/",
+    "image": "https://storage.googleapis.com/site-assets/1DmBpgoQ-B6OLIus13xGAsyyZI7ZdtRC4s_HNE4NzTw_icon-169ccd85635"
+  },
+  {
+    "title": "Planet Python",
+    "url": "http://planetpython.org/",
+    "image": "http://storage.googleapis.com/site-assets/bTDiSwUYI8ul4NhOuU02CGJfznsZ087ThmPvUjmPVVs_sicon-1541438d8c6"
+  },
+  {
+    "title": "Channel 9",
+    "url": "https://channel9.msdn.com/",
+    "image": "https://storage.googleapis.com/site-assets/GZma-HCrKRDcGVOL--ZEkzpBtm0t6wsRIvXGQhyZhRY_sicon-166225b044c"
+  },
+  {
+    "title": "JavaWorld",
+    "url": "https://www.javaworld.com",
+    "image": "https://storage.googleapis.com/site-assets/7J4p8WFMvV_lY6lPZ53LhGIWaW3cxq2yLsOt4ZXFFvc_icon-15e2cd8ef7a"
+  },
+  {
+    "title": "programming",
+    "url": "https://www.reddit.com/r/programming/",
+    "image": "https://storage.googleapis.com/site-assets/SEWCTMlbfcpbJP4Zfymks5Trfv5LMfLHy3ysLbAuIYw_icon-169e40d5096"
+  },
+  {
+    "title": "Lambda the Ultimate",
+    "url": "http://lambda-the-ultimate.org",
+    "image": "http://storage.googleapis.com/site-assets/m3ZucKXDjcn7kTwrO46WumYbsusi9ol34L58m3Szt4w_sicon-1541393d7c5"
+  },
+  {
+    "title": "SitePoint",
+    "url": "https://www.sitepoint.com",
+    "image": "https://storage.googleapis.com/site-assets/PTVVjpOENrzU9pqSbZXEkXJ_QjOyPiglmf9jVGxir_s_icon-15b926f07f1"
+  },
+  {
+    "title": "Mozilla Hacks – the Web developer blog",
+    "url": "https://hacks.mozilla.org",
+    "image": "https://storage.googleapis.com/site-assets/dPA20yDKj7MHgyIRjOX2OOk1cb-5A4xCS8qqqclHcbY_icon-15b926f4318"
+  },
+  {
+    "title": "CodeProject",
+    "url": "https://www.codeproject.com",
+    "image": "https://storage.googleapis.com/site-assets/MdSO0RKKnR2RkpNyPsXQ4sQLkG26pNgjvkrgKCH9KYM_sicon-1640d352222"
+  },
+  {
+    "title": "Code as Craft",
+    "url": "https://codeascraft.com",
+    "image": "http://storage.googleapis.com/site-assets/WzdI9ycg_7L135mo46T8lj5Ilsd2bmPUGTkPNNpbDR0_icon-15414c22e0e"
+  },
+  {
+    "title": "Java Code Geeks",
+    "url": "https://www.javacodegeeks.com",
+    "image": "https://storage.googleapis.com/site-assets/U-6ZB0O7FslgvmA9363mVOCbnVNlIj4UDuXYyfvoeJs_icon-1645e76f456"
+  },
+  {
+    "title": ".NET",
+    "url": "https://devblogs.microsoft.com/dotnet",
+    "image": "https://storage.googleapis.com/site-assets/Wg59mMBj9hW6DBsAXPBRgn_I1e68mnmD3KpcQbhggf8_sicon-169143cb6af"
+  },
+  {
+    "title": "The Old New Thing",
+    "url": "https://devblogs.microsoft.com/oldnewthing",
+    "image": "https://storage.googleapis.com/site-assets/7vzFAfqPIXyEeQ-8XN25VXSeOwho2CmNZNKqIHS0VTA_icon-1698615af4e"
+  },
+  {
+    "title": "Node.js Blog",
+    "url": "https://nodejs.org/en/",
+    "image": "https://storage.googleapis.com/site-assets/Z62l7aoIzRksuy_uk8t5dqGm6hnZV0iQggU-HIljs94_icon-15d16b9c7e8"
+  },
+  {
+    "title": "Stack Overflow Blog",
+    "url": "https://stackoverflow.blog",
+    "image": "https://storage.googleapis.com/site-assets/fdSvbmYIjOVGz0JFgoTCYCW2BJyS-5FX4ysMKB7eRtc_sicon-15b645b906b"
+  },
+  {
+    "title": "The Visual Studio Blog",
+    "url": "https://devblogs.microsoft.com/visualstudio",
+    "image": "https://storage.googleapis.com/site-assets/zXYWuE3s9ds9hESJQu3-Yqabb-L0g3IEZjOxS23JdCs_sicon-168f0334f1f"
+  },
+  {
+    "title": "Google Testing Blog",
+    "url": "http://testing.googleblog.com/",
+    "image": "https://storage.googleapis.com/site-assets/M8l8GaD-5vYc0M0F-fVIV2gjTO9_igASnksa20LbHSY_sicon-15c15377f32"
+  },
+  {
+    "title": "Hacker Noon - Medium",
+    "url": "https://hackernoon.com?source=rss----3a8144eabfe3---4",
+    "image": "https://storage.googleapis.com/site-assets/xSjdJfPCkNisMpBgOt-tuQbeFffex9D91WxfhFeMbbc_icon-169bf769823"
+  },
+  {
+    "title": "Spring",
+    "url": "http://spring.io/blog",
+    "image": "https://storage.googleapis.com/site-assets/Kyei5fLcIo4yCIJU8tfDOU-mEODG2pww58qQr38FWX8_icon-160594041d6"
+  },
+  {
+    "title": "React",
+    "url": "https://reactjs.org",
+    "image": "https://storage.googleapis.com/site-assets/Q5-5VSD0WBH7oRARwBDIVxCzi0LZa-x5243HhLFnjL4_sicon-161b9f60260"
+  },
+  {
+    "title": " Jon Skeet's coding",
+    "url": "https://codeblog.jonskeet.uk",
+    "image": "http://storage.googleapis.com/site-assets/nI9DiOPXKBXc_asrtdjOc57KGZ1PUeg1mYGQkwz5wb4_sicon-1541627e6ff"
+  },
+  {
+    "title": "The Clean Code Blog",
+    "url": "http://blog.cleancoder.com/",
+    "image": "https://storage.googleapis.com/test-site-assets/QoNIeGT9zv9Y18bgSL1hTBxYehQbzt48RXtDndGQl1M_oicon-1658bba6478"
+  },
+  {
+    "title": "InfoQ",
+    "url": "https://www.infoq.com",
+    "image": "https://storage.googleapis.com/site-assets/gYYpTYvt_8E1oSQlrYNwfWopewMLx11sjR6SDsm2M-8_icon-16818ac61cd"
+  },
+  {
+    "title": "Scotch.io",
+    "url": "http://scotch.io/feed",
+    "image": "https://storage.googleapis.com/site-assets/7Qr7og4ejRiHlsTZ8FFbadR4kpjsPi8WNGi0ByyoW7g_icon-161ad3e6900"
+  },
+  {
+    "title": "The Go Programming Language Blog",
+    "url": "http://blog.golang.org/",
+    "image": "http://storage.googleapis.com/site-assets/k6nNyJGJsZxQKQowspne6x2MLLA2pO1Wa1MEeneplR4_icon-154126b8d78"
+  },
+  {
+    "title": "GitHub Engineering",
+    "url": "https://githubengineering.com/",
+    "image": "https://storage.googleapis.com/site-assets/HtOfh97mKFupH-scuR_ebe1XsXJQ9qHY5fLu1UemHyY_icon-15b9273e8d1"
+  },
+  {
+    "title": "Facebook Code",
+    "url": "https://code.fb.com",
+    "image": "https://storage.googleapis.com/site-assets/COy8McbBfVir67ZxD2FOclUkFmMTSIz3gIibngyQUqQ_sicon-16916293f2a"
+  },
+  {
+    "title": "catonmat.net – less is more",
+    "url": "https://catonmat.net",
+    "image": "https://storage.googleapis.com/site-assets/P0bkbuCKlWnz9HNKyDhfUPbbX6Dg5POPgn4W7qPOcd0_icon-16898da1b39"
+  },
+  {
+    "title": "Ayende @ Rahien",
+    "url": "https://ayende.com/blog/",
+    "image": "http://storage.googleapis.com/site-assets/Zy041uPHXDngIeWzS76oRaWhBlRhZRbItFv6-fD1jYM_icon-154157e048f"
+  },
+  {
+    "title": "the morning paper",
+    "url": "https://blog.acolyer.org",
+    "image": "https://storage.googleapis.com/site-assets/D-Uwl1Br4FxhCjFJ6dINxbueIuqHAjn8pxD7WqgNL3g_sicon-162c2fa1452"
+  },
+  {
+    "title": "Sutter’s Mill",
+    "url": "https://herbsutter.com",
+    "image": "https://storage.googleapis.com/site-assets/dnb5BLbsziMkfF0VNzo041-HFmmD8KBqO7V0M_i_f9c_icon-16025ca61ab"
+  },
+  {
+    "title": "ProgrammableWeb",
+    "url": "https://www.programmableweb.com/rss_blog"
+  },
+  {
+    "title": "OdeToCode by K. Scott Allen",
+    "url": "https://odetocode.com/",
+    "image": "https://storage.googleapis.com/site-assets/UJw-Ii5Y4aZSzY2XrEfjao-D0WUphSqr_Vyrt0cpALA_icon-169c727ec4a"
+  },
+  {
+    "title": "Giant Robots Smashing Into Other Giant Robots",
+    "url": "https://thoughtbot.com/blog",
+    "image": "https://storage.googleapis.com/site-assets/IRVzqLsuoUK0H2nUbo0iyjvOdXWsi3qoOtq3AFqOWsw_sicon-16966a7b7c2"
+  },
+  {
+    "title": "The Morning Brew",
+    "url": "http://blog.cwa.me.uk",
+    "image": "http://storage.googleapis.com/site-assets/GhmRwhFm_1labuC9OF1fnuedRHvd5l_IVSDfJB-WNMU_sicon-154139424de"
+  },
+  {
+    "title": "Julia Evans",
+    "url": "http://jvns.ca",
+    "image": "https://storage.googleapis.com/site-assets/wEPPtpyxm18xeuKJtd0RXOmRfdiYTcxSNO1zsjNlPdg_icon-15b92770d96"
+  },
+  {
+    "title": "ASP.NET Blog",
+    "url": "https://devblogs.microsoft.com/aspnet",
+    "image": "https://storage.googleapis.com/site-assets/m0YAl7uVwWJbRuCxgnIvRXfkq-Xk73VTeVV82XcCJIs_sicon-169143cde41"
+  },
+  {
+    "title": "Changelog",
+    "url": "https://changelog.com/",
+    "image": "https://storage.googleapis.com/site-assets/kgfeR2Ig_Cnt8U_wi-f4OM6pmg78zjlG-144gk4PnMs_icon-1624810fa50"
+  },
+  {
+    "title": "8th Light Blog",
+    "url": "https://8thlight.com/blog/",
+    "image": "https://storage.googleapis.com/test-site-assets/lrNuLgw5Aa31AXEysaZ2bHJ3wX65D81tiRLRVHkwTxA_oicon-1658bbc94f0"
+  },
+  {
+    "title": "Fabulous adventures in coding",
+    "url": "https://ericlippert.com",
+    "image": "https://storage.googleapis.com/site-assets/u7253ScNoBsZCD7bIscWbOwGD__uNn6L4QrDmFdHxEI_sicon-15bfb77c3ad"
+  },
+  {
+    "title": "Labs",
+    "url": "https://labs.spotify.com",
+    "image": "https://storage.googleapis.com/site-assets/Fp07A3xot8ou1YkHEcEIcqZfLD6tgak2JalTZW4RVTE_icon-1645d0d9310"
+  },
+  {
+    "title": "IntelliJ IDEA Blog",
+    "url": "https://blog.jetbrains.com/idea",
+    "image": "https://storage.googleapis.com/site-assets/UIKE9bGMBeMrgrTTq9oPwdeXBxZ4qSd6q0xzeTBYsuw_sicon-15b649eb3ee"
+  },
+  {
+    "title": "DZone.com Feed",
+    "url": "https://dzone.com",
+    "image": "https://storage.googleapis.com/site-assets/AdtvuJ7U3s5wsNf08edzcSQjatiMbLqvFGEJSBR7ZcY_icon-166411e21aa"
+  },
+  {
+    "title": "freeCodeCamp.org - Medium",
+    "url": "https://medium.freecodecamp.org?source=rss----336d898217ee---4",
+    "image": "https://storage.googleapis.com/site-assets/B4aJyBuRfjlFm1Qz4VmiHZ6IYAgxb0o1wApBPQ9o4tU_icon-15ceda6bc82"
+  },
+  {
+    "title": "ElegantCode",
+    "url": "https://elegantcode.com"
+  },
+  {
+    "title": "Eli Bendersky's website",
+    "url": "https://eli.thegreenplace.net/",
+    "image": "https://storage.googleapis.com/site-assets/v8j_oi6Ose-12hiN8Aotc2yaipnx0VlDze259SZZKjE_sicon-15e5e6e7dbb"
+  },
+  {
+    "title": "Rick Strahl's Web Log",
+    "url": "https://weblog.west-wind.com/",
+    "image": "https://storage.googleapis.com/site-assets/oDCmUPPGSJOGTOLWMJiWpJ7mzBnssTdmeuODyflAr1U_icon-169ade91b91"
+  },
+  {
+    "title": "Rob Conery",
+    "url": "https://rob.conery.io",
+    "image": "https://storage.googleapis.com/site-assets/S7aSfOagCIsMsqO7dFojEcoM-rhO5CZ8oR7bTtAGr9M_icon-16853df2a77"
+  },
+  {
+    "title": "John Papa",
+    "url": "https://johnpapa.net/"
+  },
+  {
+    "title": "Simple Programmer",
+    "url": "https://simpleprogrammer.com",
+    "image": "https://storage.googleapis.com/site-assets/qnysNmrkaq8ZSajGfSIx4Fp6SFt-_jk4ot4vUuCnN2U_sicon-15b64a26dd8"
+  },
+  {
+    "title": "Miguel de Icaza",
+    "url": "https://tirania.org/blog//index.html"
+  },
+  {
+    "title": "  Bartosz Milewski's Programming Cafe",
+    "url": "https://bartoszmilewski.com",
+    "image": "https://storage.googleapis.com/site-assets/zaxngXie_gr-fzlS4je1YWQ9GH2MTwbDAP2ISpPMjGU_icon-16275f566a8"
+  },
+  {
+    "title": "DEV Community",
+    "url": "https://dev.to",
+    "image": "https://storage.googleapis.com/site-assets/76S-wQWgGPgTDgpTSoP0aN8XX2-KFyJpCKY_Ikd8pFQ_icon-169e218429c"
+  },
+  {
+    "title": "Standard C++",
+    "url": "http://isocpp.org/blog",
+    "image": "https://storage.googleapis.com/site-assets/rBMjnFSL6Jemb4no3Mj-SghjuYduq8x9kRaG2eh3_v0_sicon-15b635badb5"
+  },
+  {
+    "title": "C++ Team Blog",
+    "url": "https://devblogs.microsoft.com/cppblog",
+    "image": "https://storage.googleapis.com/site-assets/dDZAmWpVk0e-BFHYw3di-sUhS9DmzckDZNc1drTppco_sicon-169143d14cc"
+  },
+  {
+    "title": "TypeScript",
+    "url": "https://devblogs.microsoft.com/typescript",
+    "image": "https://storage.googleapis.com/site-assets/tGh6YiMbE-H30yfRptqlt7VHw9icPd9FgARWZR-41ww_sicon-169cd6b193f"
+  },
+  {
+    "title": "Atom Blog",
+    "url": "https://blog.atom.io/",
+    "image": "https://storage.googleapis.com/site-assets/A5z98ryli7gzt6Axo4RPgbGxpcibqF8xQ5bog6lO7EE_icon-1676e4ef505"
+  },
+  {
+    "title": "ploeh blog",
+    "url": "https://blog.ploeh.dk",
+    "image": "https://storage.googleapis.com/site-assets/f9kio8E7sBekkOCVFQ_JzO1ZIDhIeahbVlx2uOvNcNY_icon-1695c6fc3e4"
+  },
+  {
+    "title": "Morning Dew",
+    "url": "https://www.alvinashcraft.com",
+    "image": "https://storage.googleapis.com/site-assets/dY6bL57Vla0L4qEsfCufEg9lVDnz3lc6J89jXSjGVDU_icon-1629889ced5"
+  },
+  {
+    "title": "Angular Blog - Medium",
+    "url": "https://blog.angular.io?source=rss----447683c3d9a3---4",
+    "image": "https://storage.googleapis.com/site-assets/asEmPgjnBmf1bcta2Hep5cCvLS9zAx_DNgALZqKBaF4_icon-15d5c5711f5"
+  },
+  {
+    "title": ".NET Tools Blog",
+    "url": "https://blog.jetbrains.com/dotnet",
+    "image": "https://storage.googleapis.com/site-assets/Xiot6yX3NUjN9xKfts08YWSx6WDc_BXOD7nTuRgS3B4_sicon-15fdcfa1fda"
+  },
+  {
+    "title": "Xamarin Blog",
+    "url": "https://devblogs.microsoft.com/xamarin",
+    "image": "https://storage.googleapis.com/site-assets/4jih-TFMcr-v5-AnvWd5-46xZunvCFQOi-ipGSo3YWc_sicon-165ee1293da"
+  },
+  {
+    "title": "The GitHub Blog",
+    "url": "https://github.blog",
+    "image": "https://storage.googleapis.com/site-assets/Qan1LQh60TYyNpDN2xjkNfXP6-UMrUf5CL3Dx224R70_icon-16491d148d0"
+  },
+  {
+    "title": "Yegor Bugayenko",
+    "url": "https://www.yegor256.com/",
+    "image": "https://storage.googleapis.com/site-assets/TK8vV3gJd4YfBVbEkq578_lrn0wknDzqXd87JBnBfe0_icon-160b07d2163"
+  },
+  {
+    "title": "Rust Blog",
+    "url": "https://blog.rust-lang.org/",
+    "image": "https://storage.googleapis.com/site-assets/SH2_-b4zzxijNOQ8uSNKDcNpHb1cDi_gww7apNwZ9Lk_icon-15f390d28d5"
+  },
+  {
+    "title": "Toptal Blog",
+    "url": "https://www.toptal.com/blog",
+    "image": "https://storage.googleapis.com/site-assets/X170RmELpEi1NT6dk6EGxAbYPFiMkjcQC-i0AhsNi7U_icon-16979d363cc"
+  },
+  {
+    "title": "Martin Fowler",
+    "url": "https://martinfowler.com"
+  },
+  {
+    "title": "Shawn Wildermuth's Blog",
+    "url": "http://wildermuth.com/feed",
+    "image": "https://storage.googleapis.com/site-assets/EPG0ragGBtG3J4vwAbil5SJuqVfLzvpNrPGuOrqG8tw_icon-162b38df5a7"
+  },
+  {
+    "title": "Visual Studio Code - Code Editing. Redefined.",
+    "url": "https://code.visualstudio.com/",
+    "image": "https://storage.googleapis.com/site-assets/sn7mrjJgc7-U5ZLCcBXvmEZhyEDE1sPuzWGzi5n0ryY_icon-167a18e6487"
+  },
+  {
+    "title": "Jimmy Bogard",
+    "url": "https://jimmybogard.com/",
+    "image": "https://storage.googleapis.com/site-assets/Hon4N1WtKJDX-UGZCqUdoJd-jvv1V-n1ReV6CYa8GPA_icon-15b92867988"
+  },
+  {
+    "title": "Code Simplicity",
+    "url": "https://www.codesimplicity.com",
+    "image": "https://storage.googleapis.com/site-assets/k-2rPPTOpghnV7jfD3aohagzpKS_fH48T0I8uXpGSMQ_icon-160730e88f0"
+  },
+  {
+    "title": "Kotlin Blog",
+    "url": "https://blog.jetbrains.com/kotlin",
+    "image": "https://storage.googleapis.com/site-assets/W9XSPUez0aa7woTSKLWSThNjGfgWOPkp54S_KDF_3p4_sicon-1600c998025"
+  },
+  {
+    "title": "Random ASCII – tech blog of Bruce Dawson",
+    "url": "https://randomascii.wordpress.com",
+    "image": "https://storage.googleapis.com/site-assets/74I3Ov7u9ksTLa10MEsV5nK6WndmZ-AgHrBuiV-Hdvs_icon-1695894e238"
+  },
+  {
+    "title": "programming is terrible",
+    "url": "https://programmingisterrible.com/",
+    "image": "https://storage.googleapis.com/site-assets/sYbDX6MYQHF3d4KV1QBNUygWVbuzaSi_KPB_u4Uhhls_icon-169bb9862a9"
+  },
+  {
+    "title": "Code, code and more code.",
+    "url": "http://blog.marcgravell.com/"
+  },
+  {
+    "title": "DaedTech",
+    "url": "https://daedtech.com",
+    "image": "https://storage.googleapis.com/site-assets/SchVK2e3f2K8ppFXONRtJjjf_pm56o7vkol6jaQTqXY_icon-15c102b315b"
+  },
+  {
+    "title": "Brave New Geek",
+    "url": "https://bravenewgeek.com",
+    "image": "https://storage.googleapis.com/site-assets/QSH2Ewlg8YNQfWNv19tDTI1YxSDSptOSOVExtGrQB4E_icon-1673242b56c"
+  },
+  {
+    "title": "The Shade Tree Developer",
+    "url": "https://jeremydmiller.com",
+    "image": "https://storage.googleapis.com/site-assets/fSUc8q6ByRk4NNOIvD-gNEwPTdZ1EaB3BdKNIdXzlL0_icon-1682a03876d"
+  },
+  {
+    "title": "JavaScript Weekly",
+    "url": "https://javascriptweekly.com/",
+    "image": "https://storage.googleapis.com/site-assets/hFygvKgYkpMGeUvtvnY-JL7-nt6_iLQIrzrP_Jkgv5U_sicon-162cd4417b3"
+  },
+  {
+    "title": "I Programmer - full contents",
+    "url": "https://www.i-programmer.info/",
+    "image": "https://storage.googleapis.com/site-assets/UHLj0FEKHebcNZM_GCvPiRftbteD0qFiqJiqOfTrQao_icon-164403a9b51"
+  },
+  {
+    "title": "Exception Not Found",
+    "url": "https://exceptionnotfound.net/"
+  },
+  {
+    "title": "Discover Dev",
+    "url": "http://discoverdev.io",
+    "image": "https://storage.googleapis.com/site-assets/N77NMsU57N_KHP-LpoLbu6HQoo8pOzM5MTEwl3RnNEY_icon-15e1e625f79"
+  },
+  {
+    "title": "Enterprise Craftsmanship",
+    "url": "https://enterprisecraftsmanship.com"
+  },
+  {
+    "title": "Performance is a Feature!",
+    "url": "http://www.mattwarren.org/",
+    "image": "https://storage.googleapis.com/site-assets/GZgLQMZk2S-5Jm5eljWF4mExZ261ItOYD6VmuJvxbNY_icon-166e5ce3207"
+  }
+]

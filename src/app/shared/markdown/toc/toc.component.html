@@ -1,0 +1,6 @@
+<a *ngFor="let chapter of toc; let indx = index"
+   [attr.href]="chapter.route"
+   (click)="activate(indx); $event.preventDefault()"
+   [class.active]="chapter === active">
+    {{chapter.title}}
+</a>

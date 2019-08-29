@@ -1,0 +1,6 @@
+<div class="color-overlay"
+     [@editorColorBg]="direction"
+     [class.button-color]="isNewCard$ | async"
+     [tagCardColor]="!(isNewCard$ | async) ? (card$ | async)?.color : undefined">
+    <tag-card-create-text *ngIf="isNewCard$ | async"></tag-card-create-text>
+</div>

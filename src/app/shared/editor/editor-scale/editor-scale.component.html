@@ -1,0 +1,12 @@
+<div class="outer-frame"
+     [class.animating]="state$ | async"
+     [class.is-open]="(editorState$ | async) === 'open'"
+     [@transition]="state$ | async"
+     (@transition.done)="animationDone($event)">
+    <div class="scalable"
+         [@scale]="state$ | async">
+        <ng-content></ng-content>
+    </div>
+    <tag-editor-color-bg *ngIf="state$ | async"
+                         [direction]="(state$ | async)?.params.dir"></tag-editor-color-bg>
+</div>

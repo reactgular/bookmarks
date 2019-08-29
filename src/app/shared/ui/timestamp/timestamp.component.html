@@ -1,0 +1,4 @@
+<span *ngIf="entity"
+      [matTooltip]="'Created ' + (entity.created | shortAgo)">
+    Edited {{entity.modified | shortAgo}}
+</span>

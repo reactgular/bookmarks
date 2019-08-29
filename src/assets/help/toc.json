@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Introduction",
+        "pageId": "introduction",
+        "route": "/"
+    },
+    {
+        "title": "Getting Started",
+        "pageId": "getting-started",
+        "route": "/guide/getting-started"
+    },
+    {
+        "title": "Working with Documents",
+        "pageId": "documents",
+        "route": "/guide/documents"
+    },
+    {
+        "title": "Working with Cards",
+        "pageId": "cards",
+        "route": "/guide/cards"
+    },
+    {
+        "title": "Contact the developer",
+        "pageId": "contact-us",
+        "route": "/guide/contact-us"
+    }
+]

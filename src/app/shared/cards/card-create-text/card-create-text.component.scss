@@ -1,0 +1,11 @@
+@import "../config";
+
+:host {
+    &:not(.disabled) {
+        color: $white;
+    }
+
+    .txt {
+        text-transform: uppercase;
+    }
+}

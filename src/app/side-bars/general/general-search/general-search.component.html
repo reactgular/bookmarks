@@ -1,0 +1,18 @@
+<form class="form-inline w-100">
+    <label class="sr-only" for="searchBar">Search</label>
+    <div class="input-group w-100">
+        <input #input
+               class="form-control"
+               id="searchBar"
+               type="text"
+               name="search"
+               placeholder="Search"
+               autocomplete="off"
+               (blur)="close()"
+               [disabled]="someSelected$ | async">
+        <div class="input-group-append"
+             (click)="close()">
+            <span class="input-group-text"><fa-icon [icon]="iconTimes"></fa-icon></span>
+        </div>
+    </div>
+</form>

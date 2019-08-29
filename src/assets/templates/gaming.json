@@ -1,0 +1,490 @@
+[
+  {
+    "title": "Engadget",
+    "url": "http://www.engadget.com",
+    "image": "http://storage.googleapis.com/site-assets/4i-1vhCwmRRLfmB7ypTnMh-ZKSvsz6Rgf0lfR0WWb0w_icon-1541543fe44"
+  },
+  {
+    "title": "Kotaku",
+    "url": "https://kotaku.com",
+    "image": "https://storage.googleapis.com/site-assets/1iFkmAfSI_02w17CiU4A7y9Dt9scZdZNh32xpy9B54s_icon-164884a2910"
+  },
+  {
+    "title": "Polygon",
+    "url": "https://www.polygon.com/",
+    "image": "https://storage.googleapis.com/site-assets/rpKhwLTdHF3UZYPz4djy4LY4nDsUT9jPsWudKAEX2B0_icon-15cc7c5f0b2"
+  },
+  {
+    "title": "IGN",
+    "url": "http://www.ign.com/articles",
+    "image": "https://storage.googleapis.com/site-assets/qGEUprFTM71YHj-E650L3IDLFmQ6tZraD4ER3RV29I0_icon-163e373f4cf"
+  },
+  {
+    "title": "Rock, Paper, Shotgun",
+    "url": "https://www.rockpapershotgun.com",
+    "image": "https://storage.googleapis.com/site-assets/Z8mnJUhNW6b7muFrGtVCHCQd3a2PdVCm-sjl19UIkj8_sicon-1650c1f26ba"
+  },
+  {
+    "title": "Penny Arcade",
+    "url": "http://penny-arcade.com",
+    "image": "http://storage.googleapis.com/site-assets/CEu-Kkq7a-iqUCaYuI4lFA_nCAeKw3XOZ-G5bvqcTz8_icon-1541398ed3f"
+  },
+  {
+    "title": "Steam",
+    "url": "http://www.steampowered.com/",
+    "image": "https://storage.googleapis.com/site-assets/CJTJ0ix-XkurKIuJRMXMbJKOZgtongABWYoQSOMR44o_icon-15d5d87d2ac"
+  },
+  {
+    "title": "GameSpot",
+    "url": "https://www.gamespot.com/feeds/mashup/",
+    "image": "https://storage.googleapis.com/test-site-assets/bkCydioYdOu2JU_EIsVMA8nMHp8CzFKgdADYxme2Z04_oicon-165a64af0e1"
+  },
+  {
+    "title": "IndieGames",
+    "url": "http://indiegames.com/",
+    "image": "https://storage.googleapis.com/site-assets/geWRT73n7S4F1RKtIydgJfT3w2J4b8YgfDUJDJsAr8U_sicon-160c4b2a9e3"
+  },
+  {
+    "title": "Xbox Live's Major Nelson",
+    "url": "https://majornelson.com",
+    "image": "https://storage.googleapis.com/site-assets/8hlkg3Ks3D24wV6iR8WR7xlZYV2YAyY7A8WPSSOSvFc_sicon-169c65574ec"
+  },
+  {
+    "title": "Destructoid",
+    "url": "https://www.destructoid.com/",
+    "image": "https://storage.googleapis.com/site-assets/c_wvCo-9qDY-mgoUsy1LJ4w4a8Gr1u0jc91oWpsqJL4_icon-165add3bb3d"
+  },
+  {
+    "title": "Eurogamer",
+    "url": "https://www.eurogamer.net/",
+    "image": "https://storage.googleapis.com/site-assets/N3rTxxYk4xMFlY_RK8rXKw4qWCpBl8jeUVokx2cZhtg_icon-169e2221afa"
+  },
+  {
+    "title": "Gamasutra",
+    "url": "http://www.gamasutra.com/newswire",
+    "image": "http://storage.googleapis.com/site-assets/6hMkkofn_zZVsNZB5aGTCGPSiAT_UuCDbzbGctvaNUM_icon-15414c4f2bf"
+  },
+  {
+    "title": "TouchArcade",
+    "url": "https://toucharcade.com",
+    "image": "https://storage.googleapis.com/site-assets/9QhEzjRBlMqtC79DIjPOiASalrXb3DUkq3eYZydWriU_icon-163b0af1344"
+  },
+  {
+    "title": "Gaming & Culture – Ars Technica",
+    "url": "https://arstechnica.com",
+    "image": "https://storage.googleapis.com/site-assets/Ev1fCmzgZE03GJr8h3YQ2ArXcxwuOtapmCe1DLhDTQ4_icon-1601e2f8802"
+  },
+  {
+    "title": "PC Gamer",
+    "url": "http://www.pcgamer.com/rss/?feed=rss",
+    "image": "https://storage.googleapis.com/site-assets/yeFyfquQA698rrweClxERkXS6gVI8I4S_XIXD9Tx--M_sicon-15c3a8de981"
+  },
+  {
+    "title": "IGN All",
+    "url": "http://www.ign.com/articles",
+    "image": "https://storage.googleapis.com/site-assets/oef9QCK0GjxzkmmRbyaDUTSbEjldYJDk6RV81HolZ6I_icon-163e6986c60"
+  },
+  {
+    "title": "Giant Bomb ",
+    "url": "https://www.giantbomb.com/feeds/mashup/",
+    "image": "https://storage.googleapis.com/test-site-assets/reTTeyWrT_-iQ5xcDG8qVjlCqaqm3fIVrHd1WmOV1CI_oicon-16582e26e99"
+  },
+  {
+    "title": "Nintendo Life | Latest Updates",
+    "url": "http://www.nintendolife.com/feeds/latest",
+    "image": "https://storage.googleapis.com/site-assets/WsDwHByz9e32Jpf15EcOJy9XVvCeLL_IqGQn4wH5Dh0_icon-15cb39be244"
+  },
+  {
+    "title": "The Ancient Gaming Noob",
+    "url": "https://tagn.wordpress.com",
+    "image": "https://storage.googleapis.com/site-assets/mrzNNhd_ET4HYkXS1Fj-eY6j4dixBUciXp9MMrCRdX0_icon-164ddcd94a3"
+  },
+  {
+    "title": "Humble Bundle Blog",
+    "url": "http://blog.humblebundle.com/",
+    "image": "https://storage.googleapis.com/site-assets/1bgUwkSvH_8NJc0RZ8IdES0MbRtrYGS8PFVTH14-TNo_icon-1684451bbe0"
+  },
+  {
+    "title": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz",
+    "image": "https://storage.googleapis.com/site-assets/NarIOyhr35lf2txazVHT_VlBztdxIjivfUxR-WJdhfQ_icon-1616fb1603e"
+  },
+  {
+    "title": "Nintendo.com – News and Updates",
+    "url": "https://nintendo.com/whatsnew",
+    "image": "https://storage.googleapis.com/site-assets/iHhL1hTFP2fSOzx-L-SGox5aRoOtmF0-A9dUf3EOfiQ_icon-1696fb3a895"
+  },
+  {
+    "title": "IGN Reviews",
+    "url": "http://www.ign.com/articles",
+    "image": "https://storage.googleapis.com/site-assets/OklAE8rkAwpr3ZGstzKGBaeWuig_HoM2YWc0KOSbXI8_icon-163e697ad73"
+  },
+  {
+    "title": "VG247",
+    "url": "https://www.vg247.com",
+    "image": "https://storage.googleapis.com/site-assets/YTSU6eI5cLd6-wj5acTabOPQO__jvOfBs7vSkskRWMM_icon-15d5c4dfc53"
+  },
+  {
+    "title": "PlayStation.Blog.Europe",
+    "url": "https://blog.eu.playstation.com",
+    "image": "https://storage.googleapis.com/site-assets/6VI-9Gi8Qc9ggxuVGTZniWyazZGlB8PlpjYHatx8Q68_icon-16962cf7430"
+  },
+  {
+    "title": "Xbox Wire",
+    "url": "https://news.xbox.com/en-us",
+    "image": "https://storage.googleapis.com/site-assets/bO0XLsskfTdU0yWcAjQbPecAiQYyjE5VT-UoixGZxM8_icon-16221c49a98"
+  },
+  {
+    "title": "MMO Champion",
+    "url": "https://www.mmo-champion.com",
+    "image": "https://storage.googleapis.com/site-assets/Rab8dJiO26lZycWixUnbzzU-edz09kQLvslpUj0C7N0_icon-161de617c74"
+  },
+  {
+    "title": "Shut Up & Sit Down",
+    "url": "https://www.shutupandsitdown.com",
+    "image": "https://storage.googleapis.com/test-site-assets/9saroYzxagCKwiS7mjLu2vXXGxpFTL72dUYf9uyQqFo_oicon-165a64cf82d"
+  },
+  {
+    "title": "Game Informer News",
+    "url": "https://www.gameinformer.com/news.xml",
+    "image": "https://storage.googleapis.com/site-assets/WRtXar2XRbxiS1hI6Ujzgn25wb4bIJu_OkV-SV0qpc4_icon-16841447389"
+  },
+  {
+    "title": "Siliconera",
+    "url": "https://www.siliconera.com",
+    "image": "https://storage.googleapis.com/site-assets/XTxxpi4gB0Z76MGLqCU13b3iCFVaiYt-Vc7Pj2r82_Y_icon-168842d27d9"
+  },
+  {
+    "title": "BoardGameGeek News | BoardGameGeek",
+    "url": "https://boardgamegeek.com/",
+    "image": "https://storage.googleapis.com/site-assets/RfC0XjPTEZdNgZhTDy0c6MGzH4LtYPhRkiBocovtPGo_sicon-16409564e1d"
+  },
+  {
+    "title": "GOG.com News",
+    "url": "http://www.gog.com/frontpage/rss",
+    "image": "https://storage.googleapis.com/site-assets/lXLA2CXtrBnHy_-T8jkVfOHvq3UE9KZmfpnExIOIByo_icon-1663399738a"
+  },
+  {
+    "title": "Fantasy Flight Games",
+    "url": "https://www.fantasyflightgames.com/",
+    "image": "https://storage.googleapis.com/site-assets/0o8wwCc8jqRQwQofybZ7_RnKDLmxXjAAfyHs8844r0c_icon-16853d8c4cf"
+  },
+  {
+    "title": "GameTrailers",
+    "url": "https://www.youtube.com/channel/UCJx5KP-pCUmL9eZUv-mIcNw",
+    "image": "https://storage.googleapis.com/site-assets/Q4lnxuw5QgVzBIO_IIAvCW83UH6ROSlD0ca5rpyneXw_sicon-1682b332c56"
+  },
+  {
+    "title": "PlayStation Blog",
+    "url": "https://blog.us.playstation.com",
+    "image": "https://storage.googleapis.com/site-assets/7RA52_uWITo2AJsvqFqejf70Gkak1MAM8pcXX65rQ78_icon-1668d246c61"
+  },
+  {
+    "title": "Surrender at 20",
+    "url": "http://www.surrenderat20.net/",
+    "image": "https://storage.googleapis.com/site-assets/D0r7QGGKu51gsQwEs36GlD_P-VeFMi9Pumzr9r4_GCg_icon-168459f6346"
+  },
+  {
+    "title": "gamesradar news",
+    "url": "http://www.gamesradar.com/all-platforms/news/rss/",
+    "image": "https://storage.googleapis.com/site-assets/CGsQNH0d3qL7KTsamHOaU7ogY18uD7L7QHaomubs7K0_icon-15b927b95a4"
+  },
+  {
+    "title": "TF2 Official Blog",
+    "url": "http://www.teamfortress.com",
+    "image": "http://storage.googleapis.com/site-assets/hpSAKUl5jTgIka05Dj4aflVA7H4mVEHe4zBFpDxhQHg_icon-154126766f0"
+  },
+  {
+    "title": "Did You Know Gaming?",
+    "url": "http://didyouknowgaming.com/",
+    "image": "https://storage.googleapis.com/site-assets/y8dn05QvzpkINjPm-z53MgdpHwWYs_qGGfzFquBbxsQ_sicon-16639610273"
+  },
+  {
+    "title": "Latest Articles | Pocket Gamer",
+    "url": "https://www.pocketgamer.com/"
+  },
+  {
+    "title": "Pocket Tactics",
+    "url": "https://www.pockettactics.com/",
+    "image": "https://storage.googleapis.com/site-assets/J7QXKoc5zXYxNgDbY-tU3rbNL7GpvdI4D1_lQiDd5FY_icon-163fd95c885"
+  },
+  {
+    "title": "New On Steam",
+    "url": "http://www.steampowered.com/",
+    "image": "https://storage.googleapis.com/site-assets/Oc-fEcXJIseHM4a-dZorgRb73ZdciO57dBdE6jdCJO0_icon-15d5e30f1bf"
+  },
+  {
+    "title": "My Nintendo News",
+    "url": "https://mynintendonews.com",
+    "image": "https://storage.googleapis.com/site-assets/L6lGYh6TIU-Do0K3EMhun6lwTcyLrxLBXMJk1mkHaFA_icon-166c41dea8a"
+  },
+  {
+    "title": "Steam RSS News Feed",
+    "url": "http://www.steampowered.com/",
+    "image": "https://storage.googleapis.com/site-assets/u3laYVIZ12VMj5o6GMf14uJNo8OK8mO071MkVzm3MH0_icon-1674f520719"
+  },
+  {
+    "title": "PlayStation LifeStyle",
+    "url": "https://www.playstationlifestyle.net",
+    "image": "https://storage.googleapis.com/site-assets/P2kOsXgfHYBYALdnpq_NcLxkATNujfDFvlFfw7_S7nY_icon-169de6f551c"
+  },
+  {
+    "title": "Hearthstone News from HearthPwn",
+    "url": "http://www.hearthpwn.com/news",
+    "image": "http://storage.googleapis.com/site-assets/6YUR8CDSmKF_1BtCWW4QtC_ZNJuEuk2LhrUKXb_kZAI_icon-15413c862c9"
+  },
+  {
+    "title": "Dota 2",
+    "url": "http://blog.dota2.com",
+    "image": "https://storage.googleapis.com/site-assets/5iWuA88A_OC1Kb9041uIIuy--W9Cau4ReyiOg87ndro_icon-15b63afc3f1"
+  },
+  {
+    "title": "Gematsu",
+    "url": "https://gematsu.com",
+    "image": "https://storage.googleapis.com/test-site-assets/DjlwJf2rVKI6peJcz_47EbxBe3QEfpp14T5-sE9WuFE_oicon-165a64ba7bc"
+  },
+  {
+    "title": "Waypoint",
+    "url": "https://waypoint.vice.com/en_us",
+    "image": "https://storage.googleapis.com/site-assets/fgXByjNkkligA-nQkKf1uGMZPK0SkDo5XiUubgU6YmA_icon-15b9297eecd"
+  },
+  {
+    "title": "Diablo III",
+    "image": "https://storage.googleapis.com/site-assets/HV9D4Tz5TKqDL7i_czn0cVk_mnF7x-sNaBkzhu2xbRM_sicon-15f747b89b3"
+  },
+  {
+    "title": "Slashdot: Games",
+    "url": "https://games.slashdot.org/",
+    "image": "https://storage.googleapis.com/site-assets/lDgZJKzJqa4d4g02KUgf670BjgjqjWOjCIA-aonWOzk_icon-15b910f8882"
+  },
+  {
+    "title": "GuildWars2.com",
+    "url": "https://www.guildwars2.com/en",
+    "image": "https://storage.googleapis.com/site-assets/kStkHGXrYsrzmIiWdpLjQUuib87hmTpOVmMpS9JZg8U_icon-16462e25a64"
+  },
+  {
+    "title": "GameSpot - All News",
+    "url": "https://www.gamespot.com/feeds/news/"
+  },
+  {
+    "title": "Tiny Cartridge 3DS",
+    "url": "http://tinycartridge.com/",
+    "image": "https://storage.googleapis.com/site-assets/4l4ai0ikiz8cFpO9dd5kxEfQnTsJwJDs2MnDy3sLKqw_icon-15cb39dece5"
+  },
+  {
+    "title": "Game Informer",
+    "url": "https://www.gameinformer.com/rss.xml",
+    "image": "https://storage.googleapis.com/site-assets/y0gftc0SWBKMYpfEA8gpDXlNvYNxv__oaeoxlpOXpNw_icon-1684b98a961"
+  },
+  {
+    "title": "Gamasutra.com - All Blogs",
+    "url": "https://www.gamasutra.com/blogs/",
+    "image": "https://storage.googleapis.com/site-assets/A8-fB4FAQVdx9WQ9caTprEwVzFUYFCmuHQOKmwH9YTk_icon-15e1e4f9b49"
+  },
+  {
+    "title": "MMORPG.COM Latest News",
+    "url": "https://www.mmorpg.com",
+    "image": "https://storage.googleapis.com/site-assets/EucR7cXGqG_tZscJOygZpbu0wXjOTMK0uvyadhwcg2U_icon-15fe3134aca"
+  },
+  {
+    "title": "Grumpy Gamer",
+    "url": "https://grumpygamer.com",
+    "image": "https://storage.googleapis.com/site-assets/9ghNCKVxLcJFxDcRGztjk-DwIiLBEAtWKBHpKdXSodM_sicon-1608d56c046"
+  },
+  {
+    "title": "Wowhead News",
+    "url": "https://www.wowhead.com/news",
+    "image": "https://storage.googleapis.com/site-assets/zzxyiX34av7DLr4KmXFvR-A00DL41qdFvcR5EJIRGYc_icon-1692d7aac5c"
+  },
+  {
+    "title": "Blizzard Watch",
+    "url": "https://blizzardwatch.com",
+    "image": "https://storage.googleapis.com/site-assets/Wc79cDt2H-zNka9eA0OA0WQCUaHYs49rLOGIoTAgUoc_icon-169e0df8c5c"
+  },
+  {
+    "title": "DualShockers",
+    "url": "https://www.dualshockers.com",
+    "image": "https://storage.googleapis.com/site-assets/2qZ_2hUp6ZnxHEfKCZdgSVTG27quj0xWtVLsH4SO1ac_icon-15ea8f8d9f4"
+  },
+  {
+    "title": "IGN News",
+    "url": "http://www.ign.com/articles",
+    "image": "https://storage.googleapis.com/site-assets/IeQNHc17FwoYAISK1xivddXzDFlODDePDSRFKJXrLWQ_icon-163e69fe7f5"
+  },
+  {
+    "title": "Video Game News at Giant Bomb",
+    "url": "https://www.giantbomb.com/feeds/news/"
+  },
+  {
+    "title": "Bungie.Net Content Feed",
+    "url": "http://www.bungie.net/en/rss/News?currentPage=1&itemsPerPage=8&category=all"
+  },
+  {
+    "title": "Dwarf Fortress Development Log",
+    "url": "http://www.bay12games.com/dwarves/index.html",
+    "image": "http://storage.googleapis.com/site-assets/oeZ6-JDdGpdRKr6zsrF89xS-K6vM92uQRqC6wcopvOc_icon-154128c4d4d"
+  },
+  {
+    "title": "Cheap Ass Gamer - Video Game Deals Forum",
+    "url": "https://www.cheapassgamer.com",
+    "image": "https://storage.googleapis.com/site-assets/Z4_qcVzkh7Q34Y3gBDjrIPhqp_RHiBTZNWDd_yUQ2GM_icon-169d7c031b0"
+  },
+  {
+    "title": "GoNintendo",
+    "url": "https://gonintendo.com/",
+    "image": "https://storage.googleapis.com/site-assets/mAoXb7idagtTwTftbFoVnZju_9rX1kSSWApVbOUteko_icon-15f907377db"
+  },
+  {
+    "title": "Wololo.net",
+    "url": "http://wololo.net",
+    "image": "https://storage.googleapis.com/site-assets/CVKsYPKxYrC-OaB-hrH_JvnexxvD5UOwdj2XnhMLKTM_icon-15e6fe8e872"
+  },
+  {
+    "title": "Nintendo Everything",
+    "url": "https://nintendoeverything.com"
+  },
+  {
+    "title": "Kotaku Australia",
+    "url": "http://feeds.kotaku.com.au/kotakuaustralia",
+    "image": "https://storage.googleapis.com/site-assets/v2JOoJ8CX85EjeY4Y1yHkWpXuUAzIU0DrqmiEfU_ZqA_sicon-167a02952a2"
+  },
+  {
+    "title": "Shoryuken",
+    "url": "http://shoryuken.com",
+    "image": "http://storage.googleapis.com/site-assets/462RG1fEMudy6akjbDui_s3w6vNC_vzXWajKwx5tVno_icon-15413cab163"
+  },
+  {
+    "title": "Starbound",
+    "url": "https://playstarbound.com"
+  },
+  {
+    "title": "USgamer.net",
+    "url": "https://www.usgamer.net",
+    "image": "https://storage.googleapis.com/site-assets/s7qUGp_WREUWASEDk21m9U6RMuAKAsm37kbzqpztUNE_icon-168587fdbaf"
+  },
+  {
+    "title": "N4G:  news feed",
+    "url": "http://contoso/testfeed"
+  },
+  {
+    "title": "Critical Distance",
+    "url": "https://www.critical-distance.com",
+    "image": "https://storage.googleapis.com/site-assets/SRAJyiWxsDPmiN4ga8BygtGLvlBXdvhFi_-YyBfj4YA_icon-1614142e89c"
+  },
+  {
+    "title": "GamesBeat – VentureBeat",
+    "url": "https://venturebeat.com",
+    "image": "https://storage.googleapis.com/site-assets/9mRVxQ99upKFdcMD0ch3EaJeaYOpiGqUqhAfL3FiKO4_icon-15b929c2066"
+  },
+  {
+    "title": "PCGamesN",
+    "url": "https://www.pcgamesn.com",
+    "image": "https://storage.googleapis.com/site-assets/A1lgPOrV1R85wP0VkgYTxv4NQvjbKbslm0movKsoShk_icon-16527eaf3f3"
+  },
+  {
+    "title": "Latest PC Game Metascores on Metacritic",
+    "url": "https://www.metacritic.com",
+    "image": "https://storage.googleapis.com/site-assets/4HJNgRD1dGrhx1bqaKN5kpr9Sap3o0HRnJwYgnvmi5k_icon-165b2fc9a98"
+  },
+  {
+    "title": "Shacknews Recent Articles",
+    "url": "http://www.shacknews.com/rss?recent_articles=1",
+    "image": "https://storage.googleapis.com/site-assets/DRNzDboOJjWGUV5YV8LN16RRLIBRIZuq7j85YYiseuM_icon-164f6ebb46b"
+  },
+  {
+    "title": "Massively Overpowered",
+    "url": "https://massivelyop.com",
+    "image": "https://storage.googleapis.com/site-assets/KShsYaFNlGwa2rvLbxWL24Yz-I1WlHicjk7_kAm6HaA_icon-16492a9a7f3"
+  },
+  {
+    "title": "GameSpot - Reviews",
+    "url": "https://www.gamespot.com/feeds/reviews/"
+  },
+  {
+    "title": "Blue's News",
+    "url": "https://www.bluesnews.com",
+    "image": "https://storage.googleapis.com/site-assets/ND5gn4NcvvNnMvQxk8kDP_nfZivStbzcEcP5Ou3Aj_E_icon-1626b8f7092"
+  },
+  {
+    "title": "Recent Blog Posts",
+    "url": "https://www.factorio.com/",
+    "image": "https://storage.googleapis.com/site-assets/12kZP9D6BrLdguoXeErlRgs6xhbsA-QXGFDKhSfNG5A_icon-15b92a259b7"
+  },
+  {
+    "title": "Co-Optimus",
+    "url": "http://www.co-optimus.com",
+    "image": "http://storage.googleapis.com/site-assets/MLZAz-4yEVoT5NUJqtqvyKZmxGEVLM9j1jHDoxKHMVc_icon-15413d936fc"
+  },
+  {
+    "title": "RSI Comm-Link",
+    "url": "https://robertsspaceindustries.com/comm-link",
+    "image": "https://storage.googleapis.com/site-assets/UDsgFX_K0JGOyFJTTuCVLFIw_3DuUycVl6zilXK-cks_icon-1618c5517d6"
+  },
+  {
+    "title": "BioWare Blog",
+    "url": "http://blog.bioware.com",
+    "image": "https://storage.googleapis.com/site-assets/PuW8NVdAW46n2BA-9_7iYZAeFD2zT9q9tWsmXOiuq1c_icon-163be11e2f3"
+  },
+  {
+    "title": "The Jimquisition",
+    "url": "https://www.thejimquisition.com"
+  },
+  {
+    "title": "News",
+    "url": "http://www.diablofans.com/news",
+    "image": "https://storage.googleapis.com/site-assets/nr2-vvzugG-EZmL-_jw7sFz1bHjKgsU5VcfyxzP92Fw_icon-16020e6ff85"
+  },
+  {
+    "title": "Game Rant",
+    "url": "https://gamerant.com",
+    "image": "https://storage.googleapis.com/site-assets/4WOhkQiTlJvXVFSUFwdneqmfgM0v5LwIw64TRiGedj8_icon-15b92b3fe21"
+  },
+  {
+    "title": "VideoGamer.com - All Updates",
+    "url": "https://www.videogamer.com",
+    "image": "https://storage.googleapis.com/site-assets/_KiycY-5IAAPRRhcdJw2-x_e-t5BCfr0tAYv-vtCV-M_icon-15cb5112013"
+  },
+  {
+    "title": "DSOGaming",
+    "url": "https://www.dsogaming.com",
+    "image": "https://storage.googleapis.com/site-assets/5WN2paQHhhDUfE0T-YtRQ8nih0RaGGHc1-NjJqNT_Ns_icon-16998c82305"
+  },
+  {
+    "title": "Quarter to Three",
+    "url": "https://www.quartertothree.com/fp",
+    "image": "https://storage.googleapis.com/site-assets/eSrr9IuKLIcjzG-UBwT4u_KC_2VcZldzP8z6_X7NAwQ_icon-1650e376061"
+  },
+  {
+    "title": "Gamers With Jobs",
+    "url": "https://www.gamerswithjobs.com/articles",
+    "image": "https://storage.googleapis.com/site-assets/dchIERYskXk9meqtFZzUnDe-CIJxQfCAt-f6--ElD5U_sicon-15b64a17fd2"
+  },
+  {
+    "title": "Niche Gamer",
+    "url": "https://nichegamer.com"
+  },
+  {
+    "title": "Path of Exile News",
+    "url": "https://pathofexile.com/",
+    "image": "https://storage.googleapis.com/site-assets/330dn_HCpd_O2Uenm6L355Sr3GFuZMd693D8EKJeUI8_sicon-1678ec91af9"
+  },
+  {
+    "title": "RPGFan",
+    "url": "http://www.rpgfan.com",
+    "image": "https://storage.googleapis.com/site-assets/OT4-We5wvxzw9z0_dDdFwWbZ_Y2FCEOQO8MZMbcXcbs_icon-168749eca15"
+  },
+  {
+    "title": "All Games Delta",
+    "url": "https://www.allgamesdelta.net/"
+  },
+  {
+    "title": "Push Square | Latest News",
+    "url": "http://www.pushsquare.com/feeds/news",
+    "image": "https://storage.googleapis.com/site-assets/XMfYJPTGo9mTNyt-yLU1BWXcQEvgaVlbG1wB3sETuc8_icon-162849b433b"
+  },
+  {
+    "title": "Eurogamer.net",
+    "url": "https://www.eurogamer.net/",
+    "image": "https://storage.googleapis.com/site-assets/YXLpb5MBRXbgcjRCIBW3fjImVkjp827MBZIYcJVbsyY_icon-169e0bb6ab2"
+  }
+]

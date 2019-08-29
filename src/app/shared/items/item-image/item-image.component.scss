@@ -1,0 +1,14 @@
+@import "../config";
+
+:host {
+    &, .img-image {
+        display: block;
+        width: $_22px;
+        height: $_22px;
+        overflow: hidden;
+    }
+
+    .img-failure {
+        background-color: $gray-100;
+    }
+}

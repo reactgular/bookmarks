@@ -1,0 +1,5 @@
+<mat-progress-spinner *ngIf="timer !== null"
+                      mode="determinate"
+                      [diameter]="radius * 2"
+                      [strokeWidth]="thick"
+                      [value]="value$ | async"></mat-progress-spinner>

@@ -1,0 +1,31 @@
+<ng-container *ngIf="loader$ | async as state; else loaded">
+    <tag-feature-loader [state]="state" (retry)="load()"></tag-feature-loader>
+</ng-container>
+<ng-template #loaded>
+    <div class="container mt-5">
+        <mat-card>
+            <mat-card-header>
+                <mat-card-title>
+                    Choose A Template
+                </mat-card-title>
+                <mat-card-subtitle>
+                    You can create a blank document, or select one of the available templates.
+                </mat-card-subtitle>
+            </mat-card-header>
+            <mat-card-content class="d-flex flex-column">
+                <button class="btn-blank mt-3 mb-5 ml-auto mr-auto"
+                        mat-stroked-button
+                        (click)="select()">
+                    A Blank Document
+                </button>
+                <div class="templates">
+                    <button *ngFor="let template of templates$ | async"
+                            mat-stroked-button
+                            (click)="select(template)">
+                        {{template.title}}
+                    </button>
+                </div>
+            </mat-card-content>
+        </mat-card>
+    </div>
+</ng-template>

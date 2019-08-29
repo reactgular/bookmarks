@@ -1,0 +1,11 @@
+<div class="tag-select-overlay"
+     *ngIf="someSelected$ | async"
+     (click)="click()"></div>
+<div (click)="click()"
+     [class.show-button]="show || (someSelected$ | async)"
+     [class.tag-selected]="isSelected$ | async"
+     class="tag-select-btn"
+     matTooltip="Select card"
+     tabindex="0">
+    <fa-icon [icon]="checkIcon"></fa-icon>
+</div>

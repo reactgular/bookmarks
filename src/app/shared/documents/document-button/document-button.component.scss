@@ -1,0 +1,44 @@
+@import "../config";
+
+:host {
+    display: flex;
+    position: relative;
+    cursor: pointer;
+    height: 2rem;
+    width: 100%;
+    min-width: 0;
+    align-items: baseline;
+    padding: map-get($spacers, 1) map-get($spacers, 3);
+
+    &.highlighted:not(&.cdk-drag-preview) {
+        background-color: $white-500;
+    }
+
+    &.active {
+        background-color: $gray-200;
+    }
+
+    &, a {
+        color: $white;
+    }
+
+    tag-reactive-more {
+        opacity: 0;
+        transition: opacity $ani-speed $ani-func;
+    }
+
+    &:hover tag-reactive-more {
+        opacity: 1;
+    }
+
+    .txt.untitled {
+        color: $white-800;
+        font-style: italic;
+    }
+
+    .button-ripple {
+        @include tag-fill();
+        pointer-events: none;
+        border-radius: inherit;
+    }
+}

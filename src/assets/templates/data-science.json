@@ -1,0 +1,486 @@
+[
+  {
+    "title": "FlowingData",
+    "url": "https://flowingdata.com",
+    "image": "https://storage.googleapis.com/site-assets/69-I8g7AdPLNdj56CTP_B8vWxQ7n6_VzvvHPQr8J60g_icon-169556f4427"
+  },
+  {
+    "title": "All - O'Reilly Media",
+    "url": "https://www.oreilly.com",
+    "image": "https://storage.googleapis.com/site-assets/qMirhz1mjco2EvJpk-iNKJxH9_amBCnwZm3c9iInyQc_icon-161bce35592"
+  },
+  {
+    "title": "FiveThirtyEight",
+    "url": "https://fivethirtyeight.com",
+    "image": "https://storage.googleapis.com/site-assets/2NA0BJlTR5R3kmbqPvnbf3gzOTn804jw9I0WxFJXUlI_icon-168cc53133b"
+  },
+  {
+    "title": "Statistical Modeling, Causal Inference, and Social Science",
+    "url": "https://statmodeling.stat.columbia.edu",
+    "image": "https://storage.googleapis.com/test-site-assets/gUFmq6Ylt5TSfhws_M-BxwJFHyR0AC9jI58Jg9CZ9eY_oicon-165866eae5f"
+  },
+  {
+    "title": "R-bloggers",
+    "url": "https://www.r-bloggers.com",
+    "image": "https://storage.googleapis.com/test-site-assets/XGq6cYRY3hH9_vdZr0WOJiPdAe0u6dQ2ddUFEsTqP10_oicon-165866c74cc"
+  },
+  {
+    "title": "Simply Statistics",
+    "url": "https://simplystatistics.org/index.xml",
+    "image": "https://storage.googleapis.com/site-assets/T0szY5XsNf_ltFSV83Vv5y1s5Y53cRyVvbMtOmljVUY_icon-15bec0a0e61"
+  },
+  {
+    "title": "No Free Hunch",
+    "url": "http://blog.kaggle.com",
+    "image": "http://storage.googleapis.com/site-assets/L89srjhd1NwVkT_n-ZeCmrBORqaT9TsnzMJ1BGo9zWo_icon-154127fc1ba"
+  },
+  {
+    "title": "Machine Learning (Theory)",
+    "url": "http://hunch.net",
+    "image": "https://storage.googleapis.com/test-site-assets/l2lKHpFaBONW95mPAXAULLgio8DXgbnUvTP4cNhaGsA_oicon-1658681e01f"
+  },
+  {
+    "title": "Data Science 101",
+    "url": "https://101.datascience.community",
+    "image": "https://storage.googleapis.com/site-assets/7Jx01N7QAYxdZUY0nnVysFB7bIA9rcp3-t0Urgeyb4M_sicon-167dfe5a7bc"
+  },
+  {
+    "title": "KDnuggets",
+    "url": "https://www.kdnuggets.com",
+    "image": "https://storage.googleapis.com/site-assets/oTrBGDRUbWQ5Ct_9MNFXGRyrWMMBZMTNkDErsjOe3MI_icon-15f29a24d44"
+  },
+  {
+    "title": "Datablog | The Guardian",
+    "url": "https://www.theguardian.com/news/datablog",
+    "image": "https://storage.googleapis.com/site-assets/ecRtd3uQTohRf1KNTd7ymhxd7SYCdfEp-BXI6DMvUow_icon-167084b8439"
+  },
+  {
+    "title": "Big Data, Plainly Spoken",
+    "url": "https://junkcharts.typepad.com/numbersruleyourworld/",
+    "image": "https://storage.googleapis.com/site-assets/wNjAj-yghSWDwPgTdHC8PhTt2w0Zg0m3tPYtgvW4PO0_sicon-168d33b0aa7"
+  },
+  {
+    "title": "Machine Learning Mastery",
+    "url": "https://machinelearningmastery.com",
+    "image": "https://storage.googleapis.com/site-assets/xZl-APZYg1FzY5Ag6yC_pmDgpByIbz2YTf_4eD8ZJuI_sicon-15e08c33207"
+  },
+  {
+    "title": "Junk Charts",
+    "url": "https://junkcharts.typepad.com/junk_charts/",
+    "image": "https://storage.googleapis.com/site-assets/o8SRHlC6DXw2rgTHFMKqPCTGpca43a4RgIol-PP8ax4_sicon-166907859de"
+  },
+  {
+    "title": "John D. Cook",
+    "url": "https://www.johndcook.com/blog"
+  },
+  {
+    "title": "Revolutions",
+    "url": "https://blog.revolutionanalytics.com/"
+  },
+  {
+    "title": "Machine Learning",
+    "url": "https://www.reddit.com/r/MachineLearning/",
+    "image": "https://storage.googleapis.com/site-assets/CFnlVUX7rGI_CuvDC5qIXBTgZ9Q2rngCwe-FcggKVwM_icon-169e808c1ba"
+  },
+  {
+    "title": "SmartData Collective",
+    "url": "https://www.smartdatacollective.com",
+    "image": "https://storage.googleapis.com/site-assets/MZVR-FOb3Wy-rQ3vz6gIBGOTPWKNzVBv2Sf1Mybchio_icon-15c67e45fd2"
+  },
+  {
+    "title": "FastML",
+    "url": "http://fastml.com/",
+    "image": "http://storage.googleapis.com/site-assets/Le30EFgp9ju4Z9ZVwYSvtYYw46RhOQTWHfEw-M8JAr0_icon-15413af8b70"
+  },
+  {
+    "title": "Nuit Blanche",
+    "url": "http://nuit-blanche.blogspot.com/",
+    "image": "http://storage.googleapis.com/site-assets/AmMVUahT9lKqmVYn-iMoj-Rex9r5XWsrpw2EKArKOLE_icon-15413f64c94"
+  },
+  {
+    "title": "DataTau",
+    "url": "http://www.datatau.com/",
+    "image": "http://storage.googleapis.com/site-assets/xwEsjNyF_YlTJRFII-XuqUVXL5MzTUGbo4oE4htjcN8_sicon-154139796fe"
+  },
+  {
+    "title": "storytelling with data",
+    "url": "http://www.storytellingwithdata.com/",
+    "image": "https://storage.googleapis.com/site-assets/vPJ_t6yJIih-5ownP0P82xZNsp-m5psNUE9q6yPpWz8_icon-16997ff3581"
+  },
+  {
+    "title": "Airbnb Engineering & Data Science - Medium",
+    "url": "https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4",
+    "image": "https://storage.googleapis.com/site-assets/Dnd9La1qKbqFGqRD49V-AgNps_U_ekzwtUhy2u0NGcY_sicon-15cc4513557"
+  },
+  {
+    "title": "mathbabe",
+    "url": "https://mathbabe.org",
+    "image": "https://storage.googleapis.com/site-assets/0pnr1zj9uSpJ2xGFbpege1DWEYLKFCN2Zv58hULjrkU_icon-1696cec095d"
+  },
+  {
+    "title": "RStudio Blog",
+    "url": "https://blog.rstudio.com/",
+    "image": "https://storage.googleapis.com/site-assets/FE_mKg7q5-1fiJgLawsWbxoJYtKnfFNdPXKVpscPr2Y_icon-169caf4332b"
+  },
+  {
+    "title": "Databricks",
+    "url": "https://databricks.com",
+    "image": "https://storage.googleapis.com/site-assets/JautIPPkjriavsgWQ1Y6GTCV9xw4aqT1iWn47Afa0ms_icon-164579ea612"
+  },
+  {
+    "title": "Machine Learning Blog",
+    "url": "https://blogs.technet.microsoft.com/machinelearning",
+    "image": "https://storage.googleapis.com/site-assets/ITCMTAllf42b-RWHwCuBGlkdvnfVXMl_X05-PUvnlvo_icon-1600743e938"
+  },
+  {
+    "title": "Analytics Vidhya ",
+    "url": "https://www.analyticsvidhya.com",
+    "image": "https://storage.googleapis.com/site-assets/5eJCy699j-d3FV-hgvbRrFJX76qlN3YbAqVpp5PBXPc_icon-1604f6a2032"
+  },
+  {
+    "title": "Towards Data Science - Medium",
+    "url": "https://towardsdatascience.com?source=rss----7f60cf5620c9---4",
+    "image": "https://storage.googleapis.com/site-assets/pC8eyprOu8BZHgA6hwFmQZIQlJUhxSGSyzTSLmmNQSw_icon-15f959e5e0b"
+  },
+  {
+    "title": "Data Science Central",
+    "url": "https://www.datasciencecentral.com/",
+    "image": "https://storage.googleapis.com/site-assets/xqM87-mjOCstRADwTQKUEC09xMkB8vtjYJKjY1fcmQ0_icon-165add54276"
+  },
+  {
+    "title": "Win-Vector",
+    "url": "http://www.win-vector.com/blog",
+    "image": "http://storage.googleapis.com/site-assets/m7MpNYdS5DNGF_m7pEAz7Y0U9vVBngOyUhwIbgxgUN0_icon-154141aa32b"
+  },
+  {
+    "title": "StatsBlogs",
+    "url": "http://www.statsblogs.com",
+    "image": "https://storage.googleapis.com/site-assets/Q_oNxMOBCBgD4kF0pPmkpSlpEMMVQaH55Uq-jKIC8wE_icon-167eb7e2771"
+  },
+  {
+    "title": "Variance Explained",
+    "url": "http://varianceexplained.org",
+    "image": "https://storage.googleapis.com/site-assets/rL7ffjiVjC37_eCgy8KI9uZd0fvB9gvO7n9CTeM7HZA_icon-15cc264d56e"
+  },
+  {
+    "title": "Blog – Dataquest",
+    "url": "https://www.dataquest.io",
+    "image": "https://storage.googleapis.com/site-assets/sSLuRWGhOk0JZB-0rOUW8d88hUftUJEaMc7d6nzQL5g_icon-169856efd58"
+  },
+  {
+    "title": "Journal of Statistical Software",
+    "url": "https://www.jstatsoft.org/index.php/jss",
+    "image": "https://storage.googleapis.com/site-assets/D6T00GkJJRTGIg-8OlFdscNeFvSdPU8u9VsPOo8btqA_icon-15b9cf398fd"
+  },
+  {
+    "title": "Stitch Fix Technology – Multithreaded",
+    "url": "https://multithreaded.stitchfix.com/",
+    "image": "https://storage.googleapis.com/test-site-assets/Kg5-bQGqKwxfLOsqt8L8yVjLHPmof0EIplSJaOIPuQg_oicon-165d937bca3"
+  },
+  {
+    "title": "Dataconomy",
+    "url": "https://dataconomy.com",
+    "image": "https://storage.googleapis.com/site-assets/zp9Q9iG07ZqRKHUtj__4frHUdTSyganpn2_7b5rq91M_icon-1654befede8"
+  },
+  {
+    "title": "The Unofficial Google Data Science Blog",
+    "url": "http://www.unofficialgoogledatascience.com/",
+    "image": "https://storage.googleapis.com/site-assets/itGlOiKoBkP7bP0HLW7faPsoOf0wb72mrzIPYCsyPQE_sicon-164a9a1fd44"
+  },
+  {
+    "title": "Three-Toed Sloth",
+    "url": "http://bactra.org/weblog/"
+  },
+  {
+    "title": "inFERENCe",
+    "url": "https://www.inference.vc/"
+  },
+  {
+    "title": "The R Journal",
+    "url": "https://journal.r-project.org",
+    "image": "https://storage.googleapis.com/site-assets/kolzzQ125oOPpjWoQfXiyRsi_2hicGEw3feFdboHiYE_sicon-16685fcffe3"
+  },
+  {
+    "title": "fast.ai",
+    "url": "http://www.fast.ai/",
+    "image": "https://storage.googleapis.com/site-assets/jdPejyYrV9sEbUBnafe9HvY1pRdpuK4VQctxcFkNk9g_sicon-15b645e8e03"
+  },
+  {
+    "title": "Data Science Blog by Domino",
+    "url": "https://blog.dominodatalab.com",
+    "image": "https://storage.googleapis.com/site-assets/4QZGU_741Z2M_cV7BsFvEXBbAxVnfXCb6U6gCb3R9Mo_icon-1647fe85316"
+  },
+  {
+    "title": "Probability and statistics blog",
+    "url": "https://statisticsblog.com"
+  },
+  {
+    "title": "Doing Bayesian Data Analysis",
+    "url": "http://doingbayesiandataanalysis.blogspot.com/",
+    "image": "https://storage.googleapis.com/test-site-assets/WQzz8teehwZHumRuon7tHmm3qjBbg-b6By_f_314pMg_oicon-165867426a0"
+  },
+  {
+    "title": "Dr. Sebastian Raschka",
+    "url": "https://sebastianraschka.com/",
+    "image": "https://storage.googleapis.com/site-assets/SLLyQm5-aAy2LLObQIJf_FT-TnB0QDQAzrOfoDZkn3Q_icon-1654bef9e28"
+  },
+  {
+    "title": "DECISION STATS",
+    "url": "https://decisionstats.com",
+    "image": "https://storage.googleapis.com/site-assets/j_eav0qEsHfAMuwh7_SXobFWFRA6GOmp_4MkdRY8LFQ_sicon-162cfd6c383"
+  },
+  {
+    "title": "While My MCMC Gently Samples",
+    "url": "https://twiecki.io/",
+    "image": "https://storage.googleapis.com/site-assets/iDP9N-eJt9WaIBrnoh8FzB842PM5aVJ9E6lamS1G_IQ_icon-1687a04a8fc"
+  },
+  {
+    "title": "Becoming A Data Scientist",
+    "url": "https://www.becomingadatascientist.com",
+    "image": "https://storage.googleapis.com/site-assets/clnAen6xPSy3ECRhqXBfRAkh2RER9wvd3T8GntzmXEE_icon-169e39e9c36"
+  },
+  {
+    "title": "randyzwitch - Articles",
+    "url": "http://randyzwitch.com",
+    "image": "http://storage.googleapis.com/site-assets/kswPFvB5OC3MsHCSWz2RPLoZaN0-EnX7sUUNRcApEK8_sicon-15426f90805"
+  },
+  {
+    "title": "Planet R",
+    "url": "http://planetr.stderr.org/",
+    "image": "http://storage.googleapis.com/site-assets/t6OrhOd1suUn3s6vPYl-PoQnoCIJvK5PBB-loouzlyg_sicon-1541397c0da"
+  },
+  {
+    "title": "Yihui's Blog on Yihui Xie | 谢益辉",
+    "url": "https://yihui.name/en/",
+    "image": "https://storage.googleapis.com/site-assets/PrTRnbdy4YckrC2tHEPvOlWJGADp3hKc4GJveK9GdhQ_sicon-15dc5ce4076"
+  },
+  {
+    "title": "Yanir Seroussi",
+    "url": "https://yanirseroussi.com",
+    "image": "https://storage.googleapis.com/site-assets/_Bbetm36JaDp9SCVBmIJ4uh6XdnsZrDuU-AMtvtKM6g_icon-1616a8d3010"
+  },
+  {
+    "title": "Sean J. Taylor",
+    "url": "https://seanjtaylor.com/",
+    "image": "https://storage.googleapis.com/site-assets/-xNykPwc8Fyh951gBbnCwgL4SA7YZyXoWfs4u5HlDs0_icon-169cd8229b2"
+  },
+  {
+    "title": "AnalytiXon",
+    "url": "https://analytixon.com",
+    "image": "https://storage.googleapis.com/site-assets/5Zm4GRkNuxlR-dww_GH-iUyhV_vraY6vXFDQ7F5hP8c_icon-168d9b7951d"
+  },
+  {
+    "title": "Freakonometrics",
+    "url": "https://freakonometrics.hypotheses.org"
+  },
+  {
+    "title": "Data School",
+    "url": "https://www.dataschool.io/"
+  },
+  {
+    "title": "Erik Bernhardsson",
+    "url": "https://erikbern.com/"
+  },
+  {
+    "title": "Mad (Data) Scientist",
+    "url": "https://matloff.wordpress.com",
+    "image": "http://storage.googleapis.com/site-assets/0BTKGoU8lTlqpLNayIpRMjF1IiNoTrw4EIu1kzbLYjY_sicon-154278a2f85"
+  },
+  {
+    "title": "Data Elixir",
+    "url": "https://dataelixir.com/issues"
+  },
+  {
+    "title": "Entrepreneurial Geekiness",
+    "url": "https://ianozsvald.com"
+  },
+  {
+    "title": "DataRobot",
+    "url": "https://www.datarobot.com",
+    "image": "https://storage.googleapis.com/site-assets/xzgVdl-FrCpXAvimgbiQps3YpPYYuv2YpNgX-sU56X4_icon-169dedd8586"
+  },
+  {
+    "title": "DataCamp Community",
+    "url": "https://www.datacamp.com/community",
+    "image": "https://storage.googleapis.com/site-assets/XI0YCV0ic0vrIo70KL2LOihHZbXpQgF207-Gk3vk_4c_icon-161c7ea4a13"
+  },
+  {
+    "title": "Hyndsight on Rob J Hyndman",
+    "url": "https://robjhyndman.com/hyndsight/"
+  },
+  {
+    "title": "Featured Blog Posts - Data Science Central"
+  },
+  {
+    "title": "Data Colada",
+    "url": "http://datacolada.org",
+    "image": "https://storage.googleapis.com/site-assets/7W01M6UIe4g7spf-saJ5tRNXRMtt-uC0747F-9ybWnI_icon-167d260cf05"
+  },
+  {
+    "title": "Stats Chat",
+    "url": "https://www.statschat.org.nz",
+    "image": "https://storage.googleapis.com/site-assets/03RdN3PajsySg8h1fubczCq96pf8JcAuGa-xQlLswqw_icon-15e50f83ce1"
+  },
+  {
+    "title": "Kevin Davenport",
+    "url": "http://kldavenport.com",
+    "image": "https://storage.googleapis.com/site-assets/YBEjbxucz5VMll5OPGb0dzb3B49kl_Z7jBE57KfPtXM_sicon-16918bd6026"
+  },
+  {
+    "title": "Stats With Cats Blog",
+    "url": "https://statswithcats.wordpress.com",
+    "image": "https://storage.googleapis.com/site-assets/UURrG7wfqKbuLJWKCipsdZDaKLLzwLTwKWCt-pWCYp0_sicon-162e5bcffd4"
+  },
+  {
+    "title": "Insight Data - Medium",
+    "url": "https://blog.insightdatascience.com?source=rss----d02e65779d7b---4",
+    "image": "https://storage.googleapis.com/site-assets/wntEO3QMoYS-_dNEYZl_NsXOTE2u1sbUTu4qRKY6NkA_sicon-1690d27e3ba"
+  },
+  {
+    "title": "AYLIEN",
+    "url": "http://blog.aylien.com",
+    "image": "https://storage.googleapis.com/site-assets/PC4LsDw31tZ3jEHQT4MDayc2JnKM5EJ-W1RP3BL4m18_icon-15b92c6f229"
+  },
+  {
+    "title": "Will do stuff for stuff",
+    "url": "https://rinzewind.org/blog-en/",
+    "image": "https://storage.googleapis.com/test-site-assets/E2ZzQbv_Uxm6TgS1LxKm9RPk5GEDJnKbt4vYiWrQReE_oicon-166b2eae812"
+  },
+  {
+    "title": "DataScience+",
+    "url": "https://datascienceplus.com",
+    "image": "https://storage.googleapis.com/test-site-assets/dwxzEW7C987Ol2e7vzGuxbofnStA6Nl_6HzmFyHObzk_oicon-1658680bdc4"
+  },
+  {
+    "title": "The Dataiku Blog",
+    "url": "https://blog.dataiku.com",
+    "image": "https://storage.googleapis.com/site-assets/XiGqfTO1NXgCaAc-aXY66vUyzB5XzofBzxEzS7CYegk_icon-16020bd973e"
+  },
+  {
+    "title": "Xi'an's Og",
+    "url": "https://xianblog.wordpress.com",
+    "image": "https://storage.googleapis.com/site-assets/iu4e9UVz659ewdkEPN9mE94LnOSVfsrqrhOZLDUX6JI_sicon-162c10864c7"
+  },
+  {
+    "title": "Featured Blog Posts - Data Science Central",
+    "image": "https://storage.googleapis.com/site-assets/X4FegzFCe21bOYA7LhuwZdEV-pAnwns2HaK-Ow93-QA_sicon-16982bbe240"
+  },
+  {
+    "title": "Error Statistics Philosophy",
+    "url": "https://errorstatistics.com",
+    "image": "https://storage.googleapis.com/site-assets/BKUC1LyhEYCnpYJbfw_hnVv-maKbkiLan3Iyk3KfVjk_sicon-165c10905f6"
+  },
+  {
+    "title": "Rocket-Powered Data Science",
+    "url": "http://rocketdatascience.org"
+  },
+  {
+    "title": "RWeekly.org - Blogs to Learn R from the Community",
+    "url": "https://rweekly.org/",
+    "image": "https://storage.googleapis.com/test-site-assets/2nIALmjjlFcpPJKakm2k8hjka0FzpApixM7HHu8B0tA_oicon-16586796974"
+  },
+  {
+    "title": "Models are illuminating and wrong",
+    "url": "https://peadarcoyle.com",
+    "image": "https://storage.googleapis.com/site-assets/Dd6dR6JdQjrZyAaEGjsps8ve1Xo0u0oqD8pr0neYbiw_icon-16787242d1f"
+  },
+  {
+    "title": "The Data Incubator",
+    "url": "https://blog.thedataincubator.com",
+    "image": "https://storage.googleapis.com/site-assets/K3PdAQ8l8HpducCMqhJJugHs3P16XGXxkeqitvPj5s0_icon-160900a8add"
+  },
+  {
+    "title": "Data - O'Reilly Media",
+    "url": "https://www.oreilly.com",
+    "image": "https://storage.googleapis.com/site-assets/9PJ5HMQVgxsztOQb3wnQlQLZPt8cS1wb0nhh3SElCWs_icon-161d296103d"
+  },
+  {
+    "title": "Data Skeptic",
+    "url": "https://dataskeptic.com",
+    "image": "https://storage.googleapis.com/site-assets/u1ZxW7TvgPHBesAgOftmQllM1rBAOErrZ_EfkwWlMtI_icon-15cd6da2992"
+  },
+  {
+    "title": "EFavDB",
+    "url": "http://efavdb.com",
+    "image": "http://storage.googleapis.com/site-assets/865mjS-VoSj4D96iQoYg9wkAcj1S2yWWz-29RBlJm9k_sicon-154284a3ac1"
+  },
+  {
+    "title": "West Coast Stat Views (on Observational Epidemiology and more)",
+    "url": "http://observationalepidemiology.blogspot.com/",
+    "image": "https://storage.googleapis.com/site-assets/f-1obCfuUEddpyKGg0B_xTnnqZHBUY38SEyznUNvpcs_icon-15fcbb37227"
+  },
+  {
+    "title": "DataOrigami - Napkin Folding",
+    "url": "https://dataorigami.net/blogs/napkin-folding",
+    "image": "https://storage.googleapis.com/site-assets/7vLlH5iu5Ed-2djzhnJBjAGjm4-P3YJT0lVsHBm6IAA_icon-163856e3f2e"
+  },
+  {
+    "title": "Codementor Community",
+    "url": "https://www.codementor.io/community/topic/data-science",
+    "image": "https://storage.googleapis.com/site-assets/6jb6PsUg8X6h-SLeyoMjtHmJRDYluP3P0J2BMjkQywU_icon-1683125746c"
+  },
+  {
+    "title": "Cloudera Fast Forward Labs Blog",
+    "url": "http://blog.fastforwardlabs.com/",
+    "image": "https://storage.googleapis.com/site-assets/s16niwhrcKvPpWnlw8P_DvUPNxOqfOqmU2tms_gkDxs_icon-15b9463740e"
+  },
+  {
+    "title": "The SAS Data Science Blog",
+    "url": "https://blogs.sas.com/content/subconsciousmusings",
+    "image": "https://storage.googleapis.com/site-assets/JV0VBOk3jU4tQWSZWfGjfb14Yzm5T6bY5BWaNX399Cg_icon-15ec7596a12"
+  },
+  {
+    "title": "Data Science",
+    "url": "https://www.reddit.com/r/datascience/",
+    "image": "https://storage.googleapis.com/site-assets/uB51MLNikclpp_2tA8_xx3d5wNWrfIfON5ZvPc1X7II_icon-15c6cd84da7"
+  },
+  {
+    "title": "The 20% Statistician",
+    "url": "http://daniellakens.blogspot.com/",
+    "image": "https://storage.googleapis.com/site-assets/wyeSR2l4FjtpGrempSr5XdII2tCct7cSZJmd7io_-LI_sicon-1611e3b59f1"
+  },
+  {
+    "title": "Dataviz – Stats – Bayes",
+    "url": "https://robertgrantstats.wordpress.com",
+    "image": "https://storage.googleapis.com/site-assets/_58DrPAQsI-yoogtCLpmNwJbAXnEGi43C7p9RHNO-wg_sicon-165215e39e1"
+  },
+  {
+    "title": "Blog – Open Data Science – Your News Source for AI, Machine Learning & more",
+    "url": "https://opendatascience.com",
+    "image": "https://storage.googleapis.com/site-assets/zryde_2M7mumxq7OkpnA0zp9kZTIGY_a8hykgw8r62c_sicon-163470ed8a2"
+  },
+  {
+    "title": "R Views",
+    "url": "https://rviews.rstudio.com/index.xml",
+    "image": "https://storage.googleapis.com/site-assets/2JyAOICoXMy8RUMr57pNo9PfYKC9ErzQyjcGAASXMK0_icon-169d1fc915d"
+  },
+  {
+    "title": "Private Feed for justmytwospence",
+    "url": "https://github.com/justmytwospence",
+    "image": "https://storage.googleapis.com/site-assets/XovYJ0pCd54SGADzRCgGhOPkwFE4adMhlpP9pYbCvz8_sicon-162bdeb11cb"
+  },
+  {
+    "title": "All Articles - StatisticsViews",
+    "url": "http://www.statisticsviews.com",
+    "image": "https://storage.googleapis.com/site-assets/Yg1ytDNTEBYfiQB4LKcHzPsAYk-OF2VgIfTNIsQ6KDk_icon-15b6c9665b5"
+  },
+  {
+    "title": "DataScience.com Blog",
+    "url": "https://www.datascience.com/blog",
+    "image": "https://storage.googleapis.com/site-assets/gHnh3QSJH-a8Q70grbVV7f_-5L8gwuJj8ADCc9KWkKw_icon-1644a8a6d9a"
+  },
+  {
+    "title": "business-science.io",
+    "url": "https://www.business-science.io/"
+  },
+  {
+    "title": "Blog - Applied Predictive Modeling",
+    "url": "http://appliedpredictivemodeling.com/blog/",
+    "image": "https://storage.googleapis.com/site-assets/AY5F6r1O0gDmJah0_qNJ3klLD4PNlj-eIR3VyGheUEY_sicon-162d8ebd460"
+  },
+  {
+    "title": "Bayesian Spectacles",
+    "url": "https://www.bayesianspectacles.org",
+    "image": "https://storage.googleapis.com/site-assets/xV4UwUBsKBccJfYebipeWzSJewbXqNSgQAI34Jj9qv4_icon-162f40d9530"
+  }
+]

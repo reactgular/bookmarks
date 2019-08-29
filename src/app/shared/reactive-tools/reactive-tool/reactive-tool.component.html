@@ -1,0 +1,52 @@
+<ng-template #toolTemplate>
+    <fa-icon *ngIf="icon"
+             [fixedWidth]="true"
+             [spin]="(animate$ | async) === 'spin'"
+             [pulse]="(animate$ | async) === 'pulse'"
+             [icon]="icon$ | async"
+             [matTooltip]="toolTip$ | async"></fa-icon>
+    <span *ngIf="title">{{title$ | async}}</span>
+</ng-template>
+<ng-container *ngIf="visible$ | async">
+    <div *ngIf="mode === 'menu'"
+         class="tag-menu-compact"
+         (click)="mouseDown($event)"
+         [class.text-success]="(color$ | async) === 'success'"
+         [class.text-warning]="(color$ | async) === 'warning'"
+         [class.text-danger]="(color$ | async) === 'danger'"
+         [class.text-info]="(color$ | async) === 'info'"
+         [class.text-muted]="muted"
+         [class.highlighted]="highlight$ | async"
+         [disabled]="disabled$ | async"
+         mat-menu-item>
+        <ng-container *ngTemplateOutlet="toolTemplate"></ng-container>
+    </div>
+    <button *ngIf="mode === 'icon'"
+            type="button"
+            (mousedown)="mouseDown($event)"
+            (mouseup)="mouseUp($event)"
+            [class.text-success]="(color$ | async) === 'success'"
+            [class.text-warning]="(color$ | async) === 'warning'"
+            [class.text-danger]="(color$ | async) === 'danger'"
+            [class.text-info]="(color$ | async) === 'info'"
+            [class.text-muted]="muted"
+            [class.highlighted]="highlight$ | async"
+            [disabled]="disabled$ | async"
+            mat-icon-button>
+        <ng-container *ngTemplateOutlet="toolTemplate"></ng-container>
+    </button>
+    <button *ngIf="mode === 'button'"
+            type="button"
+            (mousedown)="mouseDown($event)"
+            (mouseup)="mouseUp($event)"
+            [class.text-success]="(color$ | async) === 'success'"
+            [class.text-warning]="(color$ | async) === 'warning'"
+            [class.text-danger]="(color$ | async) === 'danger'"
+            [class.text-info]="(color$ | async) === 'info'"
+            [class.text-muted]="muted"
+            [class.highlighted]="highlight$ | async"
+            [disabled]="disabled$ | async"
+            mat-button>
+        <ng-container *ngTemplateOutlet="toolTemplate"></ng-container>
+    </button>
+</ng-container>

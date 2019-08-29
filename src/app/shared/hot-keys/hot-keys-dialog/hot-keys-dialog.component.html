@@ -1,0 +1,17 @@
+<tag-dialog-header class="pl-3 pt-3 pr-3"
+                   data-title="Keyboard shortcuts"
+                   [icon]="iconKeyboard"
+                   [closable]="true"
+                   (close)="close()"></tag-dialog-header>
+<div class="sections">
+    <div *ngFor="let section of sections"
+         class="section">
+        <div class="title text-truncate">{{section.title}}</div>
+        <div *ngIf="section.message" class="message">{{section.message}}</div>
+        <div *ngFor="let desc of section.descriptions"
+             class="hot-key">
+            <div class="txt">{{desc.message}}</div>
+            <div class="code">{{getCode(desc)}}</div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,20 @@
+@import "../config";
+
+:host {
+    display: flex;
+    width: $_24px;
+    height: $_24px;
+    line-height: $_24px;
+    cursor: grab;
+    text-align: center;
+
+    &.drag-disabled {
+        color: $gray-500;
+        cursor: pointer;
+    }
+
+    fa-icon {
+        width: $_24px;
+        height: $_24px;
+    }
+}

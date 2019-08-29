@@ -1,0 +1,34 @@
+<form *ngIf="edit$ | async else notEditing"
+      [formGroup]="group"
+      (submit)="close()"
+      class="form-inline w-100">
+    <label class="sr-only" for="title">Title</label>
+    <div class="input-group w-100">
+        <input #input
+               class="form-control"
+               id="title"
+               type="text"
+               name="title"
+               formControlName="title"
+               placeholder="Title"
+               autocomplete="off"
+               (blur)="close()">
+        <div class="input-group-append"
+             (click)="close()">
+            <span class="input-group-text"><fa-icon [icon]="iconTimes"></fa-icon></span>
+        </div>
+    </div>
+</form>
+<ng-template #notEditing>
+    <span *ngIf="document$ | async as doc; else noDocument"
+          class="txt text-truncate clickable"
+          [class.untitled]="!doc.title"
+          (click)="open()">
+        {{doc.title | untitled}}
+    </span>
+</ng-template>
+<ng-template #noDocument>
+    <span class="txt text-truncate">
+        {{(meta$ | async)?.title}}
+    </span>
+</ng-template>

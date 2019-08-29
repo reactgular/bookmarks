@@ -1,0 +1,10 @@
+@import "../config";
+
+:host {
+    display: flex;
+    pointer-events: none;
+
+    mat-progress-spinner {
+        opacity: 0.35;
+    }
+}

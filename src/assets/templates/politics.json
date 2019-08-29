@@ -1,0 +1,498 @@
+[
+  {
+    "title": "Slate - Culture",
+    "url": "https://slate.com/culture",
+    "image": "https://storage.googleapis.com/site-assets/UYLLtteHwMlBqAJdix1-rZ6nYC29mbsTyVq5t26GzPo_icon-165bd3fa8ed"
+  },
+  {
+    "title": "The Atlantic ",
+    "url": "https://www.theatlantic.com/",
+    "image": "https://storage.googleapis.com/site-assets/PiZyxgIkdjlmli7o0PIIinzT0eRAK6XGvK0WaTRcMRg_icon-15cf2d2e609"
+  },
+  {
+    "title": "Washington Post: Breaking News, World, US, DC News & Analysis",
+    "url": "http://www.washingtonpost.com/pb/homepage/",
+    "image": "https://storage.googleapis.com/site-assets/PabZ8i1QCHv3KpsuDwP-IaHjEII8doc1zV63QTNW0N8_icon-166f1271c44"
+  },
+  {
+    "title": "Politico ",
+    "url": "https://www.politico.com/",
+    "image": "https://storage.googleapis.com/site-assets/Phq6GMdD1uNEUQUw4vzpU7SrRv_2aniNTMc744uLeUs_icon-15f5ca91336"
+  },
+  {
+    "title": "Vox -  All",
+    "url": "https://www.vox.com/",
+    "image": "https://storage.googleapis.com/site-assets/33Qk4QF65xZ2Kiom-Vs9Q3VHFCy_5Lcwa9OxFkQYJk4_icon-15bc817495b"
+  },
+  {
+    "title": "Salon.com",
+    "url": "https://www.salon.com",
+    "image": "https://storage.googleapis.com/site-assets/0y9nwCias3My5eserPhbWFOMmKwkaGmO-dQt5dMNNQg_icon-167bb3e77fa"
+  },
+  {
+    "title": "The Intercept",
+    "url": "https://theintercept.com",
+    "image": "https://storage.googleapis.com/site-assets/6dltgvsV1l0R_8swQp-7laduxYuPxPBcGlW28RnYQV4_icon-15b8cb1e8ab"
+  },
+  {
+    "title": "FiveThirtyEight",
+    "url": "https://fivethirtyeight.com",
+    "image": "https://storage.googleapis.com/site-assets/2NA0BJlTR5R3kmbqPvnbf3gzOTn804jw9I0WxFJXUlI_icon-168cc53133b"
+  },
+  {
+    "title": "ThinkProgress",
+    "url": "https://thinkprogress.org",
+    "image": "https://storage.googleapis.com/site-assets/SIdJ8YDu81I_rWOoiEsc9tsHcK6asptnRkpUGrNaSQw_icon-1629935fe31"
+  },
+  {
+    "title": "Drudge Report Feed",
+    "url": "http://drudgereportfeed.com/",
+    "image": "https://storage.googleapis.com/test-site-assets/ZOqkVHSLZOC9Lu12_FVYoJMvRzDe7zCYvJ91pXfSyMY_oicon-1658635b705"
+  },
+  {
+    "title": "NYT - Politics ",
+    "url": "https://www.nytimes.com/pages/politics/index.html?partner=rss&emc=rss",
+    "image": "https://storage.googleapis.com/site-assets/MldTUGEl-Knr3lYL4zyEzd8lVI4g5MFTUBkv3avV4C4_icon-1690d4378ec"
+  },
+  {
+    "title": "Washington Post - Politics ",
+    "url": "http://www.washingtonpost.com/pb/politics/",
+    "image": "https://storage.googleapis.com/site-assets/m-EWnENIADoZffb1VeAYGw_z3iMV_DKz1mdjKhuhphY_icon-166f126347c"
+  },
+  {
+    "title": "The Atlantic - Politics",
+    "url": "https://www.theatlantic.com/politics/",
+    "image": "https://storage.googleapis.com/site-assets/ZzMo4MJ1teoY-0j2ZIAfAcO8k1L6eOHqfU7ySHR9uXg_icon-1630b2b9360"
+  },
+  {
+    "title": "The New Republic",
+    "url": "https://newrepublic.com",
+    "image": "https://storage.googleapis.com/site-assets/mL6NrxNdpMTQ6JTyiUJVB8H5VIzA4FinC2nNLgicKeg_icon-161a5737298"
+  },
+  {
+    "title": "Articles and Investigations - ProPublica",
+    "url": "https://www.propublica.org/feeds/54Ghome",
+    "image": "https://storage.googleapis.com/test-site-assets/o2OW84rPkzHW7ErHZgWr3FR0oZMMITApmucIgyninJE_oicon-16586365a07"
+  },
+  {
+    "title": "Democracy Now!",
+    "url": "http://www.democracynow.org/",
+    "image": "https://storage.googleapis.com/site-assets/mxb11iYprr6RDyWK77lQiTFmJIj8bgd0d99T86nocs8_icon-15ed4f4d634"
+  },
+  {
+    "title": "Talking Points Memo ",
+    "url": "https://talkingpointsmemo.com",
+    "image": "https://storage.googleapis.com/site-assets/Io8XbffKJRWfgGCCOQIANJNPPtb1hnPy2R0Y1NZV7r8_icon-162c31bbcf7"
+  },
+  {
+    "title": "Breitbart News",
+    "url": "https://www.breitbart.com",
+    "image": "https://storage.googleapis.com/site-assets/WMTsVnhpHgdLEfh2a_okuMLwU_JbfU4VaH_hMflM8h4_icon-16459e6201d"
+  },
+  {
+    "title": "Slate Magazine",
+    "url": "https://slate.com/",
+    "image": "https://storage.googleapis.com/site-assets/4PH1Oj3C2CMIF-iFju3zJaaNF8sj2iHea3GBjUY6SlE_icon-169334a9f2e"
+  },
+  {
+    "title": "The Daily Beast Latest Articles",
+    "url": "https://www.thedailybeast.com/?via=rss&source=articles",
+    "image": "https://storage.googleapis.com/site-assets/-tKG5UlMaY9RvpDYiaC7IZrxAzcc2hMSOnS1XdanTqo_icon-163bd680909"
+  },
+  {
+    "title": "National Review",
+    "url": "https://www.nationalreview.com",
+    "image": "https://storage.googleapis.com/site-assets/lpZsg80JFJNUZiNx0PWQg-CajLLl8eZaSUhPu0bskBo_icon-161a812d738"
+  },
+  {
+    "title": " Crooks and Liars ",
+    "url": "https://crooksandliars.com/latest/feed",
+    "image": "https://storage.googleapis.com/site-assets/xh9-OIbxsWjo6XboP9RmfQGM1MrO1Hb6RxvzKBN5xis_icon-15ff76b735d"
+  },
+  {
+    "title": "TheBlaze",
+    "url": "https://www.theblaze.com",
+    "image": "https://storage.googleapis.com/test-site-assets/8M3FXFqeGIjqxo3ma2HCEM8pA0RNa0TyZRJfLVcFF3I_oicon-1660dc52e69"
+  },
+  {
+    "title": "American Thinker",
+    "url": "https://www.americanthinker.com/",
+    "image": "https://storage.googleapis.com/site-assets/--uxDGXdFitPV4GVNLx8462gQ2Jwspbe3UtVBdHyuvk_icon-16515408bad"
+  },
+  {
+    "title": "Reason.com",
+    "url": "https://reason.com/",
+    "image": "https://storage.googleapis.com/site-assets/mweMMNXwVpvNzC41rxZ9LpbEj36-DdoL4OuAJ_AHPDY_icon-1607a11c5af"
+  },
+  {
+    "title": "AlterNet.org Main RSS Feed",
+    "url": "https://www.alternet.org",
+    "image": "https://storage.googleapis.com/site-assets/Ss9WeUpAo-PZWUDRm6BbU7zAFkp4O8ZX_UX78KmMMGo_icon-1699618e796"
+  },
+  {
+    "title": "Slate Magazine",
+    "url": "https://slate.com/",
+    "image": "https://storage.googleapis.com/site-assets/Kzqua_RoGRnoz47e1RsZeV_Tl8zgCC0u4kArL-u1-wQ_icon-1610475515b"
+  },
+  {
+    "title": "Axios",
+    "url": "https://www.axios.com/top/",
+    "image": "https://storage.googleapis.com/site-assets/dY8vElNspgXe2yvHOWFe3MErs_r0Pbf9P_omSYMhFNE_icon-167599f635d"
+  },
+  {
+    "title": "Politics – FiveThirtyEight",
+    "url": "https://fivethirtyeight.com",
+    "image": "https://storage.googleapis.com/site-assets/-pQr2VQ4CYGQIefHf4ltuPOCVHgqHRSpphngD1jzxlo_icon-15caf910ee7"
+  },
+  {
+    "title": "FOX news",
+    "url": "http://www.foxnews.com/",
+    "image": "https://storage.googleapis.com/site-assets/OUCP3qhMrN2UQaH_pimKW5rKqD5rXgTV5czx18WDf84_sicon-15ebb12c702"
+  },
+  {
+    "title": "James Fallows | The Atlantic",
+    "url": "https://www.theatlantic.com/author/james-fallows/",
+    "image": "https://storage.googleapis.com/site-assets/-DL6Qi81rM9K4FoeBp8VAFoGtgRjaNz6LCV7xCssJTU_icon-1630b2b9dd4"
+  },
+  {
+    "title": "The American Conservative",
+    "url": "https://www.theamericanconservative.com"
+  },
+  {
+    "title": "TheHill",
+    "url": "https://thehill.com/rss/syndicator/19111",
+    "image": "https://storage.googleapis.com/test-site-assets/o1IDrW0xFyoju8SopF7K9ghoYCkBUHGGk2AYiIhmshc_oicon-16582d29624"
+  },
+  {
+    "title": "Truthdig RSS",
+    "url": "https://www.truthdig.com",
+    "image": "https://storage.googleapis.com/site-assets/ZmF7-tPdHbUV_oEolIdnTe9SBoincmBbqxXSovkLI1I_icon-162666fe751"
+  },
+  {
+    "title": "Politics",
+    "url": "https://www.politico.com/news/politics",
+    "image": "https://storage.googleapis.com/site-assets/yGHm54UkKvs0ukW_dkQ2rh5NN50SvlRIo33rGLyTFUU_icon-15f5ca917bf"
+  },
+  {
+    "title": "Article – The Nation",
+    "url": "https://www.thenation.com",
+    "image": "https://storage.googleapis.com/site-assets/B2NSjuaw088BRQjA67qR0jGeskBm6t5rOmKGXfCNwzI_icon-15b92742e24"
+  },
+  {
+    "title": "Politics - U.S. Political News, Opinion and Analysis",
+    "url": "https://www.huffpost.com/news/politics",
+    "image": "https://storage.googleapis.com/site-assets/Ls1ojQ7TbuTnlUcsJEsQDuV7dH8GHnrB2GSbau1ZTF8_icon-168f07af79c"
+  },
+  {
+    "title": "MichelleMalkin.com",
+    "url": "http://michellemalkin.com",
+    "image": "http://storage.googleapis.com/site-assets/REdZCJhyUJYFQnMx9cNzF8-tdVp_cyzDP1NgpoKuZh8_sicon-15413940f70"
+  },
+  {
+    "title": "RealClearPolitics - Homepage",
+    "url": "http://www.realclearpolitics.com/",
+    "image": "https://storage.googleapis.com/site-assets/omDIvchIA3BstFcB9P0XA-nG-SMbJqmK818QGtgTcmQ_icon-15daa48b760"
+  },
+  {
+    "title": "msnbc.com Latest Headlines",
+    "url": "http://www.msnbc.com/",
+    "image": "https://storage.googleapis.com/site-assets/X14_T5NYd8Hsr7016Rc-mq-4NvPB93L79HCI6NLfrZM_sicon-165f9a6c481"
+  },
+  {
+    "title": "CNN.com - RSS Channel - Politics",
+    "url": "https://www.cnn.com/politics/index.html",
+    "image": "https://storage.googleapis.com/site-assets/Xw8Vi8dkNULIVHNphO6VMvkf2ZCt7F5Zaj63LHV6G28_icon-163d940edb1"
+  },
+  {
+    "title": "The Daily Signal",
+    "url": "https://www.dailysignal.com/",
+    "image": "https://storage.googleapis.com/site-assets/Ls_vL8-eY60LCyFm6uqEUN-TyHsHr9WOA4Rbsuv3E7I_icon-16232d6682b"
+  },
+  {
+    "title": "The Week",
+    "url": "https://theweek.com",
+    "image": "https://storage.googleapis.com/site-assets/VWYk4oEk2kg0ojweiikfVSWLeYfRejzLnIEsECA1QgM_icon-1634679b6a4"
+  },
+  {
+    "title": "The Federalist",
+    "url": "https://thefederalist.com",
+    "image": "https://storage.googleapis.com/site-assets/ewZ30NBoMtlDX51JpmlR7y2IcX3r05G7GthZ3XDmIUI_icon-169c335be0f"
+  },
+  {
+    "title": "The Daily Caller",
+    "url": "https://dailycaller.com",
+    "image": "https://storage.googleapis.com/site-assets/2c9B-1ezsUrsGWy_ftPUsNKNATvSSgBhLxxYd_9oc8I_icon-16589bf8401"
+  },
+  {
+    "title": "Mother Jones ",
+    "url": "https://www.motherjones.com",
+    "image": "https://storage.googleapis.com/site-assets/0d0Z_QH0txnbTHlAt4aMWi-DS0Rze8R_vgQOQR-YHzk_icon-166a1cc9d4a"
+  },
+  {
+    "title": "FactCheck.org",
+    "url": "https://www.factcheck.org",
+    "image": "https://storage.googleapis.com/site-assets/0b8F5PWeLeYbighry_AkK8GCtimN4-7yv1yXWoM2XpA_icon-1608d4a777e"
+  },
+  {
+    "title": "Daily Wire",
+    "url": "https://www.dailywire.com/rss.xml",
+    "image": "https://storage.googleapis.com/site-assets/8GYdwooyj37PaJSssHKePXqUCp9ZhX47O6NUkzFTjZY_icon-169a981843e"
+  },
+  {
+    "title": "Politics : NPR",
+    "url": "https://www.npr.org/templates/story/story.php?storyId=1014",
+    "image": "https://storage.googleapis.com/site-assets/bDmK_1mnVXBr3CZxO5V6Ioqlm5ygUhcX46y-yobv5Uk_icon-15f9fda0f94"
+  },
+  {
+    "title": "Politifact.com Truth-O-Meter rulings from National",
+    "url": "http://www.politifact.com/truth-o-meter/",
+    "image": "https://storage.googleapis.com/site-assets/yBycrOSAD73BL6Wx7fJTRWXOMVu9-rsPPcidrQVZj-g_icon-16907b776fa"
+  },
+  {
+    "title": "POLITICO",
+    "url": "https://www.politico.eu",
+    "image": "https://storage.googleapis.com/site-assets/Q6RW-dH-bsmUpn7bagzWnnqJD0xVhwTuTDVeeosdCis_sicon-15f5257b3df"
+  },
+  {
+    "title": "Instapundit",
+    "url": "https://pjmedia.com/instapundit",
+    "image": "https://storage.googleapis.com/site-assets/9FG4rxegpZzduFpNAIKqRRy0kzycM-GsD-Sqv4maAgE_sicon-161a0dd44b1"
+  },
+  {
+    "title": "Robert Reich",
+    "url": "http://robertreich.org/",
+    "image": "https://storage.googleapis.com/site-assets/iGq9YCvXEYbkRexndj7Z4hk2qXdI1Pg1MYvrO04wfuY_sicon-16912f07fc7"
+  },
+  {
+    "title": "Top Picks – Hot Air",
+    "url": "https://hotair.com",
+    "image": "https://storage.googleapis.com/site-assets/tXaFTkERf9tw0JXWo3YXXxaSQsdRIPI0ApJGI3RuYA0_icon-15e3c6c58f8"
+  },
+  {
+    "title": "Talking Points Memo",
+    "url": "https://talkingpointsmemo.com",
+    "image": "https://storage.googleapis.com/site-assets/eFEeTWBsefuEu7guhRurzG1o8v4ABTwwf9MmeiaxEZQ_icon-162c31bc32d"
+  },
+  {
+    "title": "Jacobin",
+    "url": "https://www.jacobinmag.com",
+    "image": "https://storage.googleapis.com/site-assets/fpIvuEJ2Q_23GbxxZmBfDjRwYTrksO9C6ef9-RFex2c_icon-1690e00476f"
+  },
+  {
+    "title": "Cato @ Liberty",
+    "url": "https://www.cato.org/",
+    "image": "https://storage.googleapis.com/site-assets/XwOj1QBBOEC4yXwoWkWdNaXbeM2zPon7o7HtaoPnr2I_icon-15b92787287"
+  },
+  {
+    "title": "The American Prospect",
+    "url": "https://prospect.org/rss.xml",
+    "image": "https://storage.googleapis.com/site-assets/pC5k9Kfaj1C0lg5azhYJlxJZW_03Oqi_mrcHFldiIPw_icon-169111e67b9"
+  },
+  {
+    "title": "Raw Story",
+    "url": "https://www.rawstory.com",
+    "image": "https://storage.googleapis.com/site-assets/yFizr8eFAHDRUm9LeE3xgYbXXruy6e32NidzSCyHm2c_icon-16117eb0dc0"
+  },
+  {
+    "title": "Wonkette",
+    "url": "https://www.wonkette.com/",
+    "image": "https://storage.googleapis.com/site-assets/KjJQG0o43-BRYKEkEbyY1dp0nAkpmrAHcCCAbOKNWX8_icon-163fd9455a0"
+  },
+  {
+    "title": "RedState",
+    "url": "https://www.redstate.com",
+    "image": "https://storage.googleapis.com/site-assets/5id9ONXF8IgHyFuApBWjBctjdW7PGv4KOj4BAiLT19s_sicon-15e130d0e5b"
+  },
+  {
+    "title": "Shadowproof",
+    "url": "https://shadowproof.com",
+    "image": "https://storage.googleapis.com/site-assets/waazg40yNSXXFHuveHZEQqGmSPSSrVelBK2wCCMtFFQ_icon-15b9277e008"
+  },
+  {
+    "title": "NB Blog Feed",
+    "url": "https://www.newsbusters.org/",
+    "image": "https://storage.googleapis.com/site-assets/nDRbdgYIULyl52suVwIc8WX4Jn6tSEiCSVBICHRPcfw_sicon-167ec1d126f"
+  },
+  {
+    "title": "Power LinePower Line",
+    "url": "https://www.powerlineblog.com",
+    "image": "https://storage.googleapis.com/site-assets/CeGc7R9sZVQqadiZuF57frtlpXXD9a1kGd8jttpmWgA_icon-164cb51a9ef"
+  },
+  {
+    "title": "Reason.com Full Feed",
+    "url": "https://reason.com/",
+    "image": "https://storage.googleapis.com/site-assets/vHZzyth-S8OB4N09SSSSopNPUgjjIPjdwtAsPsgeYCE_icon-1607a11ccf7"
+  },
+  {
+    "title": "Quillette",
+    "url": "https://quillette.com"
+  },
+  {
+    "title": "Political Wire",
+    "url": "https://politicalwire.com",
+    "image": "https://storage.googleapis.com/site-assets/tHpALmksaywVU6OcRsKuYp8gWzMw7jZHipWWqrWrr5c_sicon-165f3dd781c"
+  },
+  {
+    "title": "article – Mother Jones",
+    "url": "https://www.motherjones.com",
+    "image": "https://storage.googleapis.com/site-assets/jRVgMJWw-BTTDxzuF2_19q3NAzLZ3CxaI6OaRbGd38g_icon-166a1cca340"
+  },
+  {
+    "title": "Monkey Cage",
+    "url": "https://www.washingtonpost.com",
+    "image": "https://storage.googleapis.com/site-assets/EjIz4s42lUEdQ_7_MOAZEoz9emXBMYXA8z2-VHO8bvU_icon-166eff15b35"
+  },
+  {
+    "title": "Eschaton",
+    "url": "http://www.eschatonblog.com/",
+    "image": "http://storage.googleapis.com/site-assets/jDt65wbe00Z1lqWwoXD3_Svr0whuFPf2S91ovs6qYUo_icon-15412729ac0"
+  },
+  {
+    "title": "News - Esquire",
+    "url": "https://www.esquire.com/",
+    "image": "https://storage.googleapis.com/site-assets/qo8WBd13-nILckPDS-skBMPBnMZFDgcFzY0o_FfvvQI_icon-16852be87bd"
+  },
+  {
+    "title": "CounterPunch.org",
+    "url": "https://www.counterpunch.org",
+    "image": "https://storage.googleapis.com/site-assets/QHDPmBDDa_ajj9aO_MkA7RvqJC_7riayOjju4QpF25w_sicon-169c655ea2b"
+  },
+  {
+    "title": "Guido Fawkes",
+    "url": "https://order-order.com",
+    "image": "https://storage.googleapis.com/site-assets/anLoUuCRWdeZpTAx9eHbe-sjJxTVWoC2Wn3UCnBxSLk_icon-1681e5f6b07"
+  },
+  {
+    "title": "Balloon Juice",
+    "url": "https://www.balloon-juice.com",
+    "image": "https://storage.googleapis.com/site-assets/-vw9xFsaP-s6Cr8dhA77kWSy7-JFwPB-T-FwOaUVSEA_icon-1694bb81894"
+  },
+  {
+    "title": "The Gateway Pundit",
+    "url": "https://www.thegatewaypundit.com",
+    "image": "https://storage.googleapis.com/site-assets/nbF9ydX5BmCx3Jte3H_YY_FYWcrijPSQd-O9scyByVg_icon-163bf89f2f7"
+  },
+  {
+    "title": "AMERICAblog NewsAMERICAblog News",
+    "url": "http://americablog.com",
+    "image": "http://storage.googleapis.com/site-assets/iI8iQGssresIupg-c7l3ea325LW6E8LZUrUSmGXVBsY_icon-15413af7eb0"
+  },
+  {
+    "title": "Lawyers, Guns & Money",
+    "url": "http://www.lawyersgunsmoneyblog.com",
+    "image": "http://storage.googleapis.com/site-assets/k8_jc5DVUkLmE68lqEx041TVgd0h1n8c-sw6ds5v5Qo_icon-1541280284c"
+  },
+  {
+    "title": "Hullabaloo by digby",
+    "url": "https://digbysblog.blogspot.com/",
+    "image": "https://storage.googleapis.com/test-site-assets/M_HZhiEU_vRC7_YbN0mNGnDKd_no0exKFRdzQQ4HLqE_oicon-1658645e286"
+  },
+  {
+    "title": "Right Wing Watch",
+    "url": "http://www.rightwingwatch.org",
+    "image": "https://storage.googleapis.com/site-assets/PP5fLhiAMV-GHVUVonMriw56Nx5bNWfWKTE4D_0Qzlk_icon-15c7af436be"
+  },
+  {
+    "title": "NY Mag",
+    "url": "http://nymag.com/",
+    "image": "http://storage.googleapis.com/site-assets/Dz51gkBgvGUvFOfTATCYLB2uqVaBIaGGazzxpZh2WL0_icon-15415bbda36"
+  },
+  {
+    "title": "Washington Monthly",
+    "url": "https://washingtonmonthly.com",
+    "image": "https://storage.googleapis.com/site-assets/2EYXEBtGYcdChMEthX5HQEIiP0QI7czJ6PoCgs3lAok_icon-161241588b1"
+  },
+  {
+    "title": "Breaking Political News and Conservative Analysis",
+    "url": "https://townhall.com/rss/columnists",
+    "image": "https://storage.googleapis.com/site-assets/qEZUJeTHf71bx4ERy9jUo_WCVl-JNFz80VWCGg3bcc4_icon-168e6910bb6"
+  },
+  {
+    "title": "emptywheel",
+    "url": "https://www.emptywheel.net",
+    "image": "https://storage.googleapis.com/site-assets/OSQBlkfG6_OfO5cj24Fm_BZmlLRvOSjOtwYA1jUtqgg_icon-169d1f3be9d"
+  },
+  {
+    "title": "RealClearPolitics - Articles",
+    "url": "http://www.realclearpolitics.com/",
+    "image": "https://storage.googleapis.com/site-assets/wFJv2yzvyBwDVn5jbZbUE61aU2aSt63jXMLMSJxQOIo_icon-15da9928f31"
+  },
+  {
+    "title": "Daily Kos",
+    "url": "https://www.dailykos.com",
+    "image": "https://storage.googleapis.com/site-assets/xJGE--CKFHhh-wBmmSH1hyte1i_RKPEYcbioKMzK7rY_sicon-15f61cad1d7"
+  },
+  {
+    "title": "Ace of Spades HQ",
+    "url": "http://ace.mu.nu/",
+    "image": "https://storage.googleapis.com/site-assets/w2-igqwxflZRnQYbHjy_y5-VYPCjfgK3rsLy-Lij4EE_icon-169e3503a6f"
+  },
+  {
+    "title": "Politifact.com stories from National",
+    "url": "http://www.politifact.com/truth-o-meter/",
+    "image": "https://storage.googleapis.com/site-assets/uR2vlqNTEW2EgAYe8gdLf1xqVmpkJFQNSX6cItWKunU_icon-16907b7790a"
+  },
+  {
+    "title": "Vox: All Posts by Ezra Klein",
+    "url": "https://www.vox.com/",
+    "image": "https://storage.googleapis.com/site-assets/e_SI0G8SF6y7EufBKZ0JlTCX9cYWhLfnI5dsMEBZw7M_icon-15bc81753ea"
+  },
+  {
+    "title": "The Corner | National Review",
+    "url": "https://www.nationalreview.com",
+    "image": "https://storage.googleapis.com/site-assets/6oPFB7IeRQ_va6fhbwqSQLZd0w_aRTKxkr9IxhX8igU_icon-161a812dd6d"
+  },
+  {
+    "title": "Crooked Media",
+    "url": "https://crooked.com",
+    "image": "https://storage.googleapis.com/site-assets/JvovDr6NPJBKbDgpQqcbfLNv_pUK00qy02lUuCe_8AQ_icon-15eeb6522be"
+  },
+  {
+    "title": "Vox: All Posts by Matthew Yglesias",
+    "url": "https://www.vox.com/",
+    "image": "https://storage.googleapis.com/site-assets/x5esXTLcvK5fglYPOYrT6yIzEWAr6JJNqOA1-XBMfn0_icon-15bc8174f0c"
+  },
+  {
+    "title": "SteynOnline",
+    "url": "https://www.steynonline.com",
+    "image": "https://storage.googleapis.com/site-assets/ehZwDojJUWTMBOxX3JYmpn5X2eNzVCu6zdTenHPYw5k_icon-15b92936670"
+  },
+  {
+    "title": "The Plum Line",
+    "url": "https://www.washingtonpost.com",
+    "image": "https://storage.googleapis.com/site-assets/GCtftS9O2kl0TNgdFBoLmjJKbqAEkZ99Ck2aMAiJGys_icon-166eff15dc1"
+  },
+  {
+    "title": "Media Matters for America",
+    "url": "https://www.mediamatters.org/",
+    "image": "https://storage.googleapis.com/site-assets/qYU_xlsUY7yFMBY9fxUwF448_fAKMCd-XwU81KwlYVI_icon-15cb0486068"
+  },
+  {
+    "title": "The Rude Pundit",
+    "url": "http://rudepundit.blogspot.com/",
+    "image": "http://storage.googleapis.com/site-assets/sw-RGAaNUpqef4xyDh_uKVUvgYS8jZ5Ly3X4SFAGzC0_icon-15413c691df"
+  },
+  {
+    "title": "What The Fuck Just Happened Today?",
+    "url": "https://whatthefuckjusthappenedtoday.com/?utm_source=rss&utm_medium=referral&utm_campaign=morning_update"
+  },
+  {
+    "title": "The Rachel Maddow Show | msnbc",
+    "url": "http://www.msnbc.com/feeds/rss/full/13348"
+  },
+  {
+    "title": "Princeton Election Consortium",
+    "url": "http://election.princeton.edu",
+    "image": "https://storage.googleapis.com/site-assets/7h3X6Byz1IkLjN3fz6iCnkX62CF8zoG_qsNOI-FG_bM_icon-15b63de3125"
+  },
+  {
+    "title": "The Last Refuge",
+    "url": "https://theconservativetreehouse.com",
+    "image": "https://storage.googleapis.com/site-assets/luINx41tMfKkgor1zqqHY98Bp2ykCsi_IMKIjH_deNo_icon-163d7fe4d85"
+  },
+  {
+    "title": "Wonkblog",
+    "url": "https://www.washingtonpost.com",
+    "image": "https://storage.googleapis.com/site-assets/4qGKfPa9r2mTJ_pO8i7dN3PlZIXiMYdlMIPyjszItQU_icon-166eff1587f"
+  }
+]

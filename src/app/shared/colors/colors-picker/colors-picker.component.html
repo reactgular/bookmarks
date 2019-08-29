@@ -1,0 +1,7 @@
+<div *ngFor="let btn of buttons$ | async"
+     class="color-button"
+     [matTooltip]="btn.toolTip"
+     [tagCardColor]="btn.color"
+     (click)="color = btn.color">
+    <fa-icon *ngIf="btn.icon" [icon]="btn.icon"></fa-icon>
+</div>

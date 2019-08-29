@@ -1,0 +1,27 @@
+<div class="tag-card-content"
+     *ngIf="card$ | async as card"
+     [tagCardColor]="card.color">
+    <form (submit)="close()" class="d-flex mb-1 mt-2 ml-3 mr-3 align-items-baseline">
+        <input class="tag-card-title text-truncate"
+               autocomplete="off"
+               name="title"
+               placeholder="Title"
+               #editTitle
+               (focus)="closeItem()"
+               (ngModelChange)="setCardTitle($event)"
+               [ngModel]="card.title">
+        <tag-timestamp *ngIf="!(isNewCard$ | async)"
+                       class="ml-auto"
+                       [entity]="card"></tag-timestamp>
+    </form>
+    <tag-card-empty *ngIf="card._item_ids.length === 1"
+                    [animate]="isCardEditorOpen$ | async"></tag-card-empty>
+    <tag-card-drag-items></tag-card-drag-items>
+    <div class="d-flex m-2"
+         [class.mt-2]="isNewCard$ | async">
+        <tag-reactive-ribbon class="flex-grow-1"
+                             [limit]="8"
+                             [tools]="cardTools"></tag-reactive-ribbon>
+        <button mat-button (click)="close()">CLOSE</button>
+    </div>
+</div>

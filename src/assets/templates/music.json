@@ -1,0 +1,491 @@
+[
+  {
+    "title": "Rolling Stone",
+    "url": "https://www.rollingstone.com",
+    "image": "https://storage.googleapis.com/site-assets/Dl1WNHettX3IppSxFERIHmRiV7QisiJZnDDkSDLSc7I_icon-1645e7d3f2f"
+  },
+  {
+    "title": "Stereogum",
+    "url": "https://www.stereogum.com",
+    "image": "https://storage.googleapis.com/site-assets/53sc2_Wa7xwxBhn0GMR7BzjqAc53R6iNow4h4a4FMCc_icon-15b63909f71"
+  },
+  {
+    "title": "Pitchfork",
+    "url": "https://pitchfork.com/",
+    "image": "https://storage.googleapis.com/site-assets/54Rfx1U7N7Tf4rAoTdPNlzk27qEqAQNv-kYTXRzKvuw_icon-16575186d66"
+  },
+  {
+    "title": "NPR - Music",
+    "url": "https://www.npr.org/templates/story/story.php?storyId=1039",
+    "image": "https://storage.googleapis.com/site-assets/xIufq2kFWs6qy_SsbJf_NIwr_pU6NaHIwkFes2-kHUw_icon-15f9fda06c2"
+  },
+  {
+    "title": "New Album Releases",
+    "url": "http://newalbumreleases.net",
+    "image": "https://storage.googleapis.com/site-assets/xODXKy7lVP4zZAJdq4C_nrB0PqxLhouJ5kxDBFzGi_I_sicon-169e9160dce"
+  },
+  {
+    "title": "Best New Albums - Pitchfork",
+    "url": "https://pitchfork.com/reviews/best/albums/",
+    "image": "https://storage.googleapis.com/site-assets/CHb6bfDmPLiCKjqGAl28leYcmQeqcgv_sIvUKPmSje0_sicon-1644d92de2e"
+  },
+  {
+    "title": "RSS: Album Reviews",
+    "url": "https://pitchfork.com/feed-album-reviews",
+    "image": "https://storage.googleapis.com/site-assets/MnK_qb3QdktOfpissys4HN1FDuCSDNzoBDY67xnxMec_icon-15e31f9625f"
+  },
+  {
+    "title": "CDM Create Digital Music",
+    "url": "http://cdm.link",
+    "image": "https://storage.googleapis.com/site-assets/ondIFlUFb0H6h-SHJqP32GeQf5xd4-XMc4vyvZkDsP0_sicon-15c15377f65"
+  },
+  {
+    "title": "NME",
+    "url": "https://www.nme.com",
+    "image": "https://storage.googleapis.com/site-assets/dbRZDTdtk_uoPR3pYnljCc0HKM2ffsnY1AOy18wTyRE_icon-1674245efc3"
+  },
+  {
+    "title": "GORILLA VS. BEAR",
+    "url": "http://www.gorillavsbear.net",
+    "image": "https://storage.googleapis.com/site-assets/DfVLuv31RXmeA0b5pUL82MF3kYlHK2j2-fxgu6UNjOI_icon-15de893fd64"
+  },
+  {
+    "title": "Billboard",
+    "url": "https://www.billboard.com/",
+    "image": "https://storage.googleapis.com/site-assets/aOshqP593LqnipCzK7HiL33mAAejwxE5_itW3GYk_2A_icon-163cd8bc67d"
+  },
+  {
+    "title": "BrooklynVegan",
+    "url": "http://www.brooklynvegan.com",
+    "image": "http://storage.googleapis.com/site-assets/SJyLibhuU1xZJAL6mvwrh6VjpnXfbuSKnG8_fQPtkU4_icon-15415bf52dd"
+  },
+  {
+    "title": "The FADER",
+    "url": "https://www.thefader.com/",
+    "image": "https://storage.googleapis.com/site-assets/Ufqsh3I-5UCWAH0CSB7LEO5auCkcdUEu1TLOmRWX3V0_icon-1651da8028a"
+  },
+  {
+    "title": "Consequence of Sound",
+    "url": "https://consequenceofsound.net",
+    "image": "https://storage.googleapis.com/site-assets/3kHdKdvRjDwYaDkZKPi_PQfZudlsDqSKhZORynk8eQs_icon-164077d9985"
+  },
+  {
+    "title": "FACT Magazine",
+    "url": "https://www.factmag.com",
+    "image": "https://storage.googleapis.com/site-assets/Gv4ia0MGTIaAncAJALLdbYGIU-EoijQswY27jktmRXo_icon-16768d50766"
+  },
+  {
+    "title": "SPIN",
+    "url": "https://www.spin.com",
+    "image": "https://storage.googleapis.com/site-assets/D3wUBlxObz6hGBIwB9JSVGF49v1qk4lDqB8n__iPTRo_icon-169743a9b1c"
+  },
+  {
+    "title": "Best New Tracks - Pitchfork",
+    "url": "https://pitchfork.com/reviews/best/tracks/",
+    "image": "https://storage.googleapis.com/site-assets/XvV2vF7M7-qep_gf3Ztk9b9gWaPpLfScYBbEhiAFWSM_sicon-162a0d994df"
+  },
+  {
+    "title": "Rap Radar",
+    "url": "http://rapradar.com",
+    "image": "https://storage.googleapis.com/site-assets/TT2sDI3ah6WdzRs1jC3XJqWGBX7PqlCREm8000cbXgk_icon-169c871327a"
+  },
+  {
+    "title": "Noisey",
+    "url": "https://noisey.vice.com/en_us",
+    "image": "https://storage.googleapis.com/site-assets/l7nNq-hH4bKxLwoQjtBdQo1sHB5tjL-nNrDtcx1Ro9E_icon-15f4ef334b3"
+  },
+  {
+    "title": "Sound On Sound Latest news",
+    "url": "https://www.soundonsound.com/",
+    "image": "https://storage.googleapis.com/site-assets/5UoVZGv-rbA1cVKGIdLXqwkmF8CpfZnNKtZJeAHFuJ4_icon-1634e2299d6"
+  },
+  {
+    "title": "Music | The Guardian",
+    "url": "https://www.theguardian.com/music",
+    "image": "https://storage.googleapis.com/site-assets/2jTT6Js2W2uUTYYNQ4-qCDUGNMiGCGIJq9ouaoXkjDE_icon-167084bcef5"
+  },
+  {
+    "title": "DJ TechTools",
+    "url": "https://djtechtools.com"
+  },
+  {
+    "title": "hypebot",
+    "url": "https://www.hypebot.com/hypebot/"
+  },
+  {
+    "title": "Pretty Much Amazing",
+    "url": "https://prettymuchamazing.com",
+    "image": "https://storage.googleapis.com/site-assets/5q-0-Y7UFrag8E_TYYXrlTz90GI_rGhi9yLwhB1I8jQ_icon-15c48d61f56"
+  },
+  {
+    "title": "HipHopDX News",
+    "url": "https://hiphopdx.com/news",
+    "image": "https://storage.googleapis.com/site-assets/mj_dn3wwqhl7XP6ZOwheC5inxac0KTFJQgsQVjFBHAY_icon-166d35cfcf4"
+  },
+  {
+    "title": "RA News",
+    "url": "http://www.residentadvisor.net/",
+    "image": "https://storage.googleapis.com/site-assets/Epxg39UnkFdd-vEcMQ5weNayJW1-RD6eLmL35MtUiF0_icon-15cbf30f730"
+  },
+  {
+    "title": "LouderSound",
+    "url": "https://www.loudersound.com/feeds/all",
+    "image": "https://storage.googleapis.com/test-site-assets/cYEN9hM1tnGATtueN0Q5vLcgBSaCWhYjY6Dc-sUmZG0_oicon-1658bbe8407"
+  },
+  {
+    "title": "The Quietus",
+    "url": "https://thequietus.com",
+    "image": "https://storage.googleapis.com/site-assets/RT8kRb-PsgcSALivvazBMdquuQ1yVdTb51lCIwhJGJg_icon-16841442edb"
+  },
+  {
+    "title": "Synthtopia",
+    "url": "http://www.synthtopia.com",
+    "image": "https://storage.googleapis.com/site-assets/CKOxxuhAbQSFbUQQS-uf1lE6K4Zf1F2cLb755O--8H4_icon-16661f33e9d"
+  },
+  {
+    "title": "Aquarium Drunkard",
+    "url": "https://aquariumdrunkard.com",
+    "image": "https://storage.googleapis.com/site-assets/7o65-oeCoVfKsXCT4kjAUK4IPl5EWfemDTY0rCHBLY8_icon-16752676302"
+  },
+  {
+    "title": "2DOPEBOYZ",
+    "url": "https://2dopeboyz.com"
+  },
+  {
+    "title": "Pigeons & Planes RSS",
+    "url": "http://pigeonsandplanes.com/feeds/generator/e/n/3.rss",
+    "image": "https://storage.googleapis.com/site-assets/JVvYCyjYQlAinHvBvfmlhCVRFfZVSdVOib5LOAXAjWo_icon-15b92787d05"
+  },
+  {
+    "title": "MetalSucks",
+    "url": "http://www.metalsucks.net",
+    "image": "https://storage.googleapis.com/site-assets/2HeVmQIgik_jHUg_UGOTiiI_jFT2WXToRO5wa6BxbpU_icon-15d4138ecb2"
+  },
+  {
+    "title": "Complex Music",
+    "url": "http://www.complex.com/music",
+    "image": "https://storage.googleapis.com/site-assets/ztQQT0Ldjcg72eySViz7tMbYHislYGDCPyaCFffEFfs_sicon-15efacd7203"
+  },
+  {
+    "title": "XXL Mag",
+    "url": "http://www.xxlmag.com",
+    "image": "https://storage.googleapis.com/site-assets/qxb9qWlrd1fUfrI9u3wUqq0RxBhG3Byrw8NChGpBLss_sicon-169c654277b"
+  },
+  {
+    "title": "●●●",
+    "url": "http://nodata.tv",
+    "image": "https://storage.googleapis.com/site-assets/ILLOaA3X7bDyc9z35lmFzYpcgo0chevBTnYfvHbBthA_sicon-15d9aac277b"
+  },
+  {
+    "title": "Alex Ross: The Rest Is Noise",
+    "url": "https://www.therestisnoise.com/",
+    "image": "https://storage.googleapis.com/site-assets/JJZcnBMge8sJ_TPWNaUagcghrl41hVxHAy2lxHdWTNU_sicon-166a4e32162"
+  },
+  {
+    "title": "idolator",
+    "url": "http://www.idolator.com",
+    "image": "http://storage.googleapis.com/site-assets/zCqFNXZzk5G_KpJK3lNYv9_ki9bXgmnT5VE4X6CQ8zA_icon-1543090472e"
+  },
+  {
+    "title": "Metal Injection",
+    "url": "https://metalinjection.net",
+    "image": "https://storage.googleapis.com/site-assets/Ov-DTLk6E4qzfMKvEjLRDZEP4nS_ccvl3Nt_uJ30T_I_icon-1697b3cb462"
+  },
+  {
+    "title": "HotNewHipHop.com",
+    "url": "https://www.hotnewhiphop.com",
+    "image": "https://storage.googleapis.com/site-assets/COAA5sn1vNhwAD7hB7Qz9cCxge7E1Vepf-BvaWOg3Pc_icon-16957634b04"
+  },
+  {
+    "title": "Dancing Astronaut",
+    "url": "https://dancingastronaut.com",
+    "image": "https://storage.googleapis.com/site-assets/Owj5eaU8aVc_quWaTCwVQRbQpUooenru6pfhift8Wn8_icon-165464c315c"
+  },
+  {
+    "title": "RSS | IsraBox",
+    "url": "https://www.isrbx.com/",
+    "image": "https://storage.googleapis.com/site-assets/IH54O31PAvZZgj7T0nhrmfnSl2EHUOOKUMXcdsnu2oc_sicon-166b456e010"
+  },
+  {
+    "title": "Mixmag",
+    "url": "https://mixmag.net/"
+  },
+  {
+    "title": "Bedroom Producers Blog",
+    "url": "https://bedroomproducersblog.com"
+  },
+  {
+    "title": "EARMILK",
+    "url": "https://earmilk.com"
+  },
+  {
+    "title": "Loudwire",
+    "url": "http://loudwire.com",
+    "image": "https://storage.googleapis.com/site-assets/DmM8Q9_1yN1r4Qzqm7EuHiVQL6RsZxz7_hFkmN6SVD4_icon-16982c79dce"
+  },
+  {
+    "title": "RA - The Feed",
+    "url": "http://www.residentadvisor.net/",
+    "image": "https://storage.googleapis.com/site-assets/wXPQDRi7m-i-_EC7gzn1hP_AwNLs5pthE1A1HlutuZQ_icon-15cbf35c162"
+  },
+  {
+    "title": "Drowned In Sound // Feed",
+    "url": "http://dis11.herokuapp.com/",
+    "image": "https://storage.googleapis.com/site-assets/P6bGYvBqxx81LptHIQU8J4VBAkOovF8LKaDZJ_5VDs4_sicon-15b649a9f7f"
+  },
+  {
+    "title": "Largehearted Boy",
+    "url": "http://blog.largeheartedboy.com/",
+    "image": "http://storage.googleapis.com/site-assets/Rca7V-hRVox2RqstKx-UuuNXkqZI-SIVD1HePggk2ZQ_icon-1541278b39c"
+  },
+  {
+    "title": "Tiny Mix Tapes",
+    "url": "https://www.tinymixtapes.com/",
+    "image": "https://storage.googleapis.com/site-assets/uS9CE-rlbZ8EwPdKO_ZXJpHNj-zxAtSThsHY42tbve4_icon-1610d7c6086"
+  },
+  {
+    "title": "All Songs Considered : NPR",
+    "url": "https://www.npr.org/sections/allsongs/",
+    "image": "https://storage.googleapis.com/site-assets/PGiT8T4NzeqIl8Yh-DRRZcuy5I1ENg7PhldQsqKgmJk_icon-15f9fdcbf59"
+  },
+  {
+    "title": "AllMusic Blog",
+    "url": "https://www.allmusic.com/blog",
+    "image": "https://storage.googleapis.com/site-assets/TTovQENYgyk1YjkfUGeSznRRP_wjZyTZ6iC7OnxH0eA_icon-15f390d6a8c"
+  },
+  {
+    "title": "Bandcamp Daily",
+    "url": "https://daily.bandcamp.com",
+    "image": "https://storage.googleapis.com/site-assets/er8HmNrM5HhC2veQ8UTzMIQ2_6lG2MR5RRqJ3Exjdi8_icon-1699ca43b81"
+  },
+  {
+    "title": "Punknews.org",
+    "url": "https://www.punknews.org",
+    "image": "https://storage.googleapis.com/site-assets/PushqI7Bn3GpMACrkeXbJ9HoBDBkRJRoeyef-o7sF5Q_icon-163413c00d5"
+  },
+  {
+    "title": "RSS: Features",
+    "url": "https://pitchfork.com/feed-features",
+    "image": "https://storage.googleapis.com/site-assets/Jyjl9FwMdxfLm1WbXuZJdgqpRIjgbbxrkdsoA8qUhmY_icon-15e31fc7037"
+  },
+  {
+    "title": "Attack Magazine",
+    "url": "https://www.attackmagazine.com",
+    "image": "https://storage.googleapis.com/site-assets/VwCGQx5OqrCW1NP7jotn3WECXQgqIUyfERQdKmN4g8c_icon-16911c275e7"
+  },
+  {
+    "title": "NYT > Music",
+    "url": "https://www.nytimes.com/section/arts/music?partner=rss&emc=rss",
+    "image": "https://storage.googleapis.com/site-assets/0sLwknxjQeJEwrDZ4RK16ElIDt2RKa_ereb-zlxuGns_icon-1690c028ced"
+  },
+  {
+    "title": "Indie Shuffle Music Blog",
+    "url": "http://wwws.indieshuffle.com",
+    "image": "https://www.indieshuffle.com/bundles/webbundle/images/icons/highres-favicon.png"
+  },
+  {
+    "title": "Music Business Worldwide",
+    "url": "https://www.musicbusinessworldwide.com",
+    "image": "https://storage.googleapis.com/site-assets/ka_0RvUyBKlY2z89yl32mn8wbvEZ5x-FohDeUbQxCfM_sicon-15b6b455db3"
+  },
+  {
+    "title": "Rap-Up",
+    "url": "https://www.rap-up.com",
+    "image": "https://storage.googleapis.com/site-assets/uG0MA6WXPvZSOcJuEDRS5hSSNjmEpzptTJkB2LWQHak_icon-1651354ee45"
+  },
+  {
+    "title": "MetalUnderground.com",
+    "url": "http://www.metalunderground.com/",
+    "image": "http://storage.googleapis.com/site-assets/1aOu8FqBlhJiNTESWOC4vTe0SK5IPabcHUyM7eFxkuE_icon-15413af14ba"
+  },
+  {
+    "title": "Latest Music Metascores on Metacritic",
+    "url": "https://www.metacritic.com",
+    "image": "https://storage.googleapis.com/site-assets/tH-zC05nRtFoSm_GH39e965b2Dvub0uUFU6vjo-zU5A_icon-165b2fc95e2"
+  },
+  {
+    "title": "Your EDM",
+    "url": "https://www.youredm.com",
+    "image": "https://storage.googleapis.com/site-assets/OD9o2K7_r5UyyE3-jMY2b5GLLybRDHSOaBs0U2hsPL0_icon-169caf7adfb"
+  },
+  {
+    "title": "Okayplayer",
+    "url": "https://www.okayplayer.com",
+    "image": "https://storage.googleapis.com/site-assets/SQlc8xMjp76M8bpIYlyMuIpmozvCTQZqVzJq_8LMpsE_icon-166b98f572f"
+  },
+  {
+    "title": "The Line Of Best Fit",
+    "url": "https://www.thelineofbestfit.com"
+  },
+  {
+    "title": "RA - Features",
+    "url": "http://www.residentadvisor.net/",
+    "image": "https://storage.googleapis.com/site-assets/kOP-KIRImMCFUvvVh7eKYu8o4w845zWqkV09dIhP_qE_icon-15cbf391951"
+  },
+  {
+    "title": "Discobelle.net",
+    "url": "http://www.discobelle.net",
+    "image": "http://storage.googleapis.com/site-assets/9JN0SuM1Eo8tibde5Muoq1WLczpYQlxjH6Azlkq4EGE_icon-154128d4fb2"
+  },
+  {
+    "title": "The Vinyl Factory",
+    "url": "https://thevinylfactory.com",
+    "image": "https://storage.googleapis.com/site-assets/1aLHSdtgaYdEE0pZ4SJpdKXBfgrEAhv02Rl9uBRSM7k_icon-15f148eec54"
+  },
+  {
+    "title": "exystence",
+    "url": "http://exystence.net",
+    "image": "https://storage.googleapis.com/site-assets/_CLOTs9cOO_h5IzqVijVzME9DjSZEP8nPIgGWVzEIO8_sicon-161b23cc4ae"
+  },
+  {
+    "title": "DummyMag",
+    "url": "https://www.dummymag.com",
+    "image": "https://storage.googleapis.com/site-assets/aPyPWAFScjvvh1V5frj0eF_SErGLSOUwej5UHEdH7rY_icon-167c5a2af93"
+  },
+  {
+    "title": "The Music Ninja",
+    "url": "http://www.themusicninja.com",
+    "image": "https://storage.googleapis.com/site-assets/z7T301Nm2QgcYhqZZvdtpTqURhHKZFGqsgSLc6hQ9As_icon-15b63b3c5bc"
+  },
+  {
+    "title": "RA - Album Reviews",
+    "url": "http://www.residentadvisor.net/",
+    "image": "https://storage.googleapis.com/site-assets/sKvUDHsQm-yo4h5M_ELhy00yNW5TOb2L3ofOr9w7SP4_icon-15cbf392166"
+  },
+  {
+    "title": "Ultimate Classic Rock",
+    "url": "http://ultimateclassicrock.com",
+    "image": "http://storage.googleapis.com/site-assets/io_KRT4tkTtCQuxyhPSdExQbSRLphNAWqBLGvy3FC3I_icon-154142b5437"
+  },
+  {
+    "title": "chorus.fm",
+    "url": "https://chorus.fm"
+  },
+  {
+    "title": "RSS: Track Reviews",
+    "url": "https://pitchfork.com/feed-track-reviews",
+    "image": "https://storage.googleapis.com/site-assets/Q9YC4ykdXE13dgWaIx4onZLfteHvtImFyPvGWzdDTNc_icon-15e31fc7576"
+  },
+  {
+    "title": "Said the Gramophone",
+    "url": "http://www.saidthegramophone.com/",
+    "image": "https://storage.googleapis.com/site-assets/dG1Lo8cfQp1gdRh_9vmg242NPUiRiw7l4afs60xsgIU_icon-15c10ba4d49"
+  },
+  {
+    "title": "Invisible Oranges - The Metal Blog",
+    "url": "http://www.invisibleoranges.com",
+    "image": "http://storage.googleapis.com/site-assets/1nWmzsPg3NjlsdC5QWaGbBOuHij9h-UB0GPCxti1VAc_icon-15413f3c920"
+  },
+  {
+    "title": "slicing up eyeballs // 80s alternative music, college rock, indie",
+    "url": "http://www.slicingupeyeballs.com",
+    "image": "http://storage.googleapis.com/site-assets/gsUzckjJ3aCPBGzbEf30ytyomXGBUmv81aZunYUJPIE_icon-15411a9faca"
+  },
+  {
+    "title": "Fluxblog",
+    "url": "http://www.fluxblog.org",
+    "image": "https://storage.googleapis.com/site-assets/MnfMYgu1bdVa3jRVOKYBurTBU06Q-kfFreqgVKCjXVA_sicon-15b635b9b8e"
+  },
+  {
+    "title": "Angry Metal Guy",
+    "url": "https://www.angrymetalguy.com"
+  },
+  {
+    "title": "Obscure Sound - Indie Music Blog",
+    "url": "https://www.obscuresound.com"
+  },
+  {
+    "title": "20jazzfunkgreats",
+    "url": "http://www.20jazzfunkgreats.co.uk/wordpress",
+    "image": "https://storage.googleapis.com/site-assets/AFJq7bzQ2W8TLoyX2LKKK-ES4KUwY5w9cQwrJTZFGvw_sicon-161a6a6c923"
+  },
+  {
+    "title": "Soul-Sides.com",
+    "url": "http://soul-sides.com",
+    "image": "https://storage.googleapis.com/site-assets/aIj8q2qQ1T-Daco7URfDUByddrK29nECl6ldLDy6hAM_sicon-15b649c4854"
+  },
+  {
+    "title": "First Listen : NPR",
+    "url": "https://www.npr.org/templates/story/story.php?storyId=98679384",
+    "image": "https://storage.googleapis.com/site-assets/qd1IoUlUCZ_Mms3D65Iwk6qR2O7nX3EsLdzf-dM9nHU_icon-15f9fdd06ec"
+  },
+  {
+    "title": "The Wire: News",
+    "url": "https://www.thewire.co.uk/news/",
+    "image": "https://storage.googleapis.com/site-assets/x3FxJUaEHprV6cqIu-XP2XvCe0SIcMCc3xvs1oNH7qg_icon-1671b01909c"
+  },
+  {
+    "title": "JamBase",
+    "url": "https://www.jambase.com",
+    "image": "https://storage.googleapis.com/site-assets/b5rkGT__Gvbboe0CGyi04Cm0ez3fycseXR-w8WRQGnw_icon-15b92a1148b"
+  },
+  {
+    "title": "Popjustice",
+    "url": "https://www.popjustice.com",
+    "image": "https://storage.googleapis.com/site-assets/X45dPhTjGoxSLSILkWEb4qKvLmSqQ2aSzE12gKuY6lE_icon-168cc3fca4d"
+  },
+  {
+    "title": "Music – Rolling Stone",
+    "url": "https://www.rollingstone.com",
+    "image": "https://storage.googleapis.com/site-assets/ZWEINUvycto9EKD2UKzYFugPNvmukwA2iYdVYZ-MTME_icon-1645c7ea607"
+  },
+  {
+    "title": "Clash Magazine",
+    "url": "https://www.clashmusic.com",
+    "image": "https://storage.googleapis.com/site-assets/KtNbJVUsiYNomKNAc4RMLj-MXfH1HdbDfjXle-1_5_I_sicon-169ce0d917f"
+  },
+  {
+    "title": "BLABBERMOUTH.NET",
+    "url": "http://www.blabbermouth.net",
+    "image": "http://storage.googleapis.com/site-assets/kBsRN2AZkKXmlcBM6vtJ7AUIKcUFq4POicRNXJ_MWus_icon-15412647dbc"
+  },
+  {
+    "title": "Under the Radar",
+    "url": "http://www.undertheradarmag.com/",
+    "image": "https://storage.googleapis.com/site-assets/iEJvASJz3zCzgnxsWjyGlBNVmHNXHtBX8Kup2ovHC1U_icon-1693ebd0149"
+  },
+  {
+    "title": "CVLT Nation",
+    "url": "https://www.cvltnation.com",
+    "image": "https://storage.googleapis.com/site-assets/mooJZbv0dNk0Sg74WyHyh3L39WNiclVwPn3p4sG8BAU_icon-162dcbff89f"
+  },
+  {
+    "title": "Heavy Blog Is Heavy",
+    "url": "http://www.heavyblogisheavy.com",
+    "image": "http://storage.googleapis.com/site-assets/Il5RrCQ1JS5WKRYnGkig-Cmpqq06u4O1H8pAWGUV0W0_icon-1543d3e3448"
+  },
+  {
+    "title": "DIY",
+    "url": "http://diymag.com/",
+    "image": "http://storage.googleapis.com/site-assets/w6Ua9OVr3I0W76kRxvZU0q5MfFGsliyqNctz7Gm_zgg_icon-1543d703f57"
+  },
+  {
+    "title": "RA -  Reviews",
+    "url": "http://www.residentadvisor.net/",
+    "image": "https://storage.googleapis.com/site-assets/u_fP_q2DQrHCF2PaPbym0E0NMglS7wMA1d5T1VufDJo_icon-15ccf4c7452"
+  },
+  {
+    "title": "Cover Me",
+    "url": "http://www.covermesongs.com",
+    "image": "https://storage.googleapis.com/site-assets/xeRoKM5TIIz9n9_L1Gnxk6GaLHCjpAl5_dLDI3oLz4c_icon-16350992438"
+  },
+  {
+    "title": "superdeluxeedition",
+    "url": "http://www.superdeluxeedition.com",
+    "image": "https://storage.googleapis.com/site-assets/0ZspCruFKTbgx7c-HPIRuLsyq8B7ceAsPlMYGQzcLpI_icon-15ccff4faee"
+  },
+  {
+    "title": "NO CLEAN SINGING",
+    "url": "https://www.nocleansinging.com",
+    "image": "https://storage.googleapis.com/site-assets/df04COnQKyTM7dyWoQYmf23tO7Wo9HfesR3PpOcoQDk_sicon-1681f9f992f"
+  },
+  {
+    "title": "Wilfully Obscure",
+    "url": "http://wilfullyobscure.blogspot.com/",
+    "image": "https://storage.googleapis.com/site-assets/TY1YukJUVAI2gdom7dKjVHDddgPEiOmQheCtAXtDKdY_sicon-1676a146907"
+  },
+  {
+    "title": "Theprp.com",
+    "url": "https://www.theprp.com"
+  }
+]

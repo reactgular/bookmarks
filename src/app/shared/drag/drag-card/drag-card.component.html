@@ -1,0 +1,6 @@
+<div class="tag-draggable"
+     *ngIf="position"
+     [style.transform]="'translate(' + position.x +'px,' + position.y + 'px)'"
+     [style.width.px]="width">
+    <tag-card-view [cardId]="cardId$ | async"></tag-card-view>
+</div>

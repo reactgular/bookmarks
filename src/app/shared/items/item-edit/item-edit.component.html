@@ -1,0 +1,26 @@
+<ng-container *ngIf="itemId$ | async as itemId">
+    <div *ngIf="(isVisible$ | async) || isHovering"
+         class="item-selector">
+        <tag-item-drag class="mr-2"
+                       [class.opacity-0]="!(showControls$ | async) || (isNew$ | async)"
+                       [class.opacity-1]="(showControls$ | async) && !(isNew$ | async)"
+                       [disabled]="editorOpen$ | async"
+                       [itemId]="itemId"></tag-item-drag>
+        <tag-item-edit-trigger [itemId]="itemId"></tag-item-edit-trigger>
+        <tag-reactive-tool class="tool-small"
+                           *ngIf="itemCloseTool.visible() | async"
+                           [title]="false"
+                           [tool]="itemCloseTool"></tag-reactive-tool>
+        <tag-reactive-more class="tool-small"
+                           *ngIf="!(itemCloseTool.visible() | async)"
+                           [class.opacity-0]="isNew$ | async"
+                           [tools]="itemTools"></tag-reactive-more>
+    </div>
+    <tag-panel-accordion [tagCardColor]="(editorOpen$ | async) ? (card$ | async)?.color : undefined"
+                         [tagScrollTop]="(editorOpen$ | async) ? 0 : 0"
+                         [open]="editorOpen$ | async"
+                         #panel="panelAccordion">
+        <tag-item-form [ready]="(panel.state$ | async) === 'open'"
+                       [itemId]="itemId"></tag-item-form>
+    </tag-panel-accordion>
+</ng-container>

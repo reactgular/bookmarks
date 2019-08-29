@@ -1,0 +1,9 @@
+<tag-reactive-tool *ngFor="let tool of tools|slice:0:limit; let indx = index"
+                   [title]="false"
+                   [tool]="tool"
+                   [muted]="muted$[indx] | async"></tag-reactive-tool>
+<tag-reactive-more *ngIf="(tools|slice:limit)?.length"
+                   (opened)="menu$.next(true)"
+                   (closed)="menu$.next(false)"
+                   [muted]="menuMuted$ | async"
+                   [tools]="tools|slice:limit"></tag-reactive-more>

@@ -1,0 +1,12 @@
+@import "../config";
+
+:host {
+    display: flex;
+    flex-direction: column;
+    padding: map-get($spacers, 3);
+    max-width: 30rem;
+
+    .message {
+        font-size: $_16px;
+    }
+}

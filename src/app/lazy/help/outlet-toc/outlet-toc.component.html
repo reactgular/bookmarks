@@ -1,0 +1,22 @@
+<ng-container *ngIf="toc$ | async as toc; else pageNotFound">
+    <div class="pageFound container mt-3 mb-3">
+        <div class="row">
+            <div class="col-4">
+                <mat-card>
+                    <mat-card-content>
+                        <rg-toc [active]="current$ | async"
+                                [toc]="toc$ | async"></rg-toc>
+                    </mat-card-content>
+                </mat-card>
+            </div>
+            <div class="col-8">
+                <router-outlet></router-outlet>
+            </div>
+        </div>
+    </div>
+</ng-container>
+<ng-template #pageNotFound>
+    <div class="pageNotFound">
+        <rg-page-not-found></rg-page-not-found>
+    </div>
+</ng-template>

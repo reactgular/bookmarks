@@ -1,0 +1,39 @@
+@import "~@reactgular/media/scss/bootstrap";
+@import "px_to_rem";
+
+$unit: $_4px;
+$unit-xsm: $unit;
+$unit-sm: $unit * 2;
+$unit-md: $unit * 3;
+$unit-lg: $unit * 4;
+$unit-xlg: $unit * 5;
+
+$padding: $unit;
+$margin: $unit-sm;
+$spacer: $unit-lg;
+
+$roboto-font: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$roboto-condensed: 'Roboto Condensed', arial, sans-serif;
+$roboto-slab: 'Roboto-Slab', 'Times New Roman', serif;
+
+//
+// Set font for Bootstrap
+$font-family-sans-serif: $roboto-font;
+
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+
+$toolbar-height: 64px;
+
+$selection-z-index: 3;
+$selection-card-z-index: 4;
+
+$top-bar-height: 50px;
+$side-bar-width: 16rem;
+$side-bar-border: $_1px solid $gray-200;
+$side-bar-animation: 300ms ease-in-out;
+$side-bar-z-index: 100;
+
+$card-editor-width: 30rem;
+$item-edit-height: 2rem;

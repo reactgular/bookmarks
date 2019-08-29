@@ -1,0 +1,9 @@
+<div class="outer-frame"
+     [class.hidden_layout]="(state$ | async) === 'hidden_layout'"
+     [class.animating]="(state$ | async) === 'animating'"
+     [class.visible_layout]="(state$ | async) === 'visible_layout'">
+    <tag-editor-scale [transition]="transition"
+                      (done)="transitionDone()">
+        <tag-card-edit></tag-card-edit>
+    </tag-editor-scale>
+</div>

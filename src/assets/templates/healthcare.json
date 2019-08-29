@@ -1,0 +1,489 @@
+[
+  {
+    "title": "WebMD Health",
+    "url": "https://www.webmd.com/",
+    "image": "https://storage.googleapis.com/site-assets/gJlHzc0sV_a2vKUlA-TCMUrChQFleyQ6xAmOOTHygnw_sicon-1605efd6955"
+  },
+  {
+    "title": "NYT - Health ",
+    "url": "https://www.nytimes.com/section/health?partner=rss&emc=rss",
+    "image": "https://storage.googleapis.com/site-assets/LwdDwMZw9Eg5PvZUXtd91-c8-CLtb_7v72xbXMbByYA_icon-1690c015574"
+  },
+  {
+    "title": "BBC News - Health",
+    "url": "https://www.bbc.co.uk/news/",
+    "image": "https://storage.googleapis.com/site-assets/jEpkOOUloAhTFNY4ItoaS6YWiGfwxw3xHAqBMxpXqvM_icon-163b563e010"
+  },
+  {
+    "title": "CNN.com - RSS Channel - Health",
+    "url": "https://www.cnn.com/health/index.html",
+    "image": "https://storage.googleapis.com/site-assets/ve1XIam71-wS6JGFDcQU7exQQzXK3tNzt1PWHIJU4WA_icon-16198a0a6b4"
+  },
+  {
+    "title": "Health | The Atlantic",
+    "url": "https://www.theatlantic.com/health/",
+    "image": "https://storage.googleapis.com/site-assets/l8r_z1T0PFPfXWx1wO6NK9MUJ2tfI6ZN-3-Pv3giuko_icon-16305f65abb"
+  },
+  {
+    "title": "Forbes - Healthcare",
+    "url": "http://www.forbes.com/healthcare/",
+    "image": "https://storage.googleapis.com/site-assets/fO2qrQHwkWX7pPIN8lUDpm7Wi1sgHPaq68vRiI05bxI_icon-169855c10cb"
+  },
+  {
+    "title": "KevinMD.com",
+    "url": "https://www.kevinmd.com/blog",
+    "image": "https://storage.googleapis.com/site-assets/hOGsqCh3Be1WBx5mNU7PMQkQCSrSGQB5gIfc-_E2yi8_icon-1634e1c80aa"
+  },
+  {
+    "title": "Reuters: Health News",
+    "url": "https://www.reuters.com",
+    "image": "https://storage.googleapis.com/site-assets/a_wWMoImTsYZbu6qUntQxuQqr0M41z05zvny3Y8cEtw_icon-164e7438001"
+  },
+  {
+    "title": "Healthcare Economist",
+    "url": "https://www.healthcare-economist.com",
+    "image": "https://storage.googleapis.com/site-assets/2Q4vSMrZG1Y5gliEGz-2ypDppnIbsb8r_bjZAFZ5XLE_sicon-163e882cc8c"
+  },
+  {
+    "title": "Medgadget",
+    "url": "https://www.medgadget.com",
+    "image": "https://storage.googleapis.com/site-assets/Dkt8wY_lBgXf5sR1p44iSZv-rHHJl0aXCTdMBeE86gw_icon-1612d610d73"
+  },
+  {
+    "title": "Health - Latest - Google News",
+    "url": "https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en",
+    "image": "https://storage.googleapis.com/site-assets/-2eH-1lA_-3sOk3TsDo5Mrl4wcNI0GGRH2i-vQ3WM9o_sicon-16759589fc8"
+  },
+  {
+    "title": "Modern Healthcare",
+    "url": "https://www.modernhealthcare.com",
+    "image": "https://storage.googleapis.com/site-assets/2Ihh08lu9SSje74DalWCkiWlikbWBLe6B7Ry9BxNQqw_icon-166b9908380"
+  },
+  {
+    "title": "FierceBiotech",
+    "url": "https://www.fiercebiotech.com/",
+    "image": "https://storage.googleapis.com/site-assets/eNPCvMDfxN4LJFqIEPvgl5XKAn83tyPBO7CJ8ZarDt4_icon-165b2fd3e96"
+  },
+  {
+    "title": "The Health Care Blog",
+    "url": "https://thehealthcareblog.com",
+    "image": "https://storage.googleapis.com/site-assets/mtxJSKkqrWmq3NXpw-pvfMn_zD3vsj6rQtxC0Cv5qsk_icon-1699a28d920"
+  },
+  {
+    "title": "FiercePharma",
+    "url": "https://www.fiercepharma.com/",
+    "image": "https://storage.googleapis.com/site-assets/lSuz92YVdys0PzGM3NAiazd3tCN1lCJgZPDdvrg9pWI_icon-165b2fdf602"
+  },
+  {
+    "title": "Kaiser Health ",
+    "url": "https://khn.org",
+    "image": "https://storage.googleapis.com/site-assets/n8Sq-QUxB4R3DsjqjSAWldNzREpUpFN4xwjWEum0Pfk_icon-168842d7f7a"
+  },
+  {
+    "title": "MobiHealthNews",
+    "url": "https://www.mobihealthnews.com/",
+    "image": "https://storage.googleapis.com/site-assets/C20IdrTwfZsPmy44a3LasJXSh4bxtrjsGzCPXjqK9KY_icon-164623f8117"
+  },
+  {
+    "title": "The Incidental Economist",
+    "url": "https://theincidentaleconomist.com/wordpress",
+    "image": "https://storage.googleapis.com/site-assets/fE5nHtfwdWE_rLO9VO51sxc-lYHzdGURdnRqHauJnI4_icon-15ebb84e7d9"
+  },
+  {
+    "title": "iMedicalApps",
+    "url": "https://www.imedicalapps.com",
+    "image": "https://storage.googleapis.com/site-assets/CVXUlULOvjnTUtYpywZnIOKoGSILE9n_uXBMytEdDvo_icon-1612d617806"
+  },
+  {
+    "title": "Medscape Medical News Headlines",
+    "url": "http://www.medscape.com/welcome/news?src=rss",
+    "image": "https://storage.googleapis.com/site-assets/ngHI3hWLl-I-adIm9H2dyDEbB0XoDbZWdS4R3XhqcRQ_icon-1612cfff81f"
+  },
+  {
+    "title": "Health Business Group",
+    "url": "https://healthbusinessgroup.com",
+    "image": "https://storage.googleapis.com/site-assets/z7uQ-hFqFBgJHum2qm1jPzLJa0FTD9QEJVl0yv_Hc-0_icon-168b873d5c0"
+  },
+  {
+    "title": "Healthcare IT news",
+    "url": "https://www.healthcareitnews.com/",
+    "image": "https://storage.googleapis.com/site-assets/JAQ25KMt80prF3jZ0li-VaPz4scIhcm31xS-18ek-gM_icon-1643e399a15"
+  },
+  {
+    "title": "Health : NPR",
+    "url": "https://www.npr.org/templates/story/story.php?storyId=1128",
+    "image": "https://storage.googleapis.com/site-assets/a4Lv5Iy8YncbKSUPq59vuwbaqHFJmYM7vA8X-78DT1Q_icon-15f9fdcf455"
+  },
+  {
+    "title": "STAT",
+    "url": "https://www.statnews.com",
+    "image": "https://storage.googleapis.com/site-assets/e58Ek-LiURnitwRt2y7O6OhMBrbNGVVt51i_I-JVPWQ_icon-16672126722"
+  },
+  {
+    "title": "MedCity News",
+    "url": "https://medcitynews.com",
+    "image": "https://storage.googleapis.com/site-assets/dnP0j2d6OR_LnVqZRH3Jcv25j9225qp7PmiBu3fZ9XU_icon-1698c73cb6c"
+  },
+  {
+    "title": "Health Care : NPR",
+    "url": "https://www.npr.org/templates/story/story.php?storyId=1027",
+    "image": "https://storage.googleapis.com/site-assets/FEEw85p0hoBzS6KwYC3pkSGAPHVoTN2IGxbL_PTyL-s_icon-15f9fdd674c"
+  },
+  {
+    "title": "HIStalk",
+    "url": "https://histalk2.com",
+    "image": "https://storage.googleapis.com/site-assets/-gnJPUXk6oFKlhUd0sOxlXhd_zFGb6oXXTfNownb3ao_sicon-161890a666f"
+  },
+  {
+    "title": "Healthcare Informatics Magazine",
+    "url": "https://www.healthcare-informatics.com"
+  },
+  {
+    "title": "Healthcare IT Today",
+    "url": "https://www.healthcareittoday.com",
+    "image": "https://storage.googleapis.com/site-assets/GD14njfUl1xZ1OMKmnNK9YzvaZ_BCmrtNGRZXk3vb_4_sicon-167d4f2deef"
+  },
+  {
+    "title": "Becker's Hospital Review",
+    "url": "https://www.beckershospitalreview.com/",
+    "image": "https://storage.googleapis.com/site-assets/loX73IR8tINK1qG4rjcooPcEQl55y4d9-SiZ3t0-KzI_icon-1666c60474b"
+  },
+  {
+    "title": "Health Care Policy and Marketplace Review",
+    "url": "http://healthpolicyandmarket.blogspot.com/",
+    "image": "https://storage.googleapis.com/test-site-assets/-daC8m0QgKpyYw1-1abIPBy_EvWfF0rREgSViGTtJ3o_oicon-1658685b0bf"
+  },
+  {
+    "title": "Page Array – Rock Health",
+    "url": "http://rockhealth.com",
+    "image": "https://storage.googleapis.com/site-assets/zMQvx9ZMpV_44btvxs80Hvebh1O6iMjE33AtP3WMPDs_icon-164af89bc0d"
+  },
+  {
+    "title": "The Hill: Healthcare Policy",
+    "url": "https://thehill.com/",
+    "image": "https://storage.googleapis.com/site-assets/9MOp2909kz0brMC7XJ1IFLhKmBLy_5rOl7pPHShfGAU_icon-165f5f00be5"
+  },
+  {
+    "title": "World Health Care Blog",
+    "url": "http://www.worldhealthcareblog.org",
+    "image": "https://storage.googleapis.com/site-assets/1QlBlPjsxe-GFm5qMP5Ve-1VtChvXDCC0FLiTxGpjiM_sicon-1621415e02d"
+  },
+  {
+    "title": "Health IT Buzz",
+    "url": "https://www.healthit.gov/buzz-blog",
+    "image": "https://storage.googleapis.com/site-assets/zWINEyTUbzKKYQvDzTzRLS_TuRklj5IvDLiLPOe431Y_icon-15db6779d19"
+  },
+  {
+    "title": "HIT Consultant",
+    "url": "https://hitconsultant.net",
+    "image": "https://storage.googleapis.com/site-assets/B-Vk1sby6NBrHkW4dfoI2wG5Rx1o-M7ZIY81aiRvUm0_icon-162478a3be7"
+  },
+  {
+    "title": "Drug Channels",
+    "url": "http://www.drugchannels.net/"
+  },
+  {
+    "title": "The CMS Blog",
+    "url": "https://blog.cms.gov",
+    "image": "https://storage.googleapis.com/site-assets/5F6sB6YCUEAoVVRBTls4I0SQod_mW0HPfeCGRTgxhMU_icon-165242bebd8"
+  },
+  {
+    "title": "Kaiser Daily Global Health Policy Report",
+    "url": "https://www.kff.org",
+    "image": "https://storage.googleapis.com/site-assets/MNxgu_uPAIYOOR3WwYOHM_0mFG_hofS8Jx3BbMeTBrg_icon-161fe4cff24"
+  },
+  {
+    "title": "Digital Health",
+    "url": "https://www.digitalhealth.net",
+    "image": "https://storage.googleapis.com/site-assets/bPfQZ4zPESVpFdMHWt3o8kKjqwTusPrgZKOy47N5O3Q_icon-165dc20f3d3"
+  },
+  {
+    "title": "Healthcare Dive - Latest News",
+    "url": "https://www.healthcaredive.com/news/",
+    "image": "https://storage.googleapis.com/site-assets/x37rc8lvUQt2JFtkNtudH1YA6SSWHTqmJGF5NdlHnmE_icon-162336ea31f"
+  },
+  {
+    "title": "HIMSS News",
+    "url": "https://www.himss.org/",
+    "image": "https://storage.googleapis.com/site-assets/AuS2-V_-EKPpn93oPh4hSEhebK-rbIwOS_Xb9lnPJTM_icon-16863fbb190"
+  },
+  {
+    "title": "Most Popular News from healthcareitnews.com",
+    "url": "https://www.healthcareitnews.com/",
+    "image": "https://storage.googleapis.com/site-assets/DB-gzYMFOqm2rSJXH8FrdYhGRbH88wx1GE5tvrOCdlA_icon-16421546d1b"
+  },
+  {
+    "title": "Modern Healthcare - Vital Signs",
+    "url": "https://www.modernhealthcare.com/section/blog",
+    "image": "https://storage.googleapis.com/site-assets/Qvg1dUrLEWzMfDgem1tHFc3hnvu0DwLyJGmMiP7sJ7E_icon-166b99088b4"
+  },
+  {
+    "title": "POLITICO Pulse",
+    "url": "https://www.politico.com/politicopulse/",
+    "image": "https://storage.googleapis.com/site-assets/S95dfB_AOpDF8HTJsK3SWPNz2cgBNJS6MAnsU0FMAUY_icon-15f8b738253"
+  },
+  {
+    "title": "Chilmark Research",
+    "url": "https://www.chilmarkresearch.com",
+    "image": "https://storage.googleapis.com/site-assets/sevZ5XsuEcG8D4rY7vHEAJzPeJ2MZ31eGRYfHB7SZk0_icon-16198a32684"
+  },
+  {
+    "title": "Reports on Health Reform issues from the Kaiser Family Foundation",
+    "url": "https://www.kff.org",
+    "image": "https://storage.googleapis.com/site-assets/JIifRwYE_BT2-NtxBJzfQmdepXsCjd1BIMFyOTWK-e0_icon-1623a992a9f"
+  },
+  {
+    "title": "mHealth Insight",
+    "url": "https://mhealthinsight.com",
+    "image": "https://storage.googleapis.com/site-assets/uV-1QNuP6lu9I5t2yYyk6DlpfiUGcuaLGcu2DkOeAQI_sicon-166f25d8305"
+  },
+  {
+    "title": "EHRIntelligence",
+    "url": "https://ehrintelligence.com/",
+    "image": "https://storage.googleapis.com/site-assets/Kj3pFgZg5q_s3C24RwqbgtfmFbIk4L2HrWwEa3p8YJE_sicon-1611fcb0fd4"
+  },
+  {
+    "title": "HealthPopuli.com",
+    "url": "https://www.healthpopuli.com",
+    "image": "https://storage.googleapis.com/site-assets/y8EetRvz7JUifcz-5hpGzDAD0FQoDMLeYf0PoBL01UE_icon-15e1e5229e2"
+  },
+  {
+    "title": "Healthcare Standards",
+    "url": "http://motorcycleguy.blogspot.com/",
+    "image": "https://storage.googleapis.com/site-assets/DFomQNynq6zVtnyJ70OlOJQL2rHeaWVaqo2fGUN0Kjg_icon-15c8740319a"
+  },
+  {
+    "title": "Physicians Practice",
+    "url": "https://www.physicianspractice.com/"
+  },
+  {
+    "title": "Institute for Healthcare Improvement",
+    "url": "http://www.ihi.org",
+    "image": "https://storage.googleapis.com/site-assets/IYdug1v3vwarOWhP3oIy_S0lWYsOULqSS2-Z7bMoV3c_icon-15b67431f11"
+  },
+  {
+    "title": "HealthITAnalytics",
+    "url": "https://healthitanalytics.com/"
+  },
+  {
+    "title": "FierceHealthcare: Payer",
+    "url": "https://www.fiercehealthcare.com/rss/xml"
+  },
+  {
+    "title": "Health Care Renewal",
+    "url": "http://hcrenewal.blogspot.com/"
+  },
+  {
+    "title": "Blogs from healthcareitnews.com",
+    "url": "https://www.healthcareitnews.com/",
+    "image": "https://storage.googleapis.com/site-assets/QJ8iadj9MJJk9XKqPZ4LQ8r0K9ndtWAmaIhbcZK-1zY_icon-164215474e0"
+  },
+  {
+    "title": "Association of Health Care Journalists",
+    "url": "https://healthjournalism.org/blog",
+    "image": "https://storage.googleapis.com/site-assets/wKI-bv6cmfj-ReMGdELNPKCJbcabAnaNDrJ2CHRzeZE_icon-16174dfc963"
+  },
+  {
+    "title": "Health Care Communication News",
+    "url": "https://www.healthcarecommunication.com",
+    "image": "https://storage.googleapis.com/site-assets/hfFJUS-dWjOnoc-j160ML4HVqW-5PJ_vSDvaWR4ZcDw_sicon-1698a781e64"
+  },
+  {
+    "title": "Managed Care Matters",
+    "url": "https://www.joepaduda.com",
+    "image": "https://storage.googleapis.com/test-site-assets/J4RUr-AZZmO7XqZWYx8eBxt1lEh3DyK6J1gNTe_GYVI_oicon-1658687a4e3"
+  },
+  {
+    "title": "health IT – MedCity News",
+    "url": "https://medcitynews.com",
+    "image": "https://storage.googleapis.com/site-assets/W5bgntPmK3IN0ckmaQVuUWj1UeRPW1DxlOoN-xuokIw_icon-15e9e483000"
+  },
+  {
+    "title": "Healthcare IT Today",
+    "url": "https://www.healthcareittoday.com",
+    "image": "https://storage.googleapis.com/site-assets/GD14njfUl1xZ1OMKmnNK9YzvaZ_BCmrtNGRZXk3vb_4_sicon-167d4f2deef"
+  },
+  {
+    "title": "mHealthIntelligence",
+    "url": "https://mhealthintelligence.com/"
+  },
+  {
+    "title": "Healthcarecare Finance News Feed",
+    "url": "https://www.healthcarefinancenews.com/content-feed/news",
+    "image": "https://storage.googleapis.com/test-site-assets/lcpVMq4l369tumIGQaz-Vnag_ecNfZVuGOZqXTTUShQ_oicon-165868891e5"
+  },
+  {
+    "title": "Healthcare IT News - Government & Policy",
+    "url": "https://www.healthcareitnews.com/category/resource-topic/government",
+    "image": "https://storage.googleapis.com/site-assets/RqvZ_1DFji70w-BEQk1xDUVLKBjBRYEzfNYqoXZ19-M_icon-16792c6c438"
+  },
+  {
+    "title": "Journal of AHIMA",
+    "url": "https://journal.ahima.org",
+    "image": "https://storage.googleapis.com/site-assets/HHFAMXVMy86cvC2rVZmT9R6g0X-dwFjgCIYSYbIlgFU_icon-16919725189"
+  },
+  {
+    "title": "AHIP",
+    "url": "https://www.ahip.org",
+    "image": "https://storage.googleapis.com/site-assets/fsMn8oomq37I1PYozIG8e6-6fBfeLrc03pn3EOxDDrg_icon-168ed07a261"
+  },
+  {
+    "title": "Health Works Collective",
+    "url": "https://www.healthworkscollective.com",
+    "image": "https://storage.googleapis.com/site-assets/_EZIE98-kNdOxwYE9P6vEM-3yreunjRvFA8NHSFRL-A_icon-15c86a3197b"
+  },
+  {
+    "title": "healthsystemcio.com",
+    "url": "http://healthsystemcio.com",
+    "image": "https://storage.googleapis.com/site-assets/hYjSJTEssUOBRnVYNVOzRRFbKJnzdir-j2evBmg1O2k_sicon-162b19d8561"
+  },
+  {
+    "title": "The Doctor Weighs In",
+    "url": "https://thedoctorweighsin.com",
+    "image": "https://storage.googleapis.com/site-assets/eHbhU_cinRtVrE1WIy-tpxfdMZ1cxqlw0uzq95sjHnU_icon-15b9334f2ce"
+  },
+  {
+    "title": "Health Wonk Review",
+    "url": "http://www.healthwonkreview.com/mt/"
+  },
+  {
+    "title": "Physician Practices News - Physician Practices News Headlines | Bizjournals.com",
+    "url": "https://www.bizjournals.com",
+    "image": "https://storage.googleapis.com/site-assets/qIuc4bjTYXG2s4ZJ5pKIVOkL8mzGyaPd_mtaPAIzlCw_icon-1612cecbbb2"
+  },
+  {
+    "title": "FierceHealthcare",
+    "url": "https://www.fiercehealthcare.com/rss/xml"
+  },
+  {
+    "title": "Healthcare Finance News",
+    "url": "https://www.healthcarefinancenews.com",
+    "image": "https://storage.googleapis.com/site-assets/qjh2bx-5dagfQNsuDoxNM05VV7J7DC7kHCEzbsvYk7o_icon-164884d4811"
+  },
+  {
+    "title": "HFMA News - RSS Feed",
+    "url": "http://www.hfma.org/default.aspx",
+    "image": "https://storage.googleapis.com/site-assets/GOV42W3CjN1aWJ5qOjhonPlMZqbwIxp3NEJMKv0en5I_icon-16258e04482"
+  },
+  {
+    "title": "HIStalk Practice",
+    "url": "http://www.histalkpractice.com",
+    "image": "https://storage.googleapis.com/site-assets/nStVclBkge-Ngh5WgW8GEkEnMbMFqho3EUb2GB0CsLQ_sicon-15b63659800"
+  },
+  {
+    "title": "Health Care Reform",
+    "url": "http://www.nytimes.com/topic/subject/health-care-reform",
+    "image": "https://storage.googleapis.com/site-assets/Jk6AJr_w142H1-ozlnM3_eE0kdz6Ht7JpPy7bMKgpt8_icon-1693524119e"
+  },
+  {
+    "title": "Insights from Modern Healthcare",
+    "url": "https://www.modernhealthcare.com",
+    "image": "https://storage.googleapis.com/site-assets/qLLNUmGbPxg-rGnJchveRYjerBzS1e8Q2QZ5ChmTs_Q_icon-166b992ca97"
+  },
+  {
+    "title": "Healthcare IT Today",
+    "url": "https://www.healthcareittoday.com",
+    "image": "https://storage.googleapis.com/site-assets/RsCHQ31-_TMY4CdFKZUA3h2-XI2TUES1Y2FXME_gi-E_sicon-167d06edde1"
+  },
+  {
+    "title": "Tech – The Health Care Blog",
+    "url": "https://thehealthcareblog.com",
+    "image": "https://storage.googleapis.com/site-assets/doePmpMmBy2RmqWhlIZBwZ_Yv35KZrNHMpHysCl3d9Q_icon-1699a2a7f3c"
+  },
+  {
+    "title": "Clinical Innovation + Technology - cit",
+    "url": "https://www.aiin.healthcare/rss.xml",
+    "image": "https://storage.googleapis.com/site-assets/3B_wC-z1h5WuwEKX6_UHOLjGPsteDfcoRnQs1SIjxtc_sicon-166d33c795e"
+  },
+  {
+    "title": "Health IT",
+    "url": "https://www.beckershospitalreview.com/healthcare-information-technology.html",
+    "image": "https://storage.googleapis.com/site-assets/xuotDjygqsQNhnnI6CxctA2VghGfhdD2LCkDKolXbUY_icon-15ec76481fd"
+  },
+  {
+    "title": "SearchHealthIT",
+    "url": "https://searchhealthit.techtarget.com",
+    "image": "https://storage.googleapis.com/site-assets/Rd61K1EHNl8vjpJpZoP0oGyBaXpuUa8yHqybUaSyBCg_icon-1628a73275f"
+  },
+  {
+    "title": "\"healthcare\" - Google News",
+    "url": "https://news.google.com/search?q=healthcare&hl=en-US&gl=US&ceid=US:en",
+    "image": "https://storage.googleapis.com/site-assets/wGGrSXbn0tIP1VLJEuHg0xatbkCG0Bn-6-op-JA7j8o_sicon-16763b10013"
+  },
+  {
+    "title": "HealthPayerIntelligence",
+    "url": "https://healthpayerintelligence.com/"
+  },
+  {
+    "title": "Health Catalyst",
+    "url": "https://www.healthcatalyst.com",
+    "image": "http://storage.googleapis.com/site-assets/ZW6MU6OHGclHGWWxcsj7YVFZu5-UQAdatqxMym83rZA_icon-15416480f7f"
+  },
+  {
+    "title": "Firely Blog",
+    "url": "https://blog.fire.ly",
+    "image": "https://storage.googleapis.com/site-assets/7abKCVItHNmPXhiIUDS3kCc6cICEY-g2-o7HHeOUj_k_sicon-16199234f8c"
+  },
+  {
+    "title": "HealthBlawg :: David Harlow's Health Care Law Blog",
+    "url": "https://healthblawg.com",
+    "image": "https://storage.googleapis.com/site-assets/LdTCNHcdcxhmm9xJXgQeBcvsAkN-EGjXL2OJcaoC6mg_icon-169a477093a"
+  },
+  {
+    "title": "Resources from healthcareitnews.com",
+    "url": "https://www.healthcareitnews.com/",
+    "image": "https://storage.googleapis.com/site-assets/0pLSjjZGLl-tui-sueN5SVJmrqO0gc6ootbMTo54Cwo_icon-164215ab914"
+  },
+  {
+    "title": "Main feed",
+    "url": "https://www.managedcaremag.com/rss.xml",
+    "image": "https://storage.googleapis.com/site-assets/DNBI_xbsVrebt9zJ2KEv72PSrTc3dV-7RJwPvmnKQy0_icon-168a836017b"
+  },
+  {
+    "title": "Care And Cost",
+    "url": "https://careandcost.com",
+    "image": "https://storage.googleapis.com/site-assets/6YHel-njbUtTXWewO4Rzetc3Mx-FOwh_9WnXovHCKdA_sicon-16522eee0ec"
+  },
+  {
+    "title": "RevCycleIntelligence",
+    "url": "https://revcycleintelligence.com/"
+  },
+  {
+    "title": "Electronic Health Reporter",
+    "url": "https://electronichealthreporter.com",
+    "image": "https://storage.googleapis.com/site-assets/BKyno8JJ2a4D8Qd6v_LEj05v__ZebvmIGGQRBOrVYnE_icon-1659945da45"
+  },
+  {
+    "title": "Financial Management",
+    "url": "https://www.beckershospitalreview.com/finance.html",
+    "image": "https://storage.googleapis.com/site-assets/ZLZaQsHVzYMoncarCtHqaYSALURuHW1dZWmTkbTt6ZM_icon-15ec76927e9"
+  },
+  {
+    "title": "ACO Watch",
+    "url": "https://acowatch.me",
+    "image": "https://storage.googleapis.com/site-assets/b9sTNmv4dU2pEVgRMxviiGhbNVZTf907-TSLr3PS2Wo_sicon-15b6464ea84"
+  },
+  {
+    "title": "Opinion and Comment from Modern Healthcare",
+    "url": "https://www.modernhealthcare.com",
+    "image": "https://storage.googleapis.com/site-assets/JhCmRavhHHdqXLeHmkkaFeNzIsRLpWivkOGXLRJaNic_icon-166b995c304"
+  },
+  {
+    "title": "ACA Signups",
+    "url": "http://acasignups.net",
+    "image": "https://storage.googleapis.com/site-assets/IGnhlqHEusgy10c1pCml3H52lzZCNuW7g4U2DEinM74_icon-15b6e78bea4"
+  },
+  {
+    "title": "Healthcare Law Blog",
+    "url": "https://www.sheppardhealthlaw.com"
+  },
+  {
+    "title": "D CEO Healthcare",
+    "url": "https://healthcare.dmagazine.com",
+    "image": "https://storage.googleapis.com/site-assets/8KHuDMC21JS60QvYHYhn-QIUsl0IwJAhUOOmTaJ5gZQ_icon-1667bdfd84a"
+  },
+  {
+    "title": "FierceHealthcare",
+    "url": "https://www.fiercehealthcare.com/rss/xml"
+  }
+]

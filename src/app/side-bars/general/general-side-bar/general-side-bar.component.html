@@ -1,0 +1,7 @@
+<tag-side-bar-header class="side-bar-invert" [closable]="false">
+    <a class="logo" href="https://reactgular.com/"></a>
+</tag-side-bar-header>
+<tag-card-create-button class="m-3"
+                        [disabled]="isCreateDisabled$ | async"></tag-card-create-button>
+<tag-document-list></tag-document-list>
+<tag-reactive-side-bar class="mb-5" [invert]="true" [tools]="tools"></tag-reactive-side-bar>

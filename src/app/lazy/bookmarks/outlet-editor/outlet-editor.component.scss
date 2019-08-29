@@ -1,0 +1,21 @@
+@import "../config";
+
+:host {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    width: 100%;
+    min-width: 0;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+
+    .document-view-content {
+        display: block;
+        position: relative;
+        width: 100%;
+        margin-top: map-get($spacers, 5);
+        padding-left: map_get($spacers, 5);
+        padding-right: map_get($spacers, 5);
+    }
+}

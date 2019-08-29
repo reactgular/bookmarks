@@ -1,0 +1,21 @@
+<tag-dialog-header class="mb-3"
+                   [title]="options.title || 'Confirm'"
+                   [icon]="options.icon"
+                   [closable]="true"
+                   (close)="close()"></tag-dialog-header>
+<div class="message mb-5">
+    {{options.message || 'Please confirm action'}}
+</div>
+<div class="d-flex">
+    <button [color]="options.okay?.color"
+            (click)="close(true)"
+            mat-flat-button>
+        {{options.okay?.title || 'Okay'}}
+    </button>
+    <button class="ml-auto"
+            [color]="options.cancel?.color"
+            (click)="close()"
+            mat-flat-button>
+        {{options.cancel?.title || 'Cancel'}}
+    </button>
+</div>

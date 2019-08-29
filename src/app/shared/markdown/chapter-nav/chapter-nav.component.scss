@@ -1,0 +1,52 @@
+@import "../config";
+
+:host {
+    display: flex;
+    flex-grow: 1;
+    flex-basis: 0;
+    text-align: left;
+    padding: map-get($spacers, 2) map-get($spacers, 3);
+    border: 1px solid $gray-100;
+    border-radius: $border-radius;
+    background-color: transparent;
+    align-items: center;
+    cursor: pointer;
+
+    transition: border-color 250ms ease-in-out,
+    background-color 250ms ease-in-out;
+
+    &:hover {
+        border-color: $gray-300;
+        background-color: $gray-100;
+    }
+
+    fa-icon {
+        color: $gray-600;
+        font-size: 1.25rem;
+    }
+
+    &.chapter-back {
+        text-align: right;
+        flex-direction: row-reverse;
+    }
+
+    .header {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .sub-title, .title {
+        display: block;
+        line-height: 1.7rem;
+    }
+
+    .sub-title {
+        color: $gray-400;
+        font-size: 0.8rem;
+    }
+
+    .title {
+        font-weight: bold;
+    }
+}

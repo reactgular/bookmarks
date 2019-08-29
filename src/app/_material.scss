@@ -1,0 +1,99 @@
+@import "config";
+
+.tag-menu-compact {
+    &.mat-menu-item {
+        font-size: $_14px;
+        line-height: $_30px;
+        height: $_30px;
+    }
+}
+
+.mat-drawer-container {
+    background-color: $body-bg !important;
+}
+
+// Plus imports for other components in your app.
+
+// Include the common styles for Angular Material. We include this here so that you only
+// have to load a single css file for Angular Material in your app.
+// Be sure that you only ever include this mixin once!
+@include mat-core();
+
+@function my-mat-light-theme-foreground($color) {
+    @return (
+        base: $color,
+        divider: $black-12-opacity,
+        dividers: $black-12-opacity,
+        disabled: rgba($color, 0.38),
+        disabled-button: rgba($color, 0.38),
+        disabled-text: rgba($color, 0.38),
+        hint-text: rgba($color, 0.38),
+        secondary-text: rgba($color, 0.54),
+        icon: rgba($color, 0.54),
+        icons: rgba($color, 0.54),
+        text: rgba($color, 0.87),
+        slider-min: rgba($color, 0.87),
+        slider-off: rgba($color, 0.26),
+        slider-off-active: rgba($color, 0.38),
+    );
+}
+
+$app-foreground: my-mat-light-theme-foreground($gray-800);
+$app-light-theme: map-merge($app-light-theme, (foreground: $app-foreground));
+$app-white-theme: map-merge($app-white-theme, (foreground: $app-foreground));
+
+// Include theme styles for core and each component used in your app.
+// Alternatively, you can import and @include the theme mixins for each component
+// that you are using.
+@include angular-material-theme($app-light-theme);
+
+.tag-white-theme {
+    @include mat-toolbar-theme($app-white-theme);
+}
+
+button[mat-menu-item],
+button[mat-button],
+button[mat-raised-button],
+button[mat-icon-button],
+button[mat-fab],
+button[mat-mini-fab] {
+    outline: none;
+    @include hover-focus-active() {
+        outline: none;
+    }
+}
+
+// fixes: https://github.com/angular/material2/issues/6071
+// This might break after version 4 is released.
+.cdk-overlay-backdrop {
+    background-color: $overlay-backdrop-color;
+
+    &.tag-backdrop-transparent {
+        background-color: transparent !important;
+    }
+}
+
+.mat-form-field {
+    fa-icon[matPrefix], fa-icon[matSuffix] {
+        color: $gray-600;
+        transition: color .4s cubic-bezier(.25, .8, .25, 1);
+    }
+
+    &.mat-focused {
+        fa-icon[matPrefix], fa-icon[matSuffix] {
+            color: $gray-900;
+        }
+    }
+
+    &.ng-dirty.ng-valid {
+        fa-icon[matPrefix], fa-icon[matSuffix] {
+            color: $gray-700;
+        }
+    }
+
+    &.mat-form-field-invalid {
+        fa-icon[matPrefix], fa-icon[matSuffix] {
+            color: mat-color($app-warn);
+        }
+    }
+}

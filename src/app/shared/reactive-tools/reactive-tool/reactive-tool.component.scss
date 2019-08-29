@@ -1,0 +1,59 @@
+@import "../config";
+
+:host {
+    user-select: none;
+    color: $gray-800;
+
+    &, button, fa-icon {
+        transition: color 100ms ease-in !important;
+    }
+
+    .tool-muted {
+        color: $gray-400 !important;
+    }
+}
+
+:host-context(.reactive-tool-invert) {
+    button {
+        color: $white;
+
+        &[disabled] {
+            color: $white-400 !important;
+        }
+    }
+}
+
+:host-context(.reactive-tool-side-bar) {
+    button {
+        display: flex;
+        align-items: baseline;
+        text-align: left;
+        line-height: $_48px;
+        font-weight: 400;
+        overflow: hidden;
+        width: 100%;
+        min-width: 0;
+        border-radius: 0;
+
+        fa-icon {
+            font-size: $_18px;
+            margin-right: map-get($spacers, 4);
+        }
+
+        &[disabled] {
+            color: $gray-400;
+        }
+
+        &.highlighted {
+            background-color: $gray-200;
+        }
+    }
+}
+
+:host-context(.tool-small) {
+    button {
+        width: $_24px;
+        height: $_24px;
+        line-height: $_24px;
+    }
+}

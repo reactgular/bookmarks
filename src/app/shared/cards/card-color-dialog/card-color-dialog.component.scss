@@ -1,0 +1,16 @@
+@import "../config";
+
+:host {
+    $size: 28px;
+    $pad: 8px;
+    $width: ($size + $pad) * 4 + $pad + 2px;
+    $height: ($size + $pad) * 3 + $pad + 2px;
+    display: block;
+    border-radius: $border-radius;
+    background-color: $white;
+    padding: $pad;
+    width: $width;
+    height: $height;
+
+    @include mat-elevation(2);
+}

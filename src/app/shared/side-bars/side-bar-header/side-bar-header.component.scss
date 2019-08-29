@@ -1,0 +1,11 @@
+@import "../config";
+
+:host {
+    display: flex;
+    align-items: center;
+    min-width: 0;
+}
+
+:host-context(.side-bar-invert) {
+    color: $white !important;
+}

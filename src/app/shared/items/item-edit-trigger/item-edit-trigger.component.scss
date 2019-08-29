@@ -1,0 +1,28 @@
+@import "../config";
+
+:host {
+    display: flex;
+    position: relative;
+    flex-grow: 1;
+    min-width: 0;
+    align-items: baseline;
+    padding: map-get($spacers, 1) 0;
+    cursor: pointer;
+
+    .txt {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        min-width: 0;
+    }
+
+    .item-title {
+        margin-left: $_22px + map-get($spacers,2);
+    }
+
+    tag-item-image {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+}

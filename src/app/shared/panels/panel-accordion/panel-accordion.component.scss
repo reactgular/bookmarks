@@ -1,0 +1,18 @@
+@import "../config";
+
+:host {
+    display: flex;
+    position: relative;
+    width: 100%;
+    min-width: 0;
+    border: 0 solid transparent;
+    overflow: hidden;
+    @include depressed-shadow($_8px, $gray-500);
+
+    .panel-bg {
+        @include tag-fill();
+        display: block;
+        content: ' ';
+        background-color: $gray-100;
+    }
+}

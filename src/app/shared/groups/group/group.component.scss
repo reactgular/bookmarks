@@ -1,0 +1,23 @@
+@import "../config";
+
+:host {
+    display: block;
+    position: relative;
+
+    .tag-group-title {
+        display: flex;
+        position: relative;
+        flex-grow: 1;
+        border: none;
+        background: none;
+
+        font-family: $roboto-font;
+        font-size: $_16px;
+        font-weight: 400;
+        color: $gray-700;
+
+        &::placeholder {
+            color: $gray-300;
+        }
+    }
+}

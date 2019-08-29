@@ -1,0 +1,12 @@
+@import "config";
+
+hr.separator {
+    border-top: $side-bar-border;
+    margin: map-get($spacers, 2) 0;
+}
+
+.side-bar-header {
+    display: flex;
+    align-items: center;
+    height: $top-bar-height;
+}

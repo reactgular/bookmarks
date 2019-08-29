@@ -1,0 +1,22 @@
+@import "../config";
+
+:host {
+    .tag-draggable {
+        display: flex;
+        position: fixed;
+        top: 0;
+        left: 0;
+        min-width: 0;
+        @include mat-elevation(6);
+    }
+
+    tag-drag-hover-progress {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    tag-item-edit {
+        pointer-events: none;
+    }
+}

@@ -1,0 +1,14 @@
+<div class="loader-frame">
+    <fa-icon [icon]="state.type === 'busy' ? iconSpinner : iconExclamation"
+             [pulse]="state.type === 'busy'"></fa-icon>
+    <div *ngIf="state.message"
+         class="mt-3 message">
+        {{state.message}}
+    </div>
+    <button *ngIf="state.canRetry"
+            class="mt-3 ml-auto mr-auto"
+            mat-stroked-button
+            (click)="retry.emit()">
+        Retry
+    </button>
+</div>

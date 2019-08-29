@@ -1,0 +1,40 @@
+@import "../config";
+
+:host {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: $side-bar-width;
+    border-right: $side-bar-border;
+
+    &.darker-background {
+        background-color: mat-color($app-primary, 600);
+    }
+
+    &.dark-background {
+        background-color: mat-color($app-primary, 500);
+    }
+
+    &.lite-background {
+        background-color: mat-color($app-primary, 400);
+    }
+
+    &.liter-background {
+        background-color: mat-color($app-primary, 300);
+    }
+
+    &.white-background {
+        background-color: mat-color($app-white);
+    }
+
+    .animating-overlay {
+        display: block;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+    }
+}

@@ -1,0 +1,16 @@
+@import "../config";
+
+:host {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    z-index: $selection-card-z-index;
+
+    &.tile-initialized {
+        transition: top $ani-speed $ani-func,
+        left $ani-speed $ani-func,
+        width $ani-speed $ani-func;
+    }
+}

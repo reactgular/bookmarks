@@ -1,0 +1,7 @@
+<ng-container *ngFor="let itemId of itemIds$ | async; let indx = index">
+    <tag-item-edit *ngIf="itemId !== null"
+                   [attr.tabindex]="indx"
+                   [itemId]="itemId"></tag-item-edit>
+    <div *ngIf="itemId === null"
+         class="tag-item-placeholder"></div>
+</ng-container>

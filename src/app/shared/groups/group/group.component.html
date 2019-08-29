@@ -1,0 +1,28 @@
+<ng-container *ngIf="group$ | async; let group">
+    <div *ngIf="editTitle"
+         class="d-flex mb-2 align-items-baseline">
+        <input (ngModelChange)="setTitle(group.id, $event)"
+               [ngModel]="group.title"
+               autocomplete="off"
+               class="tag-group-title"
+               name="title"
+               placeholder="Title">
+    </div>
+    <tag-group-drop-item-target *ngIf="dragToCard$ | async"
+                                [dropToFront]="true"
+                                [groupId]="group.id"></tag-group-drop-item-target>
+    <tag-layout-tiles [columnWidth]="300"
+                      [gutter]="18">
+        <tag-layout-tile *ngFor="let cardId of cardIds$ | async; let indx = index"
+                         [entityId]="cardId"
+                         [order]="indx">
+            <tag-card-outline [cardId]="cardId">
+                <tag-card-view [cardId]="cardId"
+                               [tagDragTarget]="cardId"
+                               dragType="card"></tag-card-view>
+            </tag-card-outline>
+        </tag-layout-tile>
+    </tag-layout-tiles>
+    <tag-group-drop-item-target *ngIf="dragToCard$ | async"
+                                [groupId]="group.id"></tag-group-drop-item-target>
+</ng-container>

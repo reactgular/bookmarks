@@ -1,0 +1,17 @@
+<div *ngIf="document$ | async as doc else documentNotFound"
+     class="document-view-content"
+     tagDragHover>
+    <tag-group *ngFor="let groupId of doc._group_ids"
+               [groupId]="groupId"
+               [tagDragTarget]="groupId"
+               dragType="group"></tag-group>
+    <tag-message-big-icon *ngIf="!doc._group_ids.length"
+                          [icon]="iconBookmark"
+                          message="Bookmarks you add will appear here"></tag-message-big-icon>
+</div>
+<ng-template #documentNotFound>
+    <div class="document-view-content">
+        <tag-message-big-icon [icon]="iconExclamation"
+                              message="Document was not found"></tag-message-big-icon>
+    </div>
+</ng-template>

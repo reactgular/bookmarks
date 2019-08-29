@@ -1,0 +1,18 @@
+@import "../config";
+
+:host {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-width: 0;
+
+    .change-color {
+        align-items: baseline;
+        text-align: center;
+        line-height: $_48px;
+        font-weight: 400;
+        overflow: hidden;
+        width: 100%;
+        min-width: 0;
+    }
+}

@@ -1,0 +1,489 @@
+[
+  {
+    "title": "TED-Ed",
+    "url": "https://youtube.com/playlist?list=UUsooa4yRKGN_zEE8iknghZA",
+    "image": "http://storage.googleapis.com/site-assets/zq9Ebx9IilzJgTaYheLKKvXxJG2Nhi1mojvCJ3CpMQE_sicon-15413961b56"
+  },
+  {
+    "title": "TED (uploads) on YouTube",
+    "url": "https://youtube.com/playlist?list=UUAuUUnT6oDeKwE6v1NGQxug",
+    "image": "https://storage.googleapis.com/site-assets/Rg0VlS8Xt25CocTuQtJ2O5zPiz4AtGTz2S-_lLLUsyI_sicon-167da1aae99"
+  },
+  {
+    "title": "Free Technology for Teachers",
+    "url": "http://www.freetech4teachers.com/",
+    "image": "https://storage.googleapis.com/site-assets/BXNvFCTUPzp-GCxvSzTRiSan9vJe7KZIihecfrPZHqU_icon-16547fe47c5"
+  },
+  {
+    "title": "Open Culture",
+    "url": "http://www.openculture.com",
+    "image": "https://storage.googleapis.com/site-assets/pAt2Lmsxlgh2Uif7pfDYLiw4n3QZProR4KYQ_GwRSDA_icon-15b6390c4b8"
+  },
+  {
+    "title": "Education : NPR",
+    "url": "https://www.npr.org/templates/story/story.php?storyId=1013",
+    "image": "https://storage.googleapis.com/site-assets/JwTFzSM09-6zsO7Ngz_oBhEsnjBc6MBwFyoJld2Svh8_icon-15f9fda021d"
+  },
+  {
+    "title": "TED Blog",
+    "url": "https://blog.ted.com",
+    "image": "https://storage.googleapis.com/site-assets/_SN1b1FZbuZRfvtzhcN4bhO-xrz-yb-kBkk3EMyfmJA_icon-15eccbe5402"
+  },
+  {
+    "title": "Dangerously Irrelevant",
+    "url": "http://dangerouslyirrelevant.org",
+    "image": "http://storage.googleapis.com/site-assets/EJQQ7POqRgXk99ADLRElyUWIuHciYvt44GdKvpUxkko_icon-154125f018e"
+  },
+  {
+    "title": "Mindshift KQED",
+    "url": "https://ww2.kqed.org/mindshift",
+    "image": "https://storage.googleapis.com/site-assets/kHSLKnhUVSvbXrVtaCN66XL7iBqiXqmwXkHSv3yIcNE_icon-1699ddf1ea8"
+  },
+  {
+    "title": "iLearn Technology",
+    "url": "http://ilearntechnology.com/wordpress",
+    "image": "https://storage.googleapis.com/site-assets/9sx9Trpy9_vyZSVOTMC-3Z4HIIZ8_EkyTlfJdlmQJeQ_sicon-165ee124cb8"
+  },
+  {
+    "title": "NYT - Education ",
+    "url": "https://www.nytimes.com/section/education?partner=rss&emc=rss",
+    "image": "https://storage.googleapis.com/site-assets/dQTrX9U8EONkb7nIP7wfuyc7l3owGsm1zUBVcdjayGs_icon-1690c015baf"
+  },
+  {
+    "title": "Educational Technology",
+    "url": "http://www.educatorstechnology.com/",
+    "image": "http://storage.googleapis.com/site-assets/1hZj1r0OT4P4I5IOPJJsEJ6PSTCi0yfkVE6nPpF4LcU_icon-154139eac1c"
+  },
+  {
+    "title": "Hack Education",
+    "url": "http://hackeducation.com/",
+    "image": "https://storage.googleapis.com/site-assets/WqkeCsAh_kY8bgFRlY-Kvez8OF798S8dvqda73UG9K8_icon-160edd04ffb"
+  },
+  {
+    "title": "Lisa Nielsen: The Innovative Educator",
+    "url": "http://theinnovativeeducator.blogspot.com/",
+    "image": "https://storage.googleapis.com/test-site-assets/BpX8up93Mm_4CuHHxEcpINa5RDAFl8B3etwcLrMsIUg_oicon-165a62b05ef"
+  },
+  {
+    "title": "Cool Cat Teacher ",
+    "url": "https://www.coolcatteacher.com",
+    "image": "https://storage.googleapis.com/site-assets/AfsVT1ifzsnc3EnLI6zI5dHWUiimQYgD1Ljnm9WpH3I_icon-167abe7f7ba"
+  },
+  {
+    "title": "The Rapid E-Learning Blog",
+    "url": "http://blogs.articulate.com/rapid-elearning",
+    "image": "http://storage.googleapis.com/site-assets/y-wF-0n_cAmT3aLpIqkSuuJFDygMQuzxZ8wjFvNGoSk_icon-15414fa134b"
+  },
+  {
+    "title": "Education Week ",
+    "url": "http://www.edweek.org/",
+    "image": "https://storage.googleapis.com/site-assets/8d7XvZBrSvwoTGjm4jujmYyRsWkKHLRkibZTYz-IlYM_icon-1612cffab54"
+  },
+  {
+    "title": "Inside Higher Ed",
+    "url": "http://www.insidehighered.com/admin/content",
+    "image": "https://storage.googleapis.com/site-assets/o3SSqIWWG2gYayKaXccfVpg_zOCVxn_qF9iZLeGk8SI_icon-169766fd7ca"
+  },
+  {
+    "title": "Larry Ferlazzo",
+    "url": "http://larryferlazzo.edublogs.org",
+    "image": "https://storage.googleapis.com/site-assets/IMN2GIZI-JvzVWcbQKbT5A_G_-4FIjA1GVHXCulSgoA_icon-16942a5583a"
+  },
+  {
+    "title": "TeachThought",
+    "url": "https://www.teachthought.com",
+    "image": "https://storage.googleapis.com/site-assets/IVsvVjZx954tqcJtUXyAcfrn4zcnQy1CNHOufJ-Uolk_icon-160007afcd7"
+  },
+  {
+    "title": "The Chronicle of Higher Education | News",
+    "url": "https://www.chronicle.com/section/News/6/"
+  },
+  {
+    "title": "ProfHackerProfHacker - Blogs - The Chronicle of Higher Education",
+    "url": "https://www.chronicle.com/blogs/profhacker"
+  },
+  {
+    "title": "Coursera Blog",
+    "url": "https://blog.coursera.org",
+    "image": "https://storage.googleapis.com/site-assets/DxOzuYP7ryOBwZ000PEBNg2lgZ-Fg3CyUvg2XXwKwqo_icon-16367f17230"
+  },
+  {
+    "title": "ED News",
+    "url": "https://www.ed.gov/",
+    "image": "https://storage.googleapis.com/site-assets/YTimvOdqN5i9ikDqnashaa5KUSaSPybIwQVxmXmicvU_icon-15b92745227"
+  },
+  {
+    "title": "Emerging Education Technologies",
+    "url": "https://www.emergingedtech.com",
+    "image": "https://storage.googleapis.com/site-assets/FIDOLakQMGBQok9LelGU4uQlXGEO_vUGuFWZlx3TD6I_icon-1624cc45e23"
+  },
+  {
+    "title": "dy/dan",
+    "url": "http://blog.mrmeyer.com",
+    "image": "https://storage.googleapis.com/site-assets/Uh9G3B4p3UwlVb9PuInxlDZi5r4Srv0U8CAM48jMuYc_sicon-169c655405a"
+  },
+  {
+    "title": "Moving at the Speed of Creativity",
+    "url": "http://www.speedofcreativity.org",
+    "image": "https://storage.googleapis.com/site-assets/L1nJcnAPFbEyOTDE3mqFBQzVNJ2UT1sJsIo_7BSzDxA_sicon-169c6534c85"
+  },
+  {
+    "title": "Blogging About The Web 2.0 Connected Classroom",
+    "url": "http://blog.web20classroom.org/",
+    "image": "http://storage.googleapis.com/site-assets/spDX34NzlW3VZAsgv1mrf75yJbtR_ux9awFUfmdURYM_sicon-1541394fbf3"
+  },
+  {
+    "title": "The Principal of Change",
+    "url": "https://georgecouros.ca/blog",
+    "image": "https://storage.googleapis.com/site-assets/70UA7w7mPNOZjjEHv_vh9EqFgZL5pmDCfZWGRSpCr5Q_icon-1600de931c2"
+  },
+  {
+    "title": "Inside Higher Ed | News",
+    "url": "http://www.insidehighered.com/feed/atom/iphone_today"
+  },
+  {
+    "title": "Connected Principals",
+    "url": "https://connectedprincipals.com",
+    "image": "https://storage.googleapis.com/site-assets/9A6HjtIViyK9b9G-RxoSSVNbN4HwZyPbuEhD3KQ7b1E_sicon-16744bfe2fb"
+  },
+  {
+    "title": "Getting Smart",
+    "url": "https://www.gettingsmart.com",
+    "image": "https://storage.googleapis.com/site-assets/Us8Bp0oIsY1345u_rQA8ZFXc-LrTCGtPIHac-UdSyTQ_icon-167a425f91f"
+  },
+  {
+    "title": "EdSurge Articles",
+    "url": "https://www.edsurge.com/",
+    "image": "https://storage.googleapis.com/site-assets/BdZV7jL_5Qsna6-K8O-aMvgeNaq2-2b2mOBhtgH71DI_icon-16764f72edd"
+  },
+  {
+    "title": "John Spencer",
+    "url": "http://www.spencerauthor.com",
+    "image": "https://storage.googleapis.com/site-assets/i5RqRhTjh_Dpg_PhkU8BXcWiPYa0-g0e6fAg-mysKio_icon-1695e5c1a18"
+  },
+  {
+    "title": "The Nerdy Teacher",
+    "url": "http://www.thenerdyteacher.com/",
+    "image": "https://storage.googleapis.com/site-assets/0EqiMhUZR4FtikrrCxq1CO34Ox58nm9gsU-Bl8FD1bs_sicon-161fd8dfb51"
+  },
+  {
+    "title": "21 st Century Educational Technology and Learning",
+    "url": "https://21centuryedtech.wordpress.com",
+    "image": "http://storage.googleapis.com/site-assets/YK2-4HWj1OQIqZhKDmVu__bxER0-bxX5NUdc61sN6ZA_icon-15414cf2941"
+  },
+  {
+    "title": "Clutter-Free Classroom",
+    "url": "https://www.cfclassroom.com/",
+    "image": "https://storage.googleapis.com/test-site-assets/hZ0Sp_gGfet58UqgwdKA7Bkw4586PzTnQL6oepeGCxc_oicon-165a62d711a"
+  },
+  {
+    "title": "Cult of Pedagogy",
+    "url": "http://www.cultofpedagogy.com",
+    "image": "https://storage.googleapis.com/test-site-assets/Ufb4Ba7qqGx0xgqRyhX0IimxvyA4lKJPPhUeZmyzkL8_oicon-165a62ca778"
+  },
+  {
+    "title": "Diane Ravitch's blog",
+    "url": "https://dianeravitch.net",
+    "image": "https://storage.googleapis.com/site-assets/tHsjBPl57NyGqxe72wkPUSwMBZtRH6mtWMYkLbm_pTk_icon-163db27acf1"
+  },
+  {
+    "title": "BBC News - Family & Education",
+    "url": "https://www.bbc.co.uk/news/",
+    "image": "https://storage.googleapis.com/site-assets/EyRQeJILpJ6mPB40WAAmmDIyrBeD7yv-Go_BkLwU8y0_icon-163b56413bd"
+  },
+  {
+    "title": "Silvia Tolisano- Langwitches Blog",
+    "url": "http://langwitches.org/blog",
+    "image": "https://storage.googleapis.com/site-assets/rL2iX4ozyyCiMeytRRlwjEG8bVbxddikErJg9LhNi94_icon-164b72c5654"
+  },
+  {
+    "title": "Educational Technology Guy",
+    "url": "http://educationaltechnologyguy.blogspot.com/",
+    "image": "http://storage.googleapis.com/site-assets/imKa4C2J42t5zPBryqAnB2yRJmaIEHVqqLp6RB8G54s_icon-15413be3a7d"
+  },
+  {
+    "title": "ASCD InserviceASCD Inservice",
+    "url": "http://inservice.ascd.org",
+    "image": "https://storage.googleapis.com/site-assets/4-r7--N2-TVsdwUmF7osIBHytR6kr3EqI01-yWiSVYY_sicon-15b68b4f74b"
+  },
+  {
+    "title": "Stephen's Web ~ OLDaily",
+    "url": "http://www.downes.ca/",
+    "image": "https://storage.googleapis.com/site-assets/PRmNX93Luv0CLZRt26bop-jVWwyJhTIfJ8h8gLmojCg_icon-15b63ba7f7f"
+  },
+  {
+    "title": "What the Teacher Wants!",
+    "url": "http://www.whattheteacherwantsblog.com/",
+    "image": "https://storage.googleapis.com/site-assets/59oKIGu4m-iUf2Hx05K-T9Db-XXiLH5fATm1Iwp71Ic_icon-15b92842f9f"
+  },
+  {
+    "title": "Education | The Guardian",
+    "url": "https://www.theguardian.com/education",
+    "image": "https://storage.googleapis.com/site-assets/r8uNLBmhK2HIdH-ABqJXySMrpJ0lJ5DVIOY-HmyWf5s_icon-167084dc69c"
+  },
+  {
+    "title": "Faculty Focus | Higher Ed Teaching & Learning",
+    "url": "https://www.facultyfocus.com",
+    "image": "https://storage.googleapis.com/site-assets/pDsbnUi5FlgxAh29FbAcKOn58_zYu7o4M77mtLJUS2w_icon-15b9d4d0936"
+  },
+  {
+    "title": "The Jose Vilson",
+    "url": "https://thejosevilson.com",
+    "image": "https://storage.googleapis.com/site-assets/Mn1714c-IHlrJDLvNpZetXJOWxAi3MUc5M0kIYVULC4_icon-1697fa9eb75"
+  },
+  {
+    "title": "A Principal's Reflections",
+    "url": "http://esheninger.blogspot.com/",
+    "image": "http://storage.googleapis.com/site-assets/tbeklU_ZD8e2L1faYqOtVAXyj7eiC3CvxRqsk_3-r8Y_sicon-154139838b3"
+  },
+  {
+    "title": "Blog – NCTE",
+    "url": "http://www2.ncte.org",
+    "image": "https://storage.googleapis.com/site-assets/OvMFaSh8rFkzbm236H0cLxEHX7QHb2p6RIKqGj8-f3w_icon-15f71610fbf"
+  },
+  {
+    "title": "EdTech Magazine: K-12",
+    "url": "https://edtechmagazine.com/k12/rss.xml",
+    "image": "https://storage.googleapis.com/site-assets/4IUBFEVlbakmXiyBCijOtNdPXNeNcxaNvK0DwjAINFM_sicon-16140f15a81"
+  },
+  {
+    "title": "The Edublogger",
+    "url": "https://www.theedublogger.com"
+  },
+  {
+    "title": "Teacher Reboot Camp",
+    "url": "http://teacherrebootcamp.com",
+    "image": "https://storage.googleapis.com/site-assets/yAHR1vUhWBs6jGf0KwEyXA29DhLPeTC-_GS9pcPfN3Q_icon-167de9fa2e4"
+  },
+  {
+    "title": "e-Literate",
+    "url": "http://mfeldstein.com"
+  },
+  {
+    "title": "Eduwonk",
+    "url": "http://www.eduwonk.com",
+    "image": "https://storage.googleapis.com/site-assets/jB6qRDqVI0YeO2pBsuNvaiKCktgpIpMRkU5WL48cvNI_icon-15dc67f560c"
+  },
+  {
+    "title": "Education",
+    "url": "https://www.huffpost.com/news/education",
+    "image": "https://storage.googleapis.com/site-assets/7sgMVqf4K9U0phHfCRcRZcRZHBsH4XWDdbJTb3LQ5EA_icon-168f07b4673"
+  },
+  {
+    "title": "THE TEMPERED RADICAL",
+    "url": "http://blog.williamferriter.com",
+    "image": "https://storage.googleapis.com/site-assets/pTsl8OtqzC8QnR-xlTakQKnq4_MvR30XlMTLYZ5C1bM_icon-16904cff9e5"
+  },
+  {
+    "title": "The Hechinger Report",
+    "url": "https://hechingerreport.org",
+    "image": "https://storage.googleapis.com/site-assets/7i_ZkD1VKUie9auKX-zvDs398EKfQmmAhISTNAPiRjA_icon-1644f996fdf"
+  },
+  {
+    "title": "Mr Kemp NZ",
+    "url": "http://mrkempnz.com",
+    "image": "https://storage.googleapis.com/site-assets/fYZCK3zBudFNSmNnNwP0oX4kXDE0LOVwKn8lWGxCPL8_icon-15ebbd8cc72"
+  },
+  {
+    "title": "Ideas and Thoughts",
+    "url": "http://ideasandthoughts.org",
+    "image": "http://storage.googleapis.com/site-assets/LOnCYkBXKksIn5np7DCUq2g4FHPLs7qTwUvpL3oVf-M_sicon-1540dca1d85"
+  },
+  {
+    "title": "Education Next",
+    "url": "https://www.educationnext.org",
+    "image": "https://storage.googleapis.com/site-assets/-8ey1VUH5GXLNEcnyRDhno0Xr3eeoSZB1-d-Oqan_MA_icon-164884ad181"
+  },
+  {
+    "title": "Ditch That TextbookDitch That Textbook",
+    "url": "http://ditchthattextbook.com",
+    "image": "https://storage.googleapis.com/site-assets/IYv9keb9_aJEy-OQVVIOeKWy58t6E46_kwQFN8etd6c_icon-1607a0ab3c0"
+  },
+  {
+    "title": "eSchool News",
+    "url": "http://www.eschoolnews.com",
+    "image": "https://storage.googleapis.com/site-assets/ExaDpmUgemzHhtjhdFfqw4klOpdsvPedANchYobUMQ4_icon-1688233294f"
+  },
+  {
+    "title": "The Ed Techie",
+    "url": "http://blog.edtechie.net",
+    "image": "https://storage.googleapis.com/site-assets/zi-bYSLMGV1KEHovLtH7kw9tgH_kC7IxWrtrtUkDvRQ_sicon-15cdb7e0c6d"
+  },
+  {
+    "title": "Education | The Atlantic",
+    "url": "https://www.theatlantic.com/education/",
+    "image": "https://storage.googleapis.com/site-assets/RCtSePW3tDeHrwo47wZx3OSa-_cQb75iD556dynCCQQ_icon-1630b2bc679"
+  },
+  {
+    "title": "Campus Technology: All Articles",
+    "url": "https://campustechnology.com/rss-feeds/all-articles.aspx"
+  },
+  {
+    "title": "Ladybug's Teacher Files",
+    "url": "http://www.ladybugsteacherfiles.com/",
+    "image": "https://storage.googleapis.com/site-assets/4Omdaf52RVWln0y2WAlX0bAfATKE3Ncg2y5cZAUxyj8_sicon-1690d2626c9"
+  },
+  {
+    "title": "Step into 2nd Grade",
+    "url": "http://stepinto2ndgrade.com",
+    "image": "https://storage.googleapis.com/site-assets/ctUvfWlYeTapjce7kwcsSlRu0BgrlhZ0rzoO42ZPI9k_icon-1692fff3688"
+  },
+  {
+    "title": "Catlin Tucker, Honors English Teacher",
+    "url": "https://catlintucker.com",
+    "image": "https://storage.googleapis.com/test-site-assets/wVoH-Y74W8vvrpv32MFeLXxXvdqGQIqdOUiYRiXkNq8_oicon-165a62ea1dc"
+  },
+  {
+    "title": "Tech & Learning",
+    "url": "https://www.techlearning.com/feeds/all"
+  },
+  {
+    "title": "The Cornerstone For Teachers",
+    "url": "http://thecornerstoneforteachers.com",
+    "image": "https://storage.googleapis.com/site-assets/LGigOEoRguznkcsJz9ZK6eH09RZiJCwHENDOp0zwBHU_icon-15b6452c002"
+  },
+  {
+    "title": "TWO WRITING TEACHERS",
+    "url": "https://twowritingteachers.org",
+    "image": "https://storage.googleapis.com/site-assets/bCUIBd6KWQFLKJyo1VdnK6awgJ895QDrwCZytUi3Tlk_sicon-162dcb76ded"
+  },
+  {
+    "title": "Larry Cuban on School Reform and Classroom  Practice",
+    "url": "https://larrycuban.wordpress.com",
+    "image": "https://storage.googleapis.com/site-assets/58BVj1-rtWzYPQgc8inF4Kpx9w7C7bNf-JeumZidI1s_icon-16085337f9e"
+  },
+  {
+    "title": "Organized Classroom",
+    "url": "https://organizedclassroom.com",
+    "image": "https://storage.googleapis.com/site-assets/p_ASmNYqrMUPiHaEva5td1Z3uzWD3dlrrzGecBnnEuI_icon-1644f98cc55"
+  },
+  {
+    "title": "Smart Classroom Management",
+    "url": "https://www.smartclassroommanagement.com",
+    "image": "https://storage.googleapis.com/site-assets/tq1QZNS2UcsDYllg7fyLm4G5Qv8RnMs_r_cw_7Wkdu0_sicon-15b645c2747"
+  },
+  {
+    "title": "Teacher Tech",
+    "url": "https://alicekeeler.com",
+    "image": "https://storage.googleapis.com/site-assets/ARKW2_5ltLnj9-LXKK-nNK1kz973A_GCDYSiK0XGV30_icon-164696e773d"
+  },
+  {
+    "title": "Shake Up Learning",
+    "url": "https://shakeuplearning.com",
+    "image": "https://storage.googleapis.com/site-assets/Ha8wjbM2z7aXl0_AVkFqEfyYzpfNQ_q9DaQWrf8KVmQ_icon-1690818c9a8"
+  },
+  {
+    "title": "Politics K-12 - Education Week",
+    "url": "http://blogs.edweek.org/edweek/campaign-k-12/",
+    "image": "http://storage.googleapis.com/site-assets/TDKgdbAdfo7ov-4af_-uBf2L1ks0Y9l4AgZMK1jqTPE_icon-15414461169"
+  },
+  {
+    "title": "Control Alt Achieve",
+    "url": "https://www.controlaltachieve.com/"
+  },
+  {
+    "title": "Chalkbeat",
+    "url": "https://ny.chalkbeat.org",
+    "image": "https://storage.googleapis.com/site-assets/ob2HDwTF1VrA2D3pRvdZCFUPGnKxCoDOr9sP5qTX4As_sicon-16952ae224b"
+  },
+  {
+    "title": "Class Tech Tips",
+    "url": "https://classtechtips.com"
+  },
+  {
+    "title": "Daniel Willingham--Science & Education - Daniel Willingham: Science and Education Blog",
+    "url": "http://www.danielwillingham.com/daniel-willingham-science-and-education-blog",
+    "image": "https://storage.googleapis.com/site-assets/hYy37eoTnG-vcXKznPUUtSr_Ft4oI8nPi2RvaKpKLUU_sicon-16992316f2f"
+  },
+  {
+    "title": "David Didau",
+    "url": "https://learningspy.co.uk",
+    "image": "https://storage.googleapis.com/site-assets/reLTBVaoT2ABIkRxoVj7aeQSo3fIcEKmYSY6yQ0OOWk_icon-167a7669543"
+  },
+  {
+    "title": "THE Journal: All Current Articles",
+    "url": "https://thejournal.com/rss-feeds/all-articles.aspx"
+  },
+  {
+    "title": "Joanne Jacobs",
+    "url": "https://www.joannejacobs.com"
+  },
+  {
+    "title": "Teaching in Room 6",
+    "url": "http://www.teachinginroom6.com/",
+    "image": "https://storage.googleapis.com/site-assets/SkRYSyLtqaTMi7AQG8yHBO_-Ut7IRxDnddi31UAZMdo_sicon-1639069e9b5"
+  },
+  {
+    "title": "A Teeny Tiny Teacher",
+    "url": "http://www.ateenytinyteacher.com",
+    "image": "https://storage.googleapis.com/site-assets/ZjH9oVvgISX8GwZGDY_Abk5kJGiHe1_xXgdkw_euHFc_sicon-15b64a2f33c"
+  },
+  {
+    "title": "MiddleWeb",
+    "url": "http://www.middleweb.com",
+    "image": "https://storage.googleapis.com/site-assets/KIyErcBU0FKcHYbt4q2oJp2ZTHNBopkVIEud-g6oPlQ_icon-15ec23dde1f"
+  },
+  {
+    "title": "Education Dive - Latest News",
+    "url": "https://www.educationdive.com/news/",
+    "image": "https://storage.googleapis.com/site-assets/JzBe3O7yM4KyKKuFlF2cTu6eEFN1GJvfPj1ZxTu5LKI_icon-162357628e6"
+  },
+  {
+    "title": "Pernille Ripp",
+    "url": "https://pernillesripp.com",
+    "image": "https://storage.googleapis.com/site-assets/nnkR-8AWNNcV186zoS812_AA4AaYBhQjPhoXFL9EsT8_icon-163fbdda5a4"
+  },
+  {
+    "title": "TeacherToolkit",
+    "url": "https://www.teachertoolkit.co.uk",
+    "image": "https://storage.googleapis.com/site-assets/69_WhaPgMO1u63UpdZfE65T6cxo2Xd3TAqyjKKM0Yrk_icon-16615846fca"
+  },
+  {
+    "title": "WeAreTeachers",
+    "url": "https://www.weareteachers.com",
+    "image": "https://storage.googleapis.com/site-assets/vBEfShmpclB3AVZgkEJYUZ6VwbXNGgTQcAOVze91QOQ_icon-15f8cfb89d0"
+  },
+  {
+    "title": "Rick Hess Straight Up",
+    "url": "http://blogs.edweek.org/edweek/rick_hess_straight_up/",
+    "image": "https://storage.googleapis.com/site-assets/r89oY4vKeHsScGKj6eU0emYCdGli0pXFnKBMAsniu3k_icon-15b64391889"
+  },
+  {
+    "title": "Teach Like a Champion",
+    "url": "http://teachlikeachampion.com",
+    "image": "http://storage.googleapis.com/site-assets/oAH0iRm9g5CLtcS_blmzW7KcyMBcVU4J4dIk-p4Ke3c_icon-1543e918973"
+  },
+  {
+    "title": "teacherhead",
+    "url": "https://teacherhead.com",
+    "image": "https://storage.googleapis.com/site-assets/hfdWsncqTNRMmOY1_gMKE6GLNiDvt6SMFqQODJN80x8_icon-16597581cc1"
+  },
+  {
+    "title": "Learning Scientists Blog - The Learning Scientists",
+    "url": "http://www.learningscientists.org/blog/",
+    "image": "https://storage.googleapis.com/site-assets/KkxwJy8tGJV0ScEORLGh6TebmJ6ShuCTtI563Z4uA6k_icon-16145c4123b"
+  },
+  {
+    "title": "EdTechTeam",
+    "url": "https://www.edtechteam.com"
+  },
+  {
+    "title": "CURMUDGUCATION",
+    "url": "http://curmudgucation.blogspot.com/",
+    "image": "http://storage.googleapis.com/site-assets/Gf-S5_BCl-G83jT_S_Sa-2P0nKnZlaOv7CKfNF8y-as_icon-1541fdab2e5"
+  },
+  {
+    "title": "Love, Teach",
+    "url": "http://loveteachblog.blogspot.com/"
+  },
+  {
+    "title": "Laura  Randazzo – Solutions for the Secondary Classroom",
+    "url": "http://laurarandazzo.com",
+    "image": "https://storage.googleapis.com/site-assets/qIi4_e4cKsBeL4xPpnWVxqH5xOEmwQf9lePFsD6ypR0_sicon-169e203aac9"
+  },
+  {
+    "title": "Answer Sheet",
+    "url": "https://www.washingtonpost.com",
+    "image": "https://storage.googleapis.com/site-assets/tw9KCnzBzlw7TeuEupRjTooTO6Sr05sOvA_hx5GJEYY_icon-16474e5e16f"
+  }
+]

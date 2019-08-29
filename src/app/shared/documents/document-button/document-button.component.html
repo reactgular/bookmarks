@@ -1,0 +1,14 @@
+<ng-container *ngIf="document$ | async as doc">
+    <a class="txt mr-1 text-truncate"
+       [class.untitled]="!doc.title"
+       [routerLink]="['/bookmarks/'+doc.id]"
+       routerLinkActive="active">
+        {{doc.title | untitled}}
+    </a>
+</ng-container>
+<tag-reactive-more class="ml-auto tool-small reactive-tool-invert"
+                   [tools]="tools"></tag-reactive-more>
+<div class="button-ripple"
+     matRipple
+     matRippleColor="rgba(255,255,255,0.1)"
+     [matRippleTrigger]="el.nativeElement"></div>

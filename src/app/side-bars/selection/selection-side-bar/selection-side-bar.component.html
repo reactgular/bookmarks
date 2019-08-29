@@ -1,0 +1,11 @@
+<tag-side-bar-header>
+    <tag-reactive-tool [title]="false"
+                       [tool]="selectAll"></tag-reactive-tool>
+    <span class="ml-1 txt font-weight-bold text-truncate">{{count$ | async}} Selected</span>
+</tag-side-bar-header>
+<div class="change-color">Change Color</div>
+<tag-colors-picker class="mb-3 ml-auto mr-auto"
+                   [color]="colors$ | async"
+                   (colorChanged)="setColor($event)"></tag-colors-picker>
+<hr class="separator">
+<tag-reactive-side-bar [tools]="tools"></tag-reactive-side-bar>

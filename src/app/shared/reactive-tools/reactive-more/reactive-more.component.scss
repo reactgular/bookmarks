@@ -1,0 +1,23 @@
+@import "../config";
+
+:host {
+    display: flex;
+    color: $gray-800;
+    transition: color $ani-speed $ani-func;
+
+    .tool-muted {
+        color: $gray-400;
+    }
+}
+
+:host-context(.reactive-tool-invert) {
+    color: $white;
+}
+
+:host-context(.tool-small) {
+    button {
+        width: $_24px;
+        height: $_24px;
+        line-height: $_24px;
+    }
+}

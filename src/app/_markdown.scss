@@ -1,0 +1,47 @@
+@import "config";
+
+rg-markdown {
+    a {
+        color: $blue;
+        text-decoration: underline;
+
+        &:hover, &:visited {
+            color: darken($blue, 20);
+        }
+    }
+
+    pre {
+        background-color: $gray-100;
+        padding: map_get($spacers, 3);
+    }
+
+    ul {
+        margin-top: 0;
+        margin-bottom: 1rem;
+        padding-left: 2rem;
+    }
+
+    blockquote {
+        padding: map_get($spacers, 1) map_get($spacers, 3);
+        background-color: #FFF8DC;
+        border-left: 4px solid #ffeb8e;
+        color: $gray-700;
+
+        p {
+            margin: 0;
+        }
+    }
+}
+
+rg-toc {
+    a {
+        font-weight: bold;
+        line-height: 1.7rem;
+        padding-left: map-get($spacers, 3);
+        padding-right: map-get($spacers, 3);
+
+        &.active {
+            background-color: $gray-100;
+        }
+    }
+}

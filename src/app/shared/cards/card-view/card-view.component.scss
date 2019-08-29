@@ -1,0 +1,57 @@
+@import "../config";
+
+:host {
+    $btnSize: $_24px;
+    display: flex;
+    flex-grow: 1;
+    min-width: 0;
+
+    .tag-card-view-content {
+        display: flex;
+        flex-direction: column;
+        flex-grow: 1;
+        border-radius: $_2px;
+        user-select: none;
+        opacity: 1;
+        min-width: 0;
+    }
+
+    .tag-card-title {
+        font-family: $roboto-condensed;
+        font-size: $_16px;
+        font-weight: 700;
+        cursor: text;
+        flex-grow: 1;
+        border: none;
+        background: none;
+
+        &::placeholder {
+            color: $gray-300;
+        }
+
+        &-ctrl:hover {
+            cursor: pointer;
+            text-decoration: underline;
+        }
+    }
+
+    tag-reactive-ribbon {
+        opacity: 0;
+        transition: opacity 250ms ease-in-out;
+
+        &.show-toolbar {
+            opacity: 1;
+        }
+    }
+
+    &:hover {
+        tag-reactive-ribbon:not(.selected-toolbar) {
+            opacity: 1;
+        }
+    }
+
+    .tag-card-items {
+        display: flex;
+        flex-direction: column;
+    }
+}

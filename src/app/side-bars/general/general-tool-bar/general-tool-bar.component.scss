@@ -1,0 +1,11 @@
+@import "../config";
+
+:host {
+    display: flex;
+    width: 100%;
+    min-width: 0;
+    height: $top-bar-height;
+    background-color: $white;
+    align-items: center;
+    border-bottom: $side-bar-border;
+}

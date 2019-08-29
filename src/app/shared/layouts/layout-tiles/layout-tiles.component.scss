@@ -1,0 +1,8 @@
+@import "../config";
+
+:host {
+    display: block;
+    position: relative;
+    height: 0;
+    transition: height $ani-speed $ani-func;
+}

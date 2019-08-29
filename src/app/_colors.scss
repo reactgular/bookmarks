@@ -1,0 +1,68 @@
+@import '~@angular/material/theming';
+@import '~@reactgular/media/scss/material';
+
+$cardColors: (
+    0: #FFFFFF,
+    1: rgb(255, 138, 128),
+    2: rgb(255, 209, 128),
+    3: rgb(255, 255, 141),
+    4: rgb(204, 255, 144),
+    5: rgb(167, 255, 235),
+    6: rgb(128, 216, 255),
+    7: rgb(130, 177, 255),
+    8: rgb(179, 136, 255),
+    9: rgb(248, 187, 208),
+    10: rgb(215, 204, 200),
+    11: rgb(207, 216, 220)
+);
+
+// @see http://mcg.mbitson.com/#!?mcgpalette0=%23ffffff
+$md-white-palette: (
+    50 : #ffffff,
+    100 : #ffffff,
+    200 : #ffffff,
+    300 : #ffffff,
+    400 : #ffffff,
+    500 : #ffffff,
+    600 : #ffffff,
+    700 : #ffffff,
+    800 : #ffffff,
+    900 : #ffffff,
+    A100 : #ffffff,
+    A200 : #ffffff,
+    A400 : #ffffff,
+    A700 : #ffffff,
+    contrast: (
+        50 : #000000,
+        100 : #000000,
+        200 : #000000,
+        300 : #000000,
+        400 : #000000,
+        500 : #000000,
+        600 : #000000,
+        700 : #000000,
+        800 : #000000,
+        900 : #000000,
+        A100 : $gray-800,
+        A200 : #000000,
+        A400 : #000000,
+        A700 : #000000,
+    )
+);
+
+// Define the palettes for your theme using the Material Design palettes available in palette.scss
+// (imported above). For each palette, you can optionally specify a default, lighter, and darker
+// hue. Available color palettes: https://www.google.com/design/spec/style/color.html
+$app-primary: mat-palette($md-reactgular-primary);
+$app-accent: mat-palette($md-reactgular-secondary);
+$app-white: mat-palette($md-white-palette, A100);
+
+// The warn palette is optional (defaults to red).
+$app-warn: mat-palette($mat-red);
+// $app-warn: mat-palette($mat-amber);
+
+// Create the theme object (a Sass map containing all of the palettes).
+$app-light-theme: mat-light-theme($app-primary, $app-accent, $app-warn);
+$app-white-theme: mat-light-theme($app-white, $app-accent, $app-warn);
+
+$overlay-backdrop-color: rgba(map-get($app-primary, default), 0.2);

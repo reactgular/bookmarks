@@ -1,0 +1,10 @@
+<div class="tag-draggable"
+     [style.transform]="'translate(' + position?.x +'px,' + position?.y + 'px)'"
+     [style.width.px]="width"
+     [tagCardColor]="cardColor$ | async">
+    <tag-item-edit [itemId]="itemId$ | async"></tag-item-edit>
+    <tag-drag-hover-progress [radius]="radius"
+                             [thick]="radius / 2"
+                             [style.top.px]="-radius + offset?.y"
+                             [style.left.px]="-radius + offset?.x"></tag-drag-hover-progress>
+</div>

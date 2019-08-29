@@ -1,0 +1,494 @@
+[
+  {
+    "title": "Schneier on Security",
+    "url": "https://www.schneier.com/blog/",
+    "image": "http://storage.googleapis.com/site-assets/bZfTFi0aVXAtOa1-9AIwJGblEtZ-VS_P7VvpOuzs-8E_icon-154143e0fc3"
+  },
+  {
+    "title": "Krebs on Security",
+    "url": "https://krebsonsecurity.com",
+    "image": "http://storage.googleapis.com/test-site-assets/RhPrZIPIQhgdy1v5R5fQNkKTH3rGXcrAYsWFzsIPo4k_oicon-14e03bfadb5"
+  },
+  {
+    "title": "The Hacker News",
+    "url": "https://thehackernews.com/",
+    "image": "https://storage.googleapis.com/site-assets/zwUJFVdnktlsCRyWGJ_if2dTo03NYy-gE_Px51ybzi4_icon-16179b8c724"
+  },
+  {
+    "title": "Darknet",
+    "url": "https://www.darknet.org.uk",
+    "image": "https://www.darknet.org.uk/images/darknet_logo_small.jpg"
+  },
+  {
+    "title": "Google Online Security Blog",
+    "url": "http://security.googleblog.com/",
+    "image": "http://storage.googleapis.com/test-site-assets/eXNU6TCHpw4BzB9PxRfMUvE7kLxwvYMT_HelWXxwFOs_oicon-14e03cb87cc"
+  },
+  {
+    "title": "Dark Reading:",
+    "url": "https://www.darkreading.com",
+    "image": "https://storage.googleapis.com/site-assets/GMj7uLpm4IPOOx5kU64zxGBMiBD17Xf8SvoEADZo_gQ_icon-15dc8784d0f"
+  },
+  {
+    "title": "SANS Internet Storm Center, InfoCON: green",
+    "url": "https://isc.sans.edu",
+    "image": "http://storage.googleapis.com/site-assets/xyoZR0Wc9n0ymGbnWZJwAA_-IXJ8QPleEB5SSRlH86I_icon-154125548b1"
+  },
+  {
+    "title": "Naked Security",
+    "url": "https://nakedsecurity.sophos.com",
+    "image": "http://storage.googleapis.com/site-assets/qU4qEGABYcN4db8xLtnpNC_ViYzNcO52lxx5DLnD_vs_icon-154159efe3f"
+  },
+  {
+    "title": "The Register - Security",
+    "url": "https://www.theregister.co.uk/security/",
+    "image": "https://storage.googleapis.com/site-assets/iJsgu1DRIkYZoeZgqPqgAhWJiN0n5njLRUb77oDapDY_icon-15b92702e84"
+  },
+  {
+    "title": "Deeplinks",
+    "url": "https://www.eff.org/rss/updates.xml",
+    "image": "https://storage.googleapis.com/site-assets/oEr_GaRGcRnheuP-PyXeZnJ-BHD-nv7Tk0KoSHxLKyI_icon-169ab4da9ac"
+  },
+  {
+    "title": "Fire Eye Threat Research ",
+    "url": "http://www.fireeye.com/blog/threat-research.html",
+    "image": "https://storage.googleapis.com/site-assets/YlZS3P_nbzb8AYUuXTfOkx9eED1mFN0XbdAnkHnrBJQ_icon-169755055c6"
+  },
+  {
+    "title": "TaoSecurity",
+    "url": "https://taosecurity.blogspot.com/",
+    "image": "https://storage.googleapis.com/site-assets/ypaowf7uKm-Lry4-DRMVQLWfYWyNE6m-D93Gi9tKMa4_icon-161ff82d4ab"
+  },
+  {
+    "title": "TrendLabs Security Intelligence Blog",
+    "url": "https://blog.trendmicro.com/trendlabs-security-intelligence",
+    "image": "https://storage.googleapis.com/site-assets/mS5-aMl7FtRMbqIqBTwWgVAiQGsSnf_ANcgepzSXs80_icon-1699ca17357"
+  },
+  {
+    "title": "US-CERT Alerts",
+    "url": "https://www.us-cert.gov/ncas/alerts.xml",
+    "image": "https://storage.googleapis.com/site-assets/h_NXrTR3EU42YABE5AT9k8UNUDnEJMD1E5nueoNoENI_icon-16930b4855c"
+  },
+  {
+    "title": "Exploit-DB.com RSS Feed",
+    "url": "https://www.exploit-db.com",
+    "image": "https://storage.googleapis.com/site-assets/t1osaEYVTZMo89-AauKB9xI5bEcFPIh1GVMFQt-JUlw_icon-16787dceb79"
+  },
+  {
+    "title": "US-CERT Current Activity",
+    "url": "https://www.us-cert.gov/ncas/current-activity.xml",
+    "image": "https://storage.googleapis.com/site-assets/3oIJSVRuEey5rXohqK8GL0rJdhuW7dVYe4F5Oi5zYFg_icon-16930b489a5"
+  },
+  {
+    "title": "Packet Storm Security",
+    "url": "https://packetstormsecurity.com/",
+    "image": "https://storage.googleapis.com/site-assets/wBPYzCbaSCG-OvDIrSVufxSuBy764QUt9gfRU-iI9Jk_icon-15c85e61ecf"
+  },
+  {
+    "title": "Errata Security",
+    "url": "https://blog.erratasec.com/",
+    "image": "https://storage.googleapis.com/test-site-assets/7fDdo9EK7IWo5xER71yjOjojYlPXpFbpNJYdcqpN0Po_oicon-1658bb473e9"
+  },
+  {
+    "title": "Malwarebytes Labs",
+    "url": "https://blog.malwarebytes.com",
+    "image": "https://storage.googleapis.com/site-assets/O68JfJUKyru_DlHClSJVCtT177baRjzRWOxd5i_Mv4I_icon-169c5342b45"
+  },
+  {
+    "title": "Threatpost",
+    "url": "https://threatpost.com",
+    "image": "http://storage.googleapis.com/site-assets/dIslAC_74CXeS1Mz8zq-s0d2TJcshDPyxk6DQBVrzSc_icon-154139d036f"
+  },
+  {
+    "title": "SecurityWeek",
+    "url": "https://www.securityweek.com",
+    "image": "https://storage.googleapis.com/site-assets/8dpo_qFWYByOyFRTdN0tyzkcf5yiHbyLYE4uz9Kd1BA_icon-166c4a535c7"
+  },
+  {
+    "title": "Troy Hunt's Blog",
+    "url": "https://www.troyhunt.com/",
+    "image": "https://storage.googleapis.com/test-site-assets/3d1AGV3vhLogM-n_NiAGK_5t3AmRyv5z3AebNItb_Cs_oicon-1658bb5aa0e"
+  },
+  {
+    "title": "Securelist",
+    "url": "https://securelist.com",
+    "image": "https://storage.googleapis.com/site-assets/2y6ga1VWw06Gn2QdZXADLg_WsAbbOs23bsemmse3wmY_icon-164415afe42"
+  },
+  {
+    "title": "Microsoft Security",
+    "url": "https://www.microsoft.com/security/blog",
+    "image": "https://storage.googleapis.com/site-assets/2q7r51rHGbfEC7bOkd-WAmN2NRTqsi5iUFCmUJ2Ct6E_icon-169334a5ff8"
+  },
+  {
+    "title": "Infosecurity",
+    "url": "https://www.infosecurity-magazine.com:443/news/",
+    "image": "https://storage.googleapis.com/site-assets/E4FJ9aQ3N4IPRW3HO9SVoMUYqcer4jTj3YKhkm2Qz88_icon-160ef12f3b1"
+  },
+  {
+    "title": "Help Net Security",
+    "url": "https://www.helpnetsecurity.com",
+    "image": "http://storage.googleapis.com/site-assets/QTOXGu7hkyvAQGw1jnJ9UZ9mARpR1UzAv31ivPQd33w_icon-15415bc7528"
+  },
+  {
+    "title": "Carnal0wnage & Attack Research Blog",
+    "url": "http://carnal0wnage.attackresearch.com/",
+    "image": "http://storage.googleapis.com/site-assets/7i2sYUxCFj3wcZSKJ8frLj_Y4CIDbPtlr5QL0ls1XbE_icon-154139c0a48"
+  },
+  {
+    "title": "Security Affairs ",
+    "url": "https://securityaffairs.co/wordpress",
+    "image": "https://storage.googleapis.com/test-site-assets/8HRqF-HLSOwmc5TejVtQFNgJV-IjW20gTvr8o8MF-ts_oicon-1658bb14e8b"
+  },
+  {
+    "title": "WeLiveSecurity",
+    "url": "https://www.welivesecurity.com",
+    "image": "https://storage.googleapis.com/site-assets/1G2Rf3pSOAAICJtbUIoS8JsPRcBXZTgrGVrekfApBlM_icon-15c5d6ec7df"
+  },
+  {
+    "title": "SANS Digital Forensics and Incident Response Blog",
+    "url": "http://digital-forensics.sans.org/blog",
+    "image": "https://storage.googleapis.com/site-assets/QqMaP8V_W9N8JLs1MbjQBI63rjM7Rz8AF8bOaHSOo-g_icon-168a3058190"
+  },
+  {
+    "title": "Security – Cisco Blog",
+    "url": "https://blogs.cisco.com",
+    "image": "https://storage.googleapis.com/site-assets/jjdw8OcBEBI4Rdh6txFC4tEFR4_9IPqSxmDMbBR1sMs_icon-15f7cdfa56d"
+  },
+  {
+    "title": "MSRC",
+    "url": "https://blogs.technet.microsoft.com/msrc",
+    "image": "http://storage.googleapis.com/site-assets/bR1QtnLDD4CFfIQVXTd6dIAk6F7VuYZ7RYTX75ED1nw_sicon-154139bab6f"
+  },
+  {
+    "title": "Infosec Resources",
+    "url": "https://resources.infosecinstitute.com",
+    "image": "https://storage.googleapis.com/site-assets/8sI8RPDLWnqrmQJ-FJRmXc8afT9TKRBZbicxFsxcOWE_icon-1695614152d"
+  },
+  {
+    "title": "SecurityFocus Vulnerabilities",
+    "url": "http://www.securityfocus.com"
+  },
+  {
+    "title": "Full Disclosure",
+    "url": "http://seclists.org/#fulldisclosure",
+    "image": "http://storage.googleapis.com/site-assets/m7hW514xUkeo55PBvI813mUSYD42HRewR2o_DcK9KM8_sicon-1541396f461"
+  },
+  {
+    "title": "Didier Stevens",
+    "url": "https://blog.didierstevens.com",
+    "image": "https://storage.googleapis.com/site-assets/hEX4fb4S9pIPqDcRn6XTGDH-0Elexp0lg8mb9Jyjdpo_icon-15ff76bee66"
+  },
+  {
+    "title": "Talos Blog",
+    "url": "https://blog.talosintelligence.com/",
+    "image": "https://storage.googleapis.com/site-assets/OHFfMtDnne8DSxzEH3tVinWqSg9xf0eqRGAyO1lwPjg_icon-16334aac509"
+  },
+  {
+    "title": "/r/netsec - Information Security News & Discussion",
+    "url": "https://www.reddit.com/r/netsec/",
+    "image": "https://storage.googleapis.com/site-assets/jRObnSwmw9Iod_O9v9vlDaLCsPJOg1X6xoHpfUZUzWQ_icon-169e40e3e10"
+  },
+  {
+    "title": "security – Ars Technica",
+    "url": "https://arstechnica.com",
+    "image": "https://storage.googleapis.com/site-assets/YB1jJjAZxlaJqmF8vqm_fbb3ZNtKAUZkZLV5uHlB9RI_icon-1601e2f9273"
+  },
+  {
+    "title": "Sucuri Blog",
+    "url": "https://blog.sucuri.net",
+    "image": "https://storage.googleapis.com/site-assets/0sq4STAORCwwa-R7BWWfWhyNIwf4YORgAiFlRW9kANc_icon-15ee97488c9"
+  },
+  {
+    "title": "NETSCOUT ASERT Blog Posts RSS",
+    "url": "https://www.netscout.com/blog/asert/rss.xml",
+    "image": "https://storage.googleapis.com/site-assets/mfw-vieodNEbeonvFvSX8PBLyU7fhBd7b7n0XdK0saI_icon-169334b7379"
+  },
+  {
+    "title": "A Few Thoughts on Cryptographic Engineering",
+    "url": "https://blog.cryptographyengineering.com",
+    "image": "https://storage.googleapis.com/site-assets/7pPMD-3LFNNFS2XmebHdl0HtT_TIlFtqr70vVY8VlQU_icon-1624958d97e"
+  },
+  {
+    "title": "Graham Cluley",
+    "url": "https://www.grahamcluley.com",
+    "image": "https://storage.googleapis.com/site-assets/eF4IwaTfLbd1PEx3gNhE4ox3GV4XECRYM0cAeGRSTDA_icon-1699c95ece3"
+  },
+  {
+    "title": "BleepingComputer",
+    "url": "https://www.bleepingcomputer.com/",
+    "image": "https://storage.googleapis.com/site-assets/52n1_z_lTzTmgPyzjwpcQsgAXThWJnzNdlmdUTVJWGQ_icon-164ef32cd9c"
+  },
+  {
+    "title": "National Vulnerability Database",
+    "url": "https://web.nvd.nist.gov/view/vuln/search",
+    "image": "https://storage.googleapis.com/site-assets/eOv6-e9owEKb-4qkjOYgX9OgtmqQafGoetjM62ioYV4_icon-164812dfb7a"
+  },
+  {
+    "title": "Project Zero",
+    "url": "https://googleprojectzero.blogspot.com/"
+  },
+  {
+    "title": "Irongeek's Security Site",
+    "url": "http://www.irongeek.com/",
+    "image": "https://storage.googleapis.com/site-assets/bbMbn_Ni79R0b7_xE6SilJmr0FJBWbdF2uTYaVHhGOM_icon-168102f3567"
+  },
+  {
+    "title": "ZDNet | security RSS",
+    "url": "https://www.zdnet.com/",
+    "image": "https://storage.googleapis.com/site-assets/7asgX4v1wgMY1dbU_oGzCHUxzIkhDHI8qO5V7yw_-bI_icon-163cecef8c7"
+  },
+  {
+    "title": "Infosec Island Latest Articles",
+    "url": "https://www.infosecisland.com",
+    "image": "http://storage.googleapis.com/site-assets/8lKpM_zPOmE9ZL75j_K2Seu2uv-YCV7mDpTddui3D_0_icon-15413b9519e"
+  },
+  {
+    "title": "The State of Security",
+    "url": "https://www.tripwire.com/state-of-security",
+    "image": "https://storage.googleapis.com/site-assets/uPb28yTUiwCVkww9nct2J2Nr1erxW_HJ3gOd0YE6fLE_icon-15fb6716512"
+  },
+  {
+    "title": "Security Weekly",
+    "url": "https://securityweekly.com",
+    "image": "https://storage.googleapis.com/site-assets/7JQR5o9617TMVDsJC4ol84robssqLW8a6qYKrdtauU4_sicon-15c48b719d2"
+  },
+  {
+    "title": "Research Blog",
+    "url": "https://www.zscaler.com/",
+    "image": "https://storage.googleapis.com/site-assets/ioKkrfD6vGCqGSlxQqiqIwE8wWmG6HnERKOhCFF2fQU_icon-15f8b70f9ba"
+  },
+  {
+    "title": "Bugtraq",
+    "url": "http://seclists.org/#bugtraq",
+    "image": "http://storage.googleapis.com/site-assets/PG4aaWSytYp7omj0BLdYAWX0AzsRVrDqql-kL2H3uKs_sicon-1541394a022"
+  },
+  {
+    "title": "US-CERT Bulletins",
+    "url": "https://www.us-cert.gov/ncas/bulletins.xml",
+    "image": "https://storage.googleapis.com/site-assets/bl1W5B_-zZZdet0QCNzQNxTg6De9NdJmCbsn9OHR9K4_icon-1693163b0b1"
+  },
+  {
+    "title": "Lenny Zeltser",
+    "url": "https://zeltser.com",
+    "image": "http://storage.googleapis.com/site-assets/BW8RXCnjWHUzsdpJoZnWheBnYqkIf9IHLtngvcgABH0_icon-15414cba097"
+  },
+  {
+    "title": "E Hacking News - Latest Hacker News and IT Security News",
+    "url": "http://www.ehackingnews.com/",
+    "image": "https://storage.googleapis.com/site-assets/VrjJgZ_bS_0StoJsnQWfswVQjpnSSivLgCTK274-YgY_icon-162853f283e"
+  },
+  {
+    "title": "CERT Recently Published Vulnerability Notes",
+    "url": "https://kb.cert.org/vuls/"
+  },
+  {
+    "title": "Securosis Blog",
+    "url": "http://securosis.com/blog"
+  },
+  {
+    "title": "HackRead",
+    "url": "https://www.hackread.com",
+    "image": "https://storage.googleapis.com/site-assets/xQZPAV33OnNhnNpMDFVtSTYcVk-mgwrL3Rr1xYiaEh0_icon-167dfed1e6f"
+  },
+  {
+    "title": "Blog",
+    "url": "https://www.imperva.com/blog",
+    "image": "https://storage.googleapis.com/site-assets/RkVivkifQfl0xCSTwbR0SB735I_3_h-lMS_bkq43nHw_icon-1689f3d8552"
+  },
+  {
+    "title": "Palo Alto Networks Blog",
+    "url": "https://researchcenter.paloaltonetworks.com",
+    "image": "https://storage.googleapis.com/site-assets/sWr9vhn9_n8Q07jzt9h7A1GJb9dBKQvbdA6RXHaRdiA_sicon-1692a1eccb8"
+  },
+  {
+    "title": "CyberCrime & Doing Time",
+    "url": "http://garwarner.blogspot.com/",
+    "image": "https://storage.googleapis.com/site-assets/ztgxdbTqV1Cj8xhAwxKocNeeby2BNEPE0e5_9wP9A6E_sicon-16172820cca"
+  },
+  {
+    "title": "Kaspersky Lab official blog",
+    "url": "https://www.kaspersky.com/blog",
+    "image": "https://storage.googleapis.com/site-assets/8UKIy7_uROfjSaQrGHS8C9Z-OCnjj6tKYrkb4TOGGIw_icon-15d5c4f4b10"
+  },
+  {
+    "title": "JPCERT/CC RSS Feed",
+    "url": "https://www.jpcert.or.jp/"
+  },
+  {
+    "title": "Security Intelligence",
+    "url": "https://securityintelligence.com"
+  },
+  {
+    "title": "The World of IT & Cyber Security: ehacking.net",
+    "url": "http://www.ehacking.net/",
+    "image": "https://storage.googleapis.com/site-assets/9f_y3r9IcInPPc2sLyg8goxp3evmlzJ1bpeoqlE-FdE_icon-15f34d65464"
+  },
+  {
+    "title": "RSS | Veracode Blog",
+    "url": "https://www.veracode.com/blog-bkup-not-in-use",
+    "image": "https://storage.googleapis.com/site-assets/WsPSffuTfunVZjpJn94WmmIHeAs2YHh-9zTLzRsnzeg_icon-16993c25c53"
+  },
+  {
+    "title": "HACKMAGEDDON",
+    "url": "https://www.hackmageddon.com"
+  },
+  {
+    "title": "Light Blue Touchpaper",
+    "url": "https://www.lightbluetouchpaper.org"
+  },
+  {
+    "title": "Security Latest",
+    "url": "https://www.wired.com/category/security/latest",
+    "image": "https://storage.googleapis.com/site-assets/YC-0U4pygfOfPIcezAOCaLKp6q_A9rFQmxEg0p43w7E_icon-15ceda6d8e3"
+  },
+  {
+    "title": "CSO Online",
+    "url": "https://www.csoonline.com",
+    "image": "https://storage.googleapis.com/site-assets/tN21Tlp0X5CIgS__0hUwhKUwVcpnj7ZlQEsm8wHTQPU_icon-162b76a8e05"
+  },
+  {
+    "title": "SANS ISC InfoSec News Feed",
+    "url": "http://isc.sans.edu",
+    "image": "http://storage.googleapis.com/site-assets/h1q6LLb5EFpLZlUEuHpTMQutmyu8TyO5vkZAFjZwbsk_icon-1541430282c"
+  },
+  {
+    "title": "HITBSecNews - Keeping Knowledge Free for Over a Decade",
+    "url": "https://news.hitb.org/rss.xml",
+    "image": "https://storage.googleapis.com/site-assets/mRiHV2yxlPQlJhu5-Lx1rqKKsy0CHpiqKf-utqZgzcw_sicon-15f85dd0cf8"
+  },
+  {
+    "title": "McAfee Blogs",
+    "url": "https://securingtomorrow.mcafee.com",
+    "image": "https://storage.googleapis.com/site-assets/TLxIbh3ayI2xM8dIkWZqEs1L3trUAzFzd3hcYjOqibE_sicon-1670988c2e9"
+  },
+  {
+    "title": "SpiderLabs Blog from Trustwave",
+    "url": "https://www.trustwave.com/rss.aspx?type=slblog",
+    "image": "https://storage.googleapis.com/site-assets/1G1XwxTtY2_1cjqrG4quAPiT3OS7hMCzzumOnbMenII_icon-1677e1480e0"
+  },
+  {
+    "title": "Have I Been Pwned latest breaches",
+    "url": "https://haveibeenpwned.com/",
+    "image": "http://storage.googleapis.com/site-assets/pDYhZT2lYoXYXtIcw8QRZ9J5JR8PEwtX4AdZHIkmxxI_icon-154165e286c"
+  },
+  {
+    "title": "Trend Micro Simply Security",
+    "url": "https://blog.trendmicro.com",
+    "image": "https://storage.googleapis.com/site-assets/Mp543ASH8kxF80oV3Ah3DwP9_9T2QqodUlwwjSSkemY_icon-166a77f527a"
+  },
+  {
+    "title": "Daniel Miessler",
+    "url": "https://danielmiessler.com",
+    "image": "https://storage.googleapis.com/site-assets/5iPuuzAnijRTui114jmdDJvQ8NUNFzlKaF8-Fx0H_yU_icon-169e7fcc5cb"
+  },
+  {
+    "title": "Tenable Blog",
+    "url": "https://www.tenable.com/blog-2016",
+    "image": "https://storage.googleapis.com/site-assets/3QboqWEiuGJeyplRNBitnB3mkxN5e1QRosY9UBANEGg_icon-1695c6fcd28"
+  },
+  {
+    "title": "McAfee Labs – McAfee Blogs",
+    "url": "https://securingtomorrow.mcafee.com",
+    "image": "https://storage.googleapis.com/site-assets/IOX3_RLifEMT_4-KQVyxbjrrBIpYNkFXetw31ZazbfY_sicon-1670a345c9c"
+  },
+  {
+    "title": "SearchSecurity",
+    "url": "https://searchsecurity.techtarget.com",
+    "image": "https://storage.googleapis.com/site-assets/RJHqiSjRyRuIfFogWklYUWqvZaSDgedSX6-Vk3WZOzs_icon-1628a6f2b5c"
+  },
+  {
+    "title": "KitPloit - PenTest Tools!",
+    "url": "http://www.kitploit.com/",
+    "image": "http://storage.googleapis.com/site-assets/yKSlY1WuHJswX1leRqqm0M1wOQ2JPg-K035j_YHvr5I_icon-15414cc0739"
+  },
+  {
+    "title": "BankInfoSecurity.com  RSS Syndication",
+    "url": "https://www.bankinfosecurity.com/rssFeeds.php?type=main",
+    "image": "https://storage.googleapis.com/site-assets/e5Kt7u0zvZR86jt2j2KKo4Dfb0aIIsFxu4ogDb-8AH8_sicon-15fe88f6515"
+  },
+  {
+    "title": "/dev/random",
+    "url": "https://blog.rootshell.be",
+    "image": "http://storage.googleapis.com/site-assets/ewNMyZGxptcE4UHyA9Gi-YhjSgQEefA8MJ0mfNbGKes_icon-1541525651b"
+  },
+  {
+    "title": "HOTforSecurity",
+    "url": "https://hotforsecurity.bitdefender.com",
+    "image": "https://storage.googleapis.com/site-assets/jplw4otUSdV0z3EZZitIr6aOR19ehX4RAvGrUN-Z65I_icon-15b9284aca9"
+  },
+  {
+    "title": "PortSwigger Web Security Blog",
+    "url": "https://portswigger.net/blog",
+    "image": "https://storage.googleapis.com/site-assets/2EwBWnOh_Qygg6WbY0A0SmD1n4rn3SrQ4TA3jgb2Owk_icon-163b5636976"
+  },
+  {
+    "title": "DataBreaches.net",
+    "url": "https://www.databreaches.net",
+    "image": "https://storage.googleapis.com/site-assets/FvmVFRAeExfJkwy79lM9lfr6ACFZaPF993Jy1vOmW2U_sicon-1697b05ad81"
+  },
+  {
+    "title": "AlienVault Blogs",
+    "url": "https://www.alienvault.com/blogs",
+    "image": "https://storage.googleapis.com/site-assets/cYVqRh3RTM2gXduVbmCI10XNYmcwNkGu8OqO2agb8n4_icon-1692d67b61a"
+  },
+  {
+    "title": "Recorded Future",
+    "url": "https://www.recordedfuture.com",
+    "image": "https://storage.googleapis.com/site-assets/ZakH62KtX0DjhWuNigI46ftNvrutLD4WGDDRlv7tsHM_icon-15ee9895f67"
+  },
+  {
+    "title": "Dark Reading: Attacks/Breaches",
+    "url": "https://www.darkreading.com",
+    "image": "https://storage.googleapis.com/site-assets/qHRLqFX85Of4ODmE3eViDU5z_p3rXsLQl5WkDkuXXL0_icon-15dc87853d8"
+  },
+  {
+    "title": "CSO Online News",
+    "url": "https://www.csoonline.com",
+    "image": "https://storage.googleapis.com/site-assets/AqLdWdUIC92Zn6TtI6GpGS30Q7QQh1D2kdBZ5nPpHHY_icon-162b76a91dc"
+  },
+  {
+    "title": "CyberPunk",
+    "url": "https://n0where.net",
+    "image": "https://storage.googleapis.com/site-assets/iMVdXkzFQdod9PVlYWlWZShTW3UpqH_hsTHYP8XIEo8_icon-15b8b6528b7"
+  },
+  {
+    "title": "(ISC)² Blog",
+    "url": "https://blog.isc2.org/isc2_blog/",
+    "image": "https://storage.googleapis.com/site-assets/N8s2v46ZhTh4u8OectptCtqbFvo4yjQt5Wa5uXrUuFo_icon-1669580138f"
+  },
+  {
+    "title": "Latest topics for ZDNet in Security",
+    "url": "https://www.zdnet.com/",
+    "image": "https://storage.googleapis.com/site-assets/NZJmUCOAzm5UiqflR7xRmMoejrBOqs4itLn9UaYWFBE_icon-163cecf10a6"
+  },
+  {
+    "title": "IT Security Guru",
+    "url": "https://www.itsecurityguru.org",
+    "image": "https://storage.googleapis.com/site-assets/FcNSX6Pqp7O_zIhun-BFmYYqJfkbaunzdZ90OuCufsE_icon-16744d1ce2e"
+  },
+  {
+    "title": "DataBreachToday.com  RSS Syndication",
+    "url": "https://www.databreachtoday.com/rssFeeds.php?type=main",
+    "image": "https://storage.googleapis.com/site-assets/AIsNWnIvPlaxg8qNf-mj4J_yueKW7eq2B4T1_qpdxBU_sicon-15fe88f6586"
+  },
+  {
+    "title": "Securelist",
+    "url": "https://securelist.com",
+    "image": "https://storage.googleapis.com/site-assets/2y6ga1VWw06Gn2QdZXADLg_WsAbbOs23bsemmse3wmY_icon-164415afe42"
+  },
+  {
+    "title": "CyberScoop",
+    "url": "https://www.cyberscoop.com",
+    "image": "https://storage.googleapis.com/site-assets/6K5hBe0JKFUkb_KT6Bc-OHIaoJcn9Ue-Vu-C24xpKIM_icon-15b934273c3"
+  },
+  {
+    "title": "Adversary Manifesto",
+    "url": "https://www.crowdstrike.com/blog",
+    "image": "https://storage.googleapis.com/site-assets/HVOx6BxM9jqJGVT4OPs7kKRvdUapOzzJ2_HHp2riHx4_icon-15cfe55b4c0"
+  },
+  {
+    "title": "\"cybersecurity\" - Google News",
+    "url": "https://news.google.com/search?q=cybersecurity&hl=en-US&gl=US&ceid=US:en",
+    "image": "https://storage.googleapis.com/site-assets/TcFLfMl1Sgjv9PMxpq0tJHQSDPsM7EBOXv1cJuPr4-4_sicon-16763a61ebf"
+  }
+]

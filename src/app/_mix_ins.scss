@@ -1,0 +1,27 @@
+@mixin tag-fill {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+}
+
+@mixin depressed-shadow($size, $color) {
+    &:before, &:after {
+        position: absolute;
+        box-shadow: inset 0 0 0 0 transparent;
+        content: " ";
+        transition: box-shadow $ani-speed $ani-func;
+        pointer-events: none;
+        height: $size;
+        width: 100%;
+    }
+    &:before {
+        top: 0;
+        box-shadow: inset 0 $size $size (-$size) $color;
+    }
+    &:after {
+        bottom: 0;
+        box-shadow: inset 0 (-$size) $size (-$size) $color;
+    }
+}

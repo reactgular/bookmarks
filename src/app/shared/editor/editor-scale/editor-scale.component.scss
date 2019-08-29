@@ -1,0 +1,18 @@
+@import "../config";
+
+:host {
+    .outer-frame.animating {
+        overflow: hidden;
+        transform-origin: left top;
+        transform: rotateZ(0);
+
+        .scalable {
+            transform-origin: left top;
+            transform: rotateZ(0);
+        }
+    }
+
+    .outer-frame.is-open {
+        @include mat-elevation(6);
+    }
+}

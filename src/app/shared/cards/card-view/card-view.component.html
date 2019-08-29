@@ -1,0 +1,30 @@
+<div class="tag-card-view-content"
+     *ngIf="card$ | async as card"
+     [tagCardColor]="card.color"
+     (mouseover)="mouseHover = true"
+     (mouseleave)="mouseHover = false">
+    <div *ngIf="card.title"
+         class="tag-card-title text-truncate mr-3 mt-2 ml-3"
+         [class.tag-card-title-ctrl]="keyboard.ctrl$ | async">
+        {{card.title}}
+    </div>
+    <div class="tag-card-items"
+         [class.mt-2]="!card.title">
+        <ng-container *ngFor="let itemId of card._item_ids; trackBy: entityTrackBy; let indx = index; let last = last">
+            <tag-item-view *ngIf="(isCardEdit$ | async) ? !last : true"
+                           [attr.tabindex]="indx"
+                           [itemId]="itemId"></tag-item-view>
+        </ng-container>
+    </div>
+    <div class="d-flex m-2 flex-grow-1">
+        <tag-reactive-ribbon class="flex-grow-1"
+                             [class.selected-toolbar]="someSelected$ | async"
+                             [class.show-toolbar]="cardId === (editorStateCardId$ | async)"
+                             (menuOpened)="menuOpened()"
+                             (menuClosed)="menuClosed()"
+                             [tools]="cardTools"
+                             [limit]="5"></tag-reactive-ribbon>
+    </div>
+    <tag-card-select [cardId]="card.id"
+                     [show]="mouseHover"></tag-card-select>
+</div>

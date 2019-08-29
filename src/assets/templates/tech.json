@@ -1,0 +1,495 @@
+[
+  {
+    "title": "Engadget",
+    "url": "http://www.engadget.com",
+    "image": "http://storage.googleapis.com/site-assets/4i-1vhCwmRRLfmB7ypTnMh-ZKSvsz6Rgf0lfR0WWb0w_icon-1541543fe44"
+  },
+  {
+    "title": "The Verge",
+    "url": "https://www.theverge.com/",
+    "image": "https://storage.googleapis.com/site-assets/PSNTZO8gXFUe-cpCZyApw0vEKWPT4b14D6teBEocIAE_icon-15cd6b8692d"
+  },
+  {
+    "title": "TechCrunch",
+    "url": "https://techcrunch.com",
+    "image": "https://storage.googleapis.com/site-assets/Xne8uW_IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ-Yk0rJ8_sicon-166f2fd0557"
+  },
+  {
+    "title": "Lifehacker",
+    "url": "https://lifehacker.com",
+    "image": "http://storage.googleapis.com/site-assets/6ytp7dDQylcqn9Rm8dj3stV2YoJ6Fxwe2AzgxzVkXlc_icon-154124efe17"
+  },
+  {
+    "title": "Mashable",
+    "url": "https://mashable.com/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&utm_cid=Mash-Prod-RSS-Feedburner-All-Partial"
+  },
+  {
+    "title": "Wired",
+    "url": "https://www.wired.com/latest",
+    "image": "https://storage.googleapis.com/site-assets/tLs-1vBwN-VbKdXz72E49J0xQKpgQOM84Ue-E_GZh84_icon-16324db50f2"
+  },
+  {
+    "title": "Gizmodo",
+    "url": "https://gizmodo.com",
+    "image": "https://storage.googleapis.com/site-assets/YgTD2rF1XSAfR77lKtxrTwuR-azzbzQhUxfiRyg1u0w_icon-164884a631e"
+  },
+  {
+    "title": "Fast Company",
+    "url": "https://www.fastcompany.com",
+    "image": "https://storage.googleapis.com/site-assets/FXo4hbYMcVMG4DMa6lzD_36M21OEGgDUjmAuOzeuMs0_icon-16677f47e4e"
+  },
+  {
+    "title": "Ars Technica",
+    "url": "https://arstechnica.com",
+    "image": "https://storage.googleapis.com/site-assets/oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU-gxmUAZuo_icon-15b926af3a4"
+  },
+  {
+    "title": "Business Insider",
+    "url": "https://www.businessinsider.com",
+    "image": "https://storage.googleapis.com/site-assets/UGoT913Pj2iVsp570XrRhskqe5_o7yyV3N_NTloByRs_icon-164d075260d"
+  },
+  {
+    "title": "Android Central - Android Forums, News, Reviews, Help and Android Wallpapers",
+    "url": "https://www.androidcentral.com/",
+    "image": "https://storage.googleapis.com/site-assets/xTqwHYk7BMdsUeAdykR6jXFYqFXRoEWRd6QBCWqc3AE_icon-15dd6811bf9"
+  },
+  {
+    "title": "TED Talks Daily (SD video)",
+    "url": "https://www.ted.com/talks",
+    "image": "https://storage.googleapis.com/site-assets/aANiHgsmGDykAZE5mDpF1X6vSBbJgJaU6lIEEstKh6w_icon-15ccd799771"
+  },
+  {
+    "title": "The Official Google Blog",
+    "url": "https://www.blog.google/",
+    "image": "https://storage.googleapis.com/test-site-assets/SzCknK5yCfKi0NrRCLzY3clkPWypMPSgdsVAzzPiIEk_oicon-1658bb7a3ae"
+  },
+  {
+    "title": "MacRumors",
+    "url": "https://www.macrumors.com",
+    "image": "https://storage.googleapis.com/site-assets/SusR11hdg5ydv7o-xGl-0XlI0AhBL77Oxid8QOO3j5k_icon-166c9073bc0"
+  },
+  {
+    "title": "Slashdot",
+    "url": "https://slashdot.org/",
+    "image": "https://storage.googleapis.com/site-assets/7kZ9jBYy0jNWfThTWbMvXoOEh6EzrtgZCDjMlaPKIXQ_icon-15b910f7f82"
+  },
+  {
+    "title": "ReadWrite",
+    "url": "https://readwrite.com",
+    "image": "https://storage.googleapis.com/site-assets/YwTjCnEeIqxj44sdnT7JFQW42L9DNW4VSirj5QJk0qw_icon-15c48d65ffb"
+  },
+  {
+    "title": "VentureBeat",
+    "url": "https://venturebeat.com",
+    "image": "http://storage.googleapis.com/site-assets/6YCRt11ERFyhDgXE747vRsWbQYVW1DvYhSLVdQmenKU_icon-154124f1e6f"
+  },
+  {
+    "title": "Hackaday",
+    "url": "https://hackaday.com",
+    "image": "https://storage.googleapis.com/site-assets/6v3bsRSs_0QViBXqoAJH7nV9d_YspxCmEG-0c0JTti4_icon-164a7359462"
+  },
+  {
+    "title": "The Next Web",
+    "url": "https://thenextweb.com",
+    "image": "https://storage.googleapis.com/site-assets/0VTnUfX894TcY5TA_oMFDbEY1bDrlajzsn67Jr80r8M_icon-1645d1d60af"
+  },
+  {
+    "title": "Make: DIY Projects and Ideas for Makers",
+    "url": "https://makezine.com",
+    "image": "https://storage.googleapis.com/site-assets/bYRNl5g8FhitCOyrhKur7MQorxukFJJEqViMIPV2OAk_icon-15e62c244f0"
+  },
+  {
+    "title": "Digital Trends",
+    "url": "https://www.digitaltrends.com",
+    "image": "https://www.digitaltrends.com/wp-content/plugins/dt-feeds/assets/webfeeds/cover-logo.png"
+  },
+  {
+    "title": "Boing Boing",
+    "url": "https://boingboing.net",
+    "image": "http://storage.googleapis.com/site-assets/JbUUmyM9YFYPR8dGzgMM-JhkUnRrsgfeJD5BrLs6POs_icon-154124f4a90"
+  },
+  {
+    "title": "ThinkGeek - What's New",
+    "url": "https://www.thinkgeek.com/",
+    "image": "https://storage.googleapis.com/site-assets/cVThBrSwSnznyo-hatWE9aKvsYTZVHYqhiJimwwPeUw_icon-1640292c74d"
+  },
+  {
+    "title": "Daring Fireball",
+    "url": "https://daringfireball.net/",
+    "image": "https://storage.googleapis.com/site-assets/ZTHt7g74IlVC5A2IgEvcn_aop5teo99gzFaGU2TCGxs_icon-1676ad4bf41"
+  },
+  {
+    "title": "io9",
+    "url": "https://io9.gizmodo.com",
+    "image": "https://storage.googleapis.com/site-assets/34uZQ3l3EMlh1188WT1P6ZTSyTMdCFLd-8NwYFrkblI_sicon-168c32b171f"
+  },
+  {
+    "title": "Coding Horror",
+    "url": "https://blog.codinghorror.com/"
+  },
+  {
+    "title": "Hacker News",
+    "url": "https://news.ycombinator.com/",
+    "image": "http://storage.googleapis.com/site-assets/boy6SFLkVrCyAh1eWapnAnWnZYkgaqPKxviKcFW5h20_sicon-1541393bb8e"
+  },
+  {
+    "title": "9to5Mac",
+    "url": "https://9to5mac.com",
+    "image": "https://storage.googleapis.com/site-assets/BmoAzSEWHFzR01wyxBZAhNEo11Vy8oDR1qKDe-tKVEQ_icon-164ac69929b"
+  },
+  {
+    "title": "Android Police – Android news, reviews, apps, games, phones, tablets",
+    "url": "https://www.androidpolice.com",
+    "image": "https://storage.googleapis.com/site-assets/B8ZyJsCwEXc2FjDGP2bj_7QnVbrA4LzAsuJ1bODnR6o_icon-16189172a1e"
+  },
+  {
+    "title": "CNET News",
+    "url": "https://www.cnet.com/#ftag=CAD590a51e",
+    "image": "https://storage.googleapis.com/site-assets/BPDxg-QeeesMcMy9ViMsAlh8TojpI5RvaH37C7V0UDE_sicon-164e959beb2"
+  },
+  {
+    "title": "How-To Geek",
+    "url": "https://www.howtogeek.com",
+    "image": "http://storage.googleapis.com/test-site-assets/3Jm8rFGismaJIhg4wNMVCQYUHJJn655PIE-V4n8axQs_oicon-14f43e61db1"
+  },
+  {
+    "title": "Cool Tools",
+    "url": "https://kk.org/cooltools",
+    "image": "https://storage.googleapis.com/site-assets/pvo33JCBHKOqum-M6woHp5qHBRanf_APxyb1fpNaUhQ_sicon-169e495dce1"
+  },
+  {
+    "title": "Macworld",
+    "url": "https://www.macworld.com",
+    "image": "https://storage.googleapis.com/site-assets/6oN5QeCdMSEHIE2_9liIvUoIVJyRnKIxzHFa1qTiqkc_icon-15e2cd78593"
+  },
+  {
+    "title": "Windows Central - News, Forums, Reviews, Help for Windows 10 and all things Microsoft.",
+    "url": "https://www.windowscentral.com/",
+    "image": "https://storage.googleapis.com/site-assets/wKPi3VrPefHsb7ZtEPJNLaxRAYigOELrYPkJr0PXGb4_icon-16880e7dd64"
+  },
+  {
+    "title": "MakeUseOf",
+    "url": "https://www.makeuseof.com",
+    "image": "https://storage.googleapis.com/site-assets/jMekjip3Ghllh8F4KHnMLhQXZxuefoU5q97qggITdgs_icon-168e3c1ccf2"
+  },
+  {
+    "title": "AnandTech",
+    "url": "http://www.anandtech.com",
+    "image": "http://storage.googleapis.com/site-assets/QJg8HoKsrQYvFIv_kvYSG5Mls-byIrBEPcmwY5wzNdQ_icon-154124e8b9a"
+  },
+  {
+    "title": "Gmail Blog",
+    "url": "https://www.blog.google/products/gmail/"
+  },
+  {
+    "title": "The Register",
+    "url": "http://www.theregister.co.uk/",
+    "image": "http://storage.googleapis.com/site-assets/biKmn71BHCkJFvJMe2xTxdpa2y5sy1UnTyjFY2er0NQ_icon-154124dcfae"
+  },
+  {
+    "title": "New on MIT Technology Review",
+    "url": "https://www.technologyreview.com/",
+    "image": "https://storage.googleapis.com/site-assets/Uj-CdaagUWK3MlmzxLAxgNcqNGJXiYXjmrsBNefGR2c_icon-167a4c97d71"
+  },
+  {
+    "title": "AppleInsider - Frontpage News",
+    "url": "https://appleinsider.com",
+    "image": "http://storage.googleapis.com/site-assets/bDiWs53MvAm4H8GXvVrmHCgOvUMKBI3r8U6GmtZeWes_icon-154124eef15"
+  },
+  {
+    "title": "Android Authority",
+    "url": "https://www.androidauthority.com",
+    "image": "https://www.androidauthority.com/wp-content/uploads/feed/aa-mascot-192x192.png?v=1.0.2"
+  },
+  {
+    "title": "xda-developers",
+    "url": "https://www.xda-developers.com",
+    "image": "https://storage.googleapis.com/site-assets/A_5HAooZiM5UTccpJ8AxA5D1we4xhNXsZy3FwbQRT1g_icon-15b926ef8b8"
+  },
+  {
+    "title": "BGR",
+    "url": "https://bgr.com",
+    "image": "https://storage.googleapis.com/site-assets/CxTT9-KR4baoks-gY43OkxV44i8wVXgYVrQnqGpHhYA_icon-1642b826644"
+  },
+  {
+    "title": "Recode -  All",
+    "url": "https://www.recode.net/",
+    "image": "https://storage.googleapis.com/site-assets/_RRVGN5dMufT3uYpOPoZrVtAdiFk5UTp3-LkaGb08V0_icon-15b926e9ae1"
+  },
+  {
+    "title": "Gigaom",
+    "url": "http://gigaom.com",
+    "image": "http://storage.googleapis.com/site-assets/g78Ho6HMbuVMw_FFLurbIPomPzNl-ZR7GP4tgCLOwMc_icon-154124fe8a2"
+  },
+  {
+    "title": "TorrentFreak",
+    "url": "https://torrentfreak.com",
+    "image": "http://storage.googleapis.com/site-assets/EZXJpQIki4w-I1Se9c1fhZBH9nDCwb-p40wQMbJRYCQ_icon-154150f8d81"
+  },
+  {
+    "title": "PCWorld",
+    "url": "https://www.pcworld.com",
+    "image": "https://storage.googleapis.com/site-assets/_plEG4QUkkzjyjSgkA4P2y7Du5BbciY7B64xJV_znNU_icon-15e62935db2"
+  },
+  {
+    "title": "NYT > Technology",
+    "url": "https://www.nytimes.com/section/technology?partner=rss&emc=rss",
+    "image": "https://storage.googleapis.com/site-assets/3wA6rcnoxqCLEas6dlQji0lf4BMSCZElo5-isELU97Q_icon-1690c015164"
+  },
+  {
+    "title": "Techmeme",
+    "url": "http://www.techmeme.com/",
+    "image": "https://storage.googleapis.com/site-assets/2M28YlE6ga87nQ_iGGPV4RS8_EMotvkbp32D5U3OGIw_icon-15b63909a8c"
+  },
+  {
+    "title": "iMore - The #1 iPhone, iPad, and iPod touch blog",
+    "url": "https://www.imore.com/",
+    "image": "https://storage.googleapis.com/site-assets/Xvl65hBVszGsovfsZyXby90ZOkHokcVtNCiWJf1w2Ms_icon-15d313606a7"
+  },
+  {
+    "title": "High Scalability",
+    "url": "http://highscalability.com/blog/",
+    "image": "http://storage.googleapis.com/site-assets/CBDR_ttTm2tfuOn_XgVgFBLddO7K0B3dvTzoY7VgscU_icon-1541250c7d6"
+  },
+  {
+    "title": "MacRumors: Mac News and Rumors - All Stories",
+    "url": "https://www.macrumors.com",
+    "image": "https://storage.googleapis.com/site-assets/i5dK0N4LYkCdW27N2hxMjfOjdU7G-cHFwqWTCuim9HU_icon-166c9073ee3"
+  },
+  {
+    "title": "Techdirt.",
+    "url": "https://www.techdirt.com/",
+    "image": "https://storage.googleapis.com/site-assets/DLYquBgY9Y3RjX_heFsQMcLPsSTMrpNpANvB6bO49xk_icon-167c2ed241e"
+  },
+  {
+    "title": "Digital Inspiration Technology Blog",
+    "url": "https://www.labnol.org",
+    "image": "https://storage.googleapis.com/site-assets/dnEMVkyWJEVxObDZq66I3JEvc97WQcoD4AQHybdLrr4_icon-15bd2ce5fdc"
+  },
+  {
+    "title": "Stratechery by Ben Thompson",
+    "url": "https://stratechery.com",
+    "image": "https://storage.googleapis.com/site-assets/IO2zuaapKQips7nY9h1s4RGyk4HVVT953cfQ3dx7bH0_icon-1626a32670b"
+  },
+  {
+    "title": "Digg Top Stories",
+    "url": "http://digg.com/",
+    "image": "https://storage.googleapis.com/site-assets/i5ipabn92vsVEGSoxPiC9D0Z5zgE8aSLWyRrdCHvo9E_icon-15b638f0b8a"
+  },
+  {
+    "title": "GSMArena.com - Latest articles",
+    "url": "https://www.gsmarena.com/",
+    "image": "https://storage.googleapis.com/site-assets/asOKdzZJH-jkGINSNHqfOeRaTCfTvp-wTBorACVbFFg_icon-1620fce3a78"
+  },
+  {
+    "title": "Netflix TechBlog - Medium",
+    "url": "https://medium.com/netflix-techblog?source=rss----2615bd06b42e---4",
+    "image": "https://storage.googleapis.com/site-assets/tIS4bIH0pLsrRvUnYVUgidjG6d8AUMGJ9KQl5OtMdqU_icon-15e0e003f97"
+  },
+  {
+    "title": "Wirecutter: Reviews for the Real World",
+    "url": "https://thewirecutter.com",
+    "image": "https://storage.googleapis.com/site-assets/waOTuOY_-fCfsODB3q-KM5mBtgf3dbssDAF7wTBYSgY_icon-15eeb5d69e7"
+  },
+  {
+    "title": "BBC News - Technology",
+    "url": "https://www.bbc.co.uk/news/",
+    "image": "https://storage.googleapis.com/site-assets/uUNuTMRa_Z_aiCEAhV1mUFgRO07RXvZu8wPqgPpkAew_icon-163b563d8e2"
+  },
+  {
+    "title": "TechRadar - All the latest technology news",
+    "url": "http://www.techradar.com/rss/",
+    "image": "https://storage.googleapis.com/site-assets/Xgynxb5h2BWECKwDW9xGaMsn2DPpfhgbmZA0dnA4wgw_icon-15caf9089c3"
+  },
+  {
+    "title": "Tech Insider",
+    "url": "https://www.businessinsider.com/sai",
+    "image": "https://storage.googleapis.com/site-assets/_F2-f_TPard4dsL9zBEZdR1ZN3csG7UoGoylVDck-kQ_icon-165add4afca"
+  },
+  {
+    "title": "Yahoo Tech",
+    "url": "https://finance.yahoo.com/tech"
+  },
+  {
+    "title": "Gadgets – TechCrunch",
+    "url": "https://techcrunch.com",
+    "image": "https://storage.googleapis.com/site-assets/9NnmlJjHFKSuXEv7T6Zr3PtaT_CbbjXDPDeUuIXhbYg_sicon-169e3f0de6d"
+  },
+  {
+    "title": "Forbes - Tech",
+    "url": "http://www.forbes.com/technology/",
+    "image": "https://storage.googleapis.com/site-assets/m7KPgnnDBfuDIN_KI_lljXTSj0dxUN8yp0JFgaAHwiw_icon-169855b9939"
+  },
+  {
+    "title": "Motherboard",
+    "url": "https://motherboard.vice.com/en_us",
+    "image": "https://storage.googleapis.com/site-assets/_ToScf5Dw9FsFWvzmidln2tiZJ4C2OpD8hCgWCLlmMk_icon-15b926fe9e6"
+  },
+  {
+    "title": "Raspberry Pi",
+    "url": "https://www.raspberrypi.org",
+    "image": "https://storage.googleapis.com/site-assets/T9hmeuKYnjwPSNv2tr76qcqwJeF2grg8RhmI0qOrzhg_icon-1695d15b54d"
+  },
+  {
+    "title": "Geekologie - Gadgets, Gizmos, and Awesome",
+    "url": "https://geekologie.com/",
+    "image": "https://storage.googleapis.com/site-assets/gglY_mQP1ljE9kV7BIMxB_pIm4IedAzbGcJaAkOGETE_icon-165375c994e"
+  },
+  {
+    "title": "Pocketnow",
+    "url": "https://pocketnow.com",
+    "image": "https://storage.googleapis.com/site-assets/-ZulpsecnmRR5MZJLGZcXEACC1a1tyM2qVuZ_d1ugLg_icon-164fe646987"
+  },
+  {
+    "title": "9to5Google",
+    "url": "https://9to5google.com",
+    "image": "https://storage.googleapis.com/site-assets/xdIUrEbP12sOnXRcQduBabXEDP4CMQoUSpEAdLo7P-w_icon-160bb226e5f"
+  },
+  {
+    "title": "Geek.com",
+    "url": "https://www.geek.com",
+    "image": "https://storage.googleapis.com/site-assets/BD7OS1EMrOizZWdTf1LXnm8_0nwkAts0KTC5Hxf5YSE_icon-15c00bfaa09"
+  },
+  {
+    "title": "News Tom's Hardware",
+    "url": "https://www.tomshardware.com",
+    "image": "https://storage.googleapis.com/site-assets/ARKmp7ZPZWP0tdrIybEEQZ6Ek5N40Sl-EckoWcv0CY0_icon-1630b2ddf69"
+  },
+  {
+    "title": "Technology | The Guardian",
+    "url": "https://www.theguardian.com/us/technology",
+    "image": "https://storage.googleapis.com/site-assets/8ZsDXpv5oEv34qyzbKm_KVHeTm3xCkUMYpmw8bOoe70_icon-167084b6821"
+  },
+  {
+    "title": "ExtremeTechExtremeTech",
+    "url": "https://www.extremetech.com",
+    "image": "https://storage.googleapis.com/site-assets/oTmaFt9_jTw32T2Ie8lNApLb_o59BrmHJTbkR7QSw9c_icon-15b92703f80"
+  },
+  {
+    "title": "Top News - MIT Technology Review",
+    "url": "https://www.technologyreview.com/",
+    "image": "https://storage.googleapis.com/site-assets/NdNR7873uv4LAt1l5mOO-9-0rBeCrZHrB2N1Ls11tX4_icon-167a4c9bf52"
+  },
+  {
+    "title": "New Atlas",
+    "url": "https://newatlas.com/",
+    "image": "https://storage.googleapis.com/site-assets/MSQGvvSfOvldG_adPwKiC-iLloR66PzSvrd4DtKZTjE_icon-15f14963a4c"
+  },
+  {
+    "title": "gHacks Technology News",
+    "url": "https://www.ghacks.net",
+    "image": "https://storage.googleapis.com/site-assets/i17O6PBS_HvYegmZPDOCoI_9XNh4L6qQwwrsfyGXq8Y_icon-15b9d3d6a7f"
+  },
+  {
+    "title": "Coolest Gadgets",
+    "url": "https://www.coolest-gadgets.com",
+    "image": "https://storage.googleapis.com/site-assets/24XpYlvyknNlL3mQDh-2UGMP4qhEOwo5MHu5XKFUjMQ_icon-169baf985c1"
+  },
+  {
+    "title": "SlashGear",
+    "url": "https://www.slashgear.com",
+    "image": "https://storage.googleapis.com/site-assets/G4q_UPXlATt0WwtUK1bWM01CcR6JBV0NZcGZZKCDcxA_icon-15b926ffaaa"
+  },
+  {
+    "title": "Computerworld",
+    "url": "https://www.computerworld.com",
+    "image": "https://storage.googleapis.com/site-assets/cKnwPooB60GNcX4VnvyY3dckx3a0_8vEH2SFHJmFQ7g_icon-162b76e4c28"
+  },
+  {
+    "title": "Geeks are Sexy Technology News",
+    "url": "https://www.geeksaresexy.net",
+    "image": "https://storage.googleapis.com/site-assets/8IxEn2uDqpvJlHHUarCK65H0m2Rs1ponKhx21xGiS2g_icon-15c102ddb51"
+  },
+  {
+    "title": "Articles Tom's Hardware",
+    "url": "https://www.tomshardware.com",
+    "image": "https://storage.googleapis.com/site-assets/jkt60vQHG5YG1W1nFurHMzfYbNXRj5IfmTkTKj0nlak_icon-1630b2dea76"
+  },
+  {
+    "title": "PhoneArena - News",
+    "url": "https://www.phonearena.com/",
+    "image": "https://storage.googleapis.com/site-assets/vKBzujqhchLchjEIYDElCcY_Pqx9x8vS-DTy7DBHwVE_icon-16942a5616a"
+  },
+  {
+    "title": "AddictiveTips",
+    "url": "https://www.addictivetips.com",
+    "image": "https://storage.googleapis.com/site-assets/SJ_op6bNC4xH5vE0QaiuPRhgyxTKdu9oQC-96cCB1go_icon-15df9c379bf"
+  },
+  {
+    "title": "The Gadgeteer",
+    "url": "https://the-gadgeteer.com",
+    "image": "https://storage.googleapis.com/site-assets/zsYFsTQ7du-Ajp3D2F2GY4MbWSDVP2j96P5eAnpAGEQ_icon-160cac9ad4a"
+  },
+  {
+    "title": "OSnews",
+    "url": "https://www.osnews.com",
+    "image": "https://storage.googleapis.com/site-assets/yJuCsheUl0K0RpfRLIcHVZhV_5zh5M-hTuTVbttNEG4_icon-1681d2043dc"
+  },
+  {
+    "title": "Neowin",
+    "url": "https://www.neowin.net/news/rss/",
+    "image": "https://storage.googleapis.com/site-assets/3wU6yKrY9MlwxFNxLYmitCvcYw_Cg-pMomOjYjEfB20_icon-15b92702052"
+  },
+  {
+    "title": "Hacker Noon - Medium",
+    "url": "https://hackernoon.com?source=rss----3a8144eabfe3---4",
+    "image": "https://storage.googleapis.com/site-assets/xSjdJfPCkNisMpBgOt-tuQbeFffex9D91WxfhFeMbbc_icon-169bf769823"
+  },
+  {
+    "title": "Ubergizmo",
+    "url": "http://ubergizmo.com/rss-ubergizmo/",
+    "image": "https://storage.googleapis.com/site-assets/d5jY58vrD2rex_XPLm-Yna13cVgvG24nZ3RIl0FpkOE_sicon-167b187dfcc"
+  },
+  {
+    "title": "BetaNews",
+    "url": "https://betanews.com",
+    "image": "https://storage.googleapis.com/site-assets/mEUJAgYqvjmUkQWBUepEFOsIq_F7vpOOo2SNfcudH14_icon-15b9271b915"
+  },
+  {
+    "title": "TechSpot",
+    "url": "https://www.techspot.com",
+    "image": "https://storage.googleapis.com/site-assets/zTtGCF8NOji6ZLuHbPxWhK8Q-NrR2VV_FpPHLn21K6M_icon-15ce35615f4"
+  },
+  {
+    "title": "Tech",
+    "url": "https://mashable.com/category/tech/?utm_campaign=Mash-Prod-RSS-Feedburner-Tech-Partial&utm_cid=Mash-Prod-RSS-Feedburner-Tech-Partial"
+  },
+  {
+    "title": "GeekWire",
+    "url": "https://www.geekwire.com",
+    "image": "https://www.geekwire.com/wp-content/themes/geekwire/dist/images/geekwire-logo-rss.png"
+  },
+  {
+    "title": "Tested",
+    "url": "https://www.tested.com/"
+  },
+  {
+    "title": "IEEE Spectrum Recent Content",
+    "url": "https://spectrum.ieee.org"
+  },
+  {
+    "title": "Thurrott.com",
+    "url": "https://www.thurrott.com",
+    "image": "https://storage.googleapis.com/site-assets/gpEosFlpRjFjwZK1WB3KHGSamz2gxslygFbxoaB6Sfo_icon-1668946c623"
+  },
+  {
+    "title": "MobileSyrup",
+    "url": "https://mobilesyrup.com",
+    "image": "https://storage.googleapis.com/site-assets/C7Co1nqneaUZpyifue1DQHjzF_rhw8mnxW-2RI35Xmw_icon-15d82fa2f6f"
+  },
+  {
+    "title": "The Tech Report - News",
+    "url": "https://techreport.com/",
+    "image": "https://storage.googleapis.com/site-assets/A8H7aJsFbGmTMYQofAKR1yA_B4RG_ZF4UxjK22FBuxM_icon-15ff76b9433"
+  },
+  {
+    "title": "Liliputing",
+    "url": "https://liliputing.com",
+    "image": "https://storage.googleapis.com/site-assets/V86neTqxmAy_z0Ot2rKg5XfiR8IzrjtSFfOm4XRpIEo_icon-15b92744c93"
+  },
+  {
+    "title": "Latest news",
+    "url": "https://www.zdnet.com/",
+    "image": "https://storage.googleapis.com/site-assets/Dlhuk3Wkp6CgVDxDpT6WqZ-DxmscBPIso4nHzZppFdg_icon-163cecefebd"
+  }
+]

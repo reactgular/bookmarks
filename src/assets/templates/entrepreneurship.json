@@ -1,0 +1,494 @@
+[
+  {
+    "title": "Fast Company",
+    "url": "https://www.fastcompany.com",
+    "image": "https://storage.googleapis.com/site-assets/FXo4hbYMcVMG4DMa6lzD_36M21OEGgDUjmAuOzeuMs0_icon-16677f47e4e"
+  },
+  {
+    "title": "Entrepreneur",
+    "url": "https://www.entrepreneur.com/latest?utm_source=Feedly&utm_medium=related&utm_campaign=syndication",
+    "image": "https://storage.googleapis.com/site-assets/9kvTSXJ_FoV0tKjA81ehh0HicK5d-u3ZYbKAl6iUAKY_icon-15ec75541b2"
+  },
+  {
+    "title": "Seth Godin's Blog ",
+    "url": "https://seths.blog",
+    "image": "https://storage.googleapis.com/site-assets/6GV_GbWOJ6VnCKxInEF8KnvUbqZzRLHHRNcmgK9rnUk_icon-163cece37c0"
+  },
+  {
+    "title": "Harvard Business Review ",
+    "url": "http://hbr.org",
+    "image": "https://storage.googleapis.com/site-assets/RUSFMaap2epUB1Hxr7coT6Cd7n5A3BtYAIay0ExHdcs_icon-15d810a31d8"
+  },
+  {
+    "title": "VentureBeat",
+    "url": "https://venturebeat.com",
+    "image": "http://storage.googleapis.com/site-assets/6YCRt11ERFyhDgXE747vRsWbQYVW1DvYhSLVdQmenKU_icon-154124f1e6f"
+  },
+  {
+    "title": "Hacker News",
+    "url": "https://news.ycombinator.com/",
+    "image": "http://storage.googleapis.com/site-assets/boy6SFLkVrCyAh1eWapnAnWnZYkgaqPKxviKcFW5h20_sicon-1541393bb8e"
+  },
+  {
+    "title": "The Blog of Author Tim Ferriss",
+    "url": "https://tim.blog",
+    "image": "https://storage.googleapis.com/site-assets/RwyumVv25fU133DkXeU_us81RK20Em58MSXG--9jY9k_icon-163dbb986ba"
+  },
+  {
+    "title": "Quick Sprout",
+    "url": "https://www.quicksprout.com",
+    "image": "https://storage.googleapis.com/site-assets/R9vQCHCde5VOMrwmA3QCqweOWU1102OrMA2RLcVzn9c_sicon-16390f5b180"
+  },
+  {
+    "title": "AVC",
+    "url": "https://avc.com",
+    "image": "https://storage.googleapis.com/test-site-assets/HHt3UnsOIXnIPDzeAeTDAxydi3oiavGpvZ5wXC1Iq5A_oicon-1658b9c814a"
+  },
+  {
+    "title": "andrewchen",
+    "url": "http://andrewchen.co",
+    "image": "https://storage.googleapis.com/site-assets/x7dFM3Dg53g2rSRK9FRo86xF47Mlb6ZMSSkSCElnhCg_icon-15b7f984d8c"
+  },
+  {
+    "title": "Small Business Trends",
+    "url": "https://smallbiztrends.com",
+    "image": "https://storage.googleapis.com/site-assets/3dImH0xEoo9pukvxI-EgQNbjVXpQHinrOcWT53hM6OQ_icon-166d492e425"
+  },
+  {
+    "title": "Both Sides of the Table",
+    "url": "https://bothsidesofthetable.com?source=rss----97f98e5df342---4",
+    "image": "https://storage.googleapis.com/site-assets/7saDh-AX3ShYtqFzfI8VZaySaMTMA3qr8Z9bcohTi6I_icon-15b926dce8d"
+  },
+  {
+    "title": "Recode -  All",
+    "url": "https://www.recode.net/",
+    "image": "https://storage.googleapis.com/site-assets/_RRVGN5dMufT3uYpOPoZrVtAdiFk5UTp3-LkaGb08V0_icon-15b926e9ae1"
+  },
+  {
+    "title": "The Smart Passive Income ",
+    "url": "https://www.smartpassiveincome.com",
+    "image": "https://storage.googleapis.com/site-assets/ooHy6_Vi1FhBt5mSu5kamiMsZ_snvPuvfeqmPaK0Hrk_sicon-15b64a37b0d"
+  },
+  {
+    "title": "Steve Blank",
+    "url": "https://steveblank.com",
+    "image": "https://storage.googleapis.com/site-assets/XJggJQksH_1J3xnry1LJlJFz7-BLRe9RTPZXFIoF-F4_icon-1621e3c2406"
+  },
+  {
+    "title": "Stratechery by Ben Thompson",
+    "url": "https://stratechery.com",
+    "image": "https://storage.googleapis.com/site-assets/IO2zuaapKQips7nY9h1s4RGyk4HVVT953cfQ3dx7bH0_icon-1626a32670b"
+  },
+  {
+    "title": "Paul Graham: Essays",
+    "url": "http://www.paulgraham.com/",
+    "image": "http://storage.googleapis.com/site-assets/EGl78RGiBw8kvb6BjFWhx8ZdbGTbg9s5iCJKqOArqMA_sicon-1541393cc56"
+  },
+  {
+    "title": "Feld Thoughts",
+    "url": "https://feld.com",
+    "image": "http://storage.googleapis.com/test-site-assets/VQzDvjaJVe7ksi7B2V5vRQ2WAAtSQLE50PO6o4XEK-8_oicon-14f4376a74e"
+  },
+  {
+    "title": "Benedict Evans",
+    "url": "https://www.ben-evans.com/",
+    "image": "https://storage.googleapis.com/site-assets/JQ1gQse3vSzZANYK1uD6C8D-M5IDHq7GvZ_U6eyXH8M_sicon-1612c57ca63"
+  },
+  {
+    "title": "James Altucher",
+    "url": "https://jamesaltucher.com",
+    "image": "https://storage.googleapis.com/site-assets/KlpEjC8ZNnoax4oK-KH19xRcDZgvYyvCX94VKgfLOyU_icon-16859bc10f2"
+  },
+  {
+    "title": "The Kickstarter Blog",
+    "url": "https://www.kickstarter.com/blog",
+    "image": "https://storage.googleapis.com/site-assets/D7m7f5PIpchS8wzYCiUaKTYggK7OypBQZWQMF1Q0G3g_sicon-1612cfb8e91"
+  },
+  {
+    "title": "Featured Insights – Forrester",
+    "url": "https://go.forrester.com",
+    "image": "https://storage.googleapis.com/site-assets/69nAlk_SzvdCsT1RfXXxg3KD9vlm8hUtlAEA4Hg8ync_sicon-15d669db9a6"
+  },
+  {
+    "title": "Inside Intercom",
+    "url": "https://www.intercom.com/blog",
+    "image": "https://storage.googleapis.com/site-assets/h-TsOCOkjug8u3i3GiAvTYXnpgPwGPqooJUweV6AVtE_icon-1648d6fb340"
+  },
+  {
+    "title": "Tomasz Tunguz",
+    "url": "https://tomtunguz.com/",
+    "image": "https://storage.googleapis.com/site-assets/ST9_DVXWJBhKURYSKGy_eCVde6EJSx8JJhPTFJ3WWIY_icon-167d653d816"
+  },
+  {
+    "title": "Pando latest articles",
+    "url": "https://pando.com/",
+    "image": "http://storage.googleapis.com/site-assets/h-BFAbiBIEFPzNYRg1fP1WKIlCtCmPqdeHbgwnYZvRM_icon-154150c0f83"
+  },
+  {
+    "title": "For Entrepreneur",
+    "url": "https://www.forentrepreneurs.com",
+    "image": "https://storage.googleapis.com/site-assets/qHK9O8LZEx-kgpxi6dzvD5dHQnumgZcQQO-cnMuHlOE_icon-1619dd3dfb4"
+  },
+  {
+    "title": "Tech in Asia",
+    "url": "https://www.techinasia.com",
+    "image": "https://storage.googleapis.com/site-assets/2EAfOyP2v-L-Faw3yHHfc6qbtD-KX3cA8ErZFA83SCc_icon-16679443b52"
+  },
+  {
+    "title": "TechCrunch",
+    "url": "https://techcrunch.com",
+    "image": "https://storage.googleapis.com/site-assets/hM30vcQZ_oA0LeyNChBsqmsjjLZMqnV4Le4N6GeCh_w_sicon-166f3a1c0e7"
+  },
+  {
+    "title": "A Smart Bear: Startups and Marketing for Geeks",
+    "url": "http://blog.asmartbear.com",
+    "image": "http://storage.googleapis.com/site-assets/574IT_Sxlw9Of5TQ0YzCRhQJKAN0NbKhDENXeDsvLbo_icon-154125aadba"
+  },
+  {
+    "title": "Monday Note - Medium",
+    "url": "https://mondaynote.com?source=rss----c537d80ed0a---4",
+    "image": "https://storage.googleapis.com/site-assets/K2yEyJkJAlTYIjP5i2D9ccp_wbMYzpHnabsacInQgcs_icon-15b921c0901"
+  },
+  {
+    "title": "Derek Sivers",
+    "url": "https://sivers.org/",
+    "image": "http://storage.googleapis.com/site-assets/TguSrC7kfbUs0b6Id-6C0EiuVAEYgbFjXW38ZK7dMNU_icon-15415d027f5"
+  },
+  {
+    "title": "Andreessen Horowitz",
+    "url": "https://a16z.com",
+    "image": "https://storage.googleapis.com/site-assets/b254pXnYK4EwR3kOy0qGveXB5Zq68UYS4aOfxNCIsV8_icon-15d0239b9bb"
+  },
+  {
+    "title": "Hunter Walk",
+    "url": "https://hunterwalk.com",
+    "image": "https://storage.googleapis.com/site-assets/LU3ruNrbMpVSyoIB4UkK_CjxIx0r5af9L9nOHxo_rBw_sicon-1673f995675"
+  },
+  {
+    "title": "Entrepreneur: Latest Starting a Business Articles",
+    "url": "https://www.entrepreneur.com/topic/starting-a-business",
+    "image": "http://storage.googleapis.com/site-assets/WEr0mrLpSA4Ojhbi3qtz3l5trY76tRQcKQ2i6DGx7v4_icon-15415e2dd4c"
+  },
+  {
+    "title": "Inc.com",
+    "url": "https://www.inc.com/",
+    "image": "https://storage.googleapis.com/site-assets/vjbhJukR8oBm5AiMjzloTevZpptmnTkSsoalecL5wsA_icon-15b926e78cb"
+  },
+  {
+    "title": "Continuations by Albert Wenger",
+    "url": "https://continuations.com/",
+    "image": "https://storage.googleapis.com/site-assets/Hdi_LNyJnbv0I-vd2F6zehltbJqWi-h16nMOyP5kxvs_sicon-1672affd1ea"
+  },
+  {
+    "title": "ParisLemon",
+    "url": "https://parislemon.com/"
+  },
+  {
+    "title": "SaaStr",
+    "url": "https://www.saastr.com",
+    "image": "https://storage.googleapis.com/site-assets/lmddz4r-i334TNCZQkK82i5yHDPbKMaxPiRvYi2rS50_icon-163d940dc41"
+  },
+  {
+    "title": "OkDork.com",
+    "url": "https://okdork.com",
+    "image": "https://storage.googleapis.com/site-assets/SUgi-2Dm9c3jiifHY0m19EDS0Ghy9iA4v9Q_gS4USao_sicon-15efff1a418"
+  },
+  {
+    "title": "First Round Review",
+    "url": "http://firstround.com/review/feed/",
+    "image": "http://storage.googleapis.com/site-assets/IIDLvSwCQDfvRpkpfRSsTQ93dnI3mZSFSjbeta1LbBU_icon-15414d0b7a2"
+  },
+  {
+    "title": "Mixergy",
+    "url": "https://mixergy.com",
+    "image": "https://storage.googleapis.com/test-site-assets/8UGaStuDi3ICT41uX1c7-KO8OLTyEpvzSpSYq2qum6M_oicon-165b0ebbed9"
+  },
+  {
+    "title": "This is going to be BIG...",
+    "url": "https://www.thisisgoingtobebig.com/",
+    "image": "https://storage.googleapis.com/site-assets/62s5WjFOZjr8BBqOGPBaf5ELH5gX7eJJffL-QMHg--g_icon-1651da87642"
+  },
+  {
+    "title": "Haystack.vc",
+    "url": "http://haystack.vc",
+    "image": "https://storage.googleapis.com/site-assets/QZovZDPcXPs3Snydx7qtDcBmXM18498MPfBNL-4SD0M_sicon-163155cc342"
+  },
+  {
+    "title": "25iq",
+    "url": "https://25iq.com",
+    "image": "https://storage.googleapis.com/site-assets/X2JYLApxcnkLGU1rh9qVDiKdV5BYA9enn8Okn1P3kL0_sicon-168d3386aa0"
+  },
+  {
+    "title": "Rude Baguette",
+    "url": "https://www.rudebaguette.com"
+  },
+  {
+    "title": "Yourstory",
+    "url": "https://yourstory.com/",
+    "image": "https://storage.googleapis.com/site-assets/ilfmbID6_tFK69KM40T9xKCpGpTrfP5mfSy8bbKJ674_icon-15ca584db9c"
+  },
+  {
+    "title": "Tech.pinions",
+    "url": "https://techpinions.com",
+    "image": "https://storage.googleapis.com/site-assets/Kteetflr_cigSpbaJfV97QHFMqusEGRwvhq8WlT8g3Y_sicon-163dee58802"
+  },
+  {
+    "title": "NextBigWhat",
+    "url": "https://nextbigwhat.com",
+    "image": "https://storage.googleapis.com/site-assets/9DXU8SG8tztAsQCURFIC45QX1I9CfnQZ4_j6f3vVBuw_sicon-169b8e2e506"
+  },
+  {
+    "title": "Psychohistory",
+    "url": "https://adamnash.blog",
+    "image": "https://storage.googleapis.com/site-assets/pBn_AAntwdanpS7RRhQaFWVVPIOQXeahfCoIdrGNW_E_icon-1622374d76e"
+  },
+  {
+    "title": "Articles",
+    "url": "https://justinjackson.ca",
+    "image": "https://storage.googleapis.com/site-assets/8E-Ym9Kuonsu1ERZnXsSGHuNbOY-0j70wilk_U8NVR8_icon-15fde429389"
+  },
+  {
+    "title": "YoungEntrepreneur.com",
+    "url": "https://www.entrepreneur.com/topic/young-entrepreneurs",
+    "image": "http://storage.googleapis.com/site-assets/E0O6KSPVqeR99BJLCVuXCuhDqCGmNmLcuKRlezXad5c_icon-15415e2e415"
+  },
+  {
+    "title": "BetaList - Discover tomorrow's startups, today",
+    "url": "https://betalist.com",
+    "image": "https://storage.googleapis.com/test-site-assets/i5OArtXv2S1dJC4-fTA_1I6CZO_K2ss5atIT-f6CDIA_oicon-1658ba71012"
+  },
+  {
+    "title": "OnlyOnce",
+    "url": "https://www.onlyonceblog.com",
+    "image": "https://storage.googleapis.com/site-assets/fc0I8BzgwN-CGIocMIh5n0XSfOATZ8swxyJy84FGy5g_icon-15b9278896e"
+  },
+  {
+    "title": "a16z",
+    "url": "http://www.a16z.com",
+    "image": "http://storage.googleapis.com/site-assets/wNs9d-P-gVcAVIfJDJYOM7WaW9wul2hu8y5WeYjKY7c_icon-15414eadd64"
+  },
+  {
+    "title": "Stories by Ev Williams on Medium",
+    "url": "https://medium.com/@ev?source=rss-268314bb7e7e------2",
+    "image": "https://storage.googleapis.com/site-assets/TtImvYgkU-wV_x7wocAxLZ5DPWKHsJaWgD4VD89O0TQ_icon-169e4b2091a"
+  },
+  {
+    "title": "CB Insights Research",
+    "url": "https://www.cbinsights.com/research",
+    "image": "https://storage.googleapis.com/site-assets/qGeY2VIYm6KUftClGRPzaPI3fU0_Rh6xbx1o7nQtWqE_icon-15d5c4f15fa"
+  },
+  {
+    "title": "KillerStartups",
+    "url": "https://www.killerstartups.com",
+    "image": "https://storage.googleapis.com/site-assets/zxwopzKIic97FBLWKKnNBnDVKwoepsFqrpMuiLkV6XE_icon-15b927d58b0"
+  },
+  {
+    "title": "500 Startups",
+    "url": "https://500.co",
+    "image": "https://storage.googleapis.com/site-assets/R8fHgtW40P5vBift927QqfkMcStaU73iWIRpgYfF4PM_icon-167cfe53dc2"
+  },
+  {
+    "title": "Business Opportunities",
+    "url": "https://www.business-opportunities.biz",
+    "image": "http://storage.googleapis.com/site-assets/TCUt9L1_0EKpQrtQbyzfEv4-nYJsi-y3BivYgsbnBUk_icon-15411e7d0ce"
+  },
+  {
+    "title": "Entrepreneurs-Journey.com by Yaro Starak",
+    "url": "https://yaro.blog"
+  },
+  {
+    "title": "The Angel VC",
+    "url": "http://christophjanz.blogspot.com/",
+    "image": "https://storage.googleapis.com/site-assets/x5NnFFZZJU6iiNCGUzq7kWKBE_0vbpxrsz8FPTne6kE_icon-169c3c6880b"
+  },
+  {
+    "title": "Joel Gascoigne",
+    "url": "https://joel.is/",
+    "image": "https://storage.googleapis.com/site-assets/65GrcWouhFIktRWWa5J8aFbG23-MMwqkgV1IM3KIhqE_icon-164b6995410"
+  },
+  {
+    "title": "Startup Management",
+    "url": "http://startupmanagement.org",
+    "image": "https://storage.googleapis.com/site-assets/1pwgBPH5gA75h6Xtwh4uazCKc1eZAmHh_7z9_Oizskw_icon-1616cbd734f"
+  },
+  {
+    "title": "Gotham Gal",
+    "url": "https://gothamgal.com",
+    "image": "https://storage.googleapis.com/site-assets/ssFCLRXnlrVZxTklsW5C2FwHoRvGStIUrBIomeX7aCk_sicon-168c8e9d278"
+  },
+  {
+    "title": "Startups",
+    "url": "https://mashable.com/category/startups/?utm_campaign=Mash-Prod-RSS-Feedburner-Startups-Partial&utm_cid=Mash-Prod-RSS-Feedburner-Startups-Partial"
+  },
+  {
+    "title": "Y Combinator",
+    "url": "https://blog.ycombinator.com",
+    "image": "https://storage.googleapis.com/site-assets/eTLK0Qr56YKjDjMyqoBmNFopLhO68ZvnrZaUP9iPnFo_icon-164246b2adb"
+  },
+  {
+    "title": "Open",
+    "url": "https://open.buffer.com",
+    "image": "https://storage.googleapis.com/site-assets/vG-xztAyxQaSsBmrE4L6fsTRKPB3uTEHNA5Lw7C7h9A_icon-1645d0fadfa"
+  },
+  {
+    "title": "Entrepreneur: Latest Marketing Articles",
+    "url": "https://www.entrepreneur.com/topic/marketing",
+    "image": "http://storage.googleapis.com/site-assets/dhEtaENUjyKkAUe_T6tQgPtgg_TmoZrV46gdn6lBSWQ_icon-15415e2f1ce"
+  },
+  {
+    "title": "Bowery Capital",
+    "url": "https://bowerycap.com",
+    "image": "https://storage.googleapis.com/site-assets/t5TQ1AMxZ0LlWOitk27aEh_wmKzAJqDrKaaBJfB2-Xg_icon-1693c37d66a"
+  },
+  {
+    "title": "Blogtrepreneur",
+    "url": "https://www.blogtrepreneur.com"
+  },
+  {
+    "title": "Noobpreneur.com",
+    "url": "https://www.noobpreneur.com",
+    "image": "https://storage.googleapis.com/site-assets/JNmrRyErlauE5wT27Vk8S4D0ImhHYRkZinjv9CtqurI_icon-15fddb9b9e7"
+  },
+  {
+    "title": "Techstars",
+    "url": "http://www.techstars.com",
+    "image": "https://storage.googleapis.com/site-assets/tZnulilMplZCYVGg2Ix51V12c85SAFO4bYUbFC20utw_icon-169536c3d17"
+  },
+  {
+    "title": "Startup Professionals Musings",
+    "url": "https://blog.startupprofessionals.com/"
+  },
+  {
+    "title": "Entrepreneur – VentureBeat",
+    "url": "https://venturebeat.com",
+    "image": "https://storage.googleapis.com/site-assets/iBOEzxJwbQpQzNfsD1sKJySL8YbAx3WvlKt0-AMIsyk_icon-15b92a2baeb"
+  },
+  {
+    "title": "New Startups",
+    "url": "https://www.new-startups.com",
+    "image": "https://storage.googleapis.com/site-assets/IJybAO9p2Sjnf8IDcm01K4XE7H7InEfwVEpSuUTdTCU_sicon-1651d83be21"
+  },
+  {
+    "title": "Inc42 Media",
+    "url": "https://inc42.com",
+    "image": "https://storage.googleapis.com/site-assets/1oMi3WjfQfVscr8xPnb7T3PWkzg5WIwA7cJfG1m9etc_icon-1652215ce5c"
+  },
+  {
+    "title": "David Cummings on Startups",
+    "url": "https://davidcummings.org",
+    "image": "https://storage.googleapis.com/site-assets/PXB2EPBpEB2tXHdqMRWfz6pE-KZOPJmfBjgpoWd62_Q_icon-1699a28d2c9"
+  },
+  {
+    "title": "StartupNation",
+    "url": "https://startupnation.com",
+    "image": "https://storage.googleapis.com/site-assets/ni-1dwy1Pu9AmU0rEs34b8nL_8hSZb6kFbWNEeWWi4c_icon-1633df52ea5"
+  },
+  {
+    "title": "Dan Martell",
+    "url": "https://www.danmartell.com"
+  },
+  {
+    "title": "Foundr",
+    "url": "https://foundr.com",
+    "image": "https://storage.googleapis.com/site-assets/d7fxJePrgdHaitpdVFHq8ahDlOLSWlif-TnBKyAN8FY_icon-15e6296fb04"
+  },
+  {
+    "title": "Young Upstarts",
+    "url": "http://www.youngupstarts.com",
+    "image": "http://storage.googleapis.com/site-assets/qiheUqq8LDXcLjPB8YT1ntZHjO8tVDazhYn6Noy1RRQ_sicon-15426e4f4eb"
+  },
+  {
+    "title": "Startup Daily",
+    "url": "https://www.startupdaily.net",
+    "image": "https://storage.googleapis.com/site-assets/5NCG1Ytbx3Xgtby6oImRaTlPqakyGImfqPFhhQxqSh0_icon-166c41d5242"
+  },
+  {
+    "title": "EU-Startups",
+    "url": "https://www.eu-startups.com",
+    "image": "https://storage.googleapis.com/site-assets/vU5QDQHx4qz4NwuQ-bBiigj3XqW9ygLyyftishfArVU_icon-166e3099192"
+  },
+  {
+    "title": "Fabrice Grinda",
+    "url": "https://fabricegrinda.com",
+    "image": "https://storage.googleapis.com/site-assets/bZh8CS2H6yoO8aDUKjcTOnx8qE5atJg_85iuSEe9yrs_sicon-15fdf884309"
+  },
+  {
+    "title": "Startups - Finding problems and solving them!",
+    "url": "https://www.reddit.com/r/startups/",
+    "image": "https://storage.googleapis.com/site-assets/Fq6UxtjKrtvpTLyYqNtgeX00HGBuC2UOjiVtxm8poXY_icon-169dc4e1a69"
+  },
+  {
+    "title": "The Startup - Medium",
+    "url": "https://medium.com/swlh?source=rss----f5af2b715248---4",
+    "image": "https://storage.googleapis.com/site-assets/NJATqaQt-QqcAZZPVVeWg26Glp67Yz8dr6qXzxMLXXY_icon-15e1b8df63f"
+  },
+  {
+    "title": "Bing: farecastblog",
+    "url": "http://www.bing.com:80/search?q=farecastblog",
+    "image": "https://storage.googleapis.com/site-assets/KnrwO39m-oa00CX-1nRtLFo1AVHDs2PbBfK9BqRt-X4_sicon-160ffec7d1e"
+  },
+  {
+    "title": "Steve Sammartino",
+    "url": "https://stevesammartino.com"
+  },
+  {
+    "title": "YFS Magazine",
+    "url": "https://yfsmagazine.com",
+    "image": "https://storage.googleapis.com/site-assets/6HJmMRFgIL2T4mncPI8XnOdmbufwCKboOLy-bV51DQ0_icon-1690f510040"
+  },
+  {
+    "title": "Forbes - Startups",
+    "url": "http://www.forbes.com/startups/",
+    "image": "https://storage.googleapis.com/site-assets/9xq2LQPcvUY0vcfqyXz8TJdvzhNy6ExCQ0aEu0ws9L8_icon-16988946c72"
+  },
+  {
+    "title": "Startups.co.uk: Starting a business advice and business ideas",
+    "url": "https://startups.co.uk",
+    "image": "https://storage.googleapis.com/site-assets/ZB_QuKgK6PeedwlksiEigSkIUsn_AbYmBzEAeO2pXmo_icon-167b9ecaaa1"
+  },
+  {
+    "title": "Bplans BlogBplans Blog",
+    "url": "https://articles.bplans.com",
+    "image": "https://storage.googleapis.com/site-assets/7SxQYtnPFT8yF-HC9cCFCo6WrlZcw-nbLNe8iShN9Hw_icon-15f80bbda2a"
+  },
+  {
+    "title": "Blog [page] | Startup Grind",
+    "url": "https://www.startupgrind.com/blog/",
+    "image": "https://storage.googleapis.com/site-assets/TAjTcbXO15jOyRK2IQmC5SoHVjJUjgee2WS1lukWAaw_icon-166ef458f2d"
+  },
+  {
+    "title": "Startupitalia",
+    "url": "https://startupitalia.eu",
+    "image": "https://storage.googleapis.com/site-assets/nDmjQmV54XMrTpVDg1mPMA6wSgkC4bGp23AOOE8wUbM_icon-16939a0d1c1"
+  },
+  {
+    "title": "StartUp Beat",
+    "url": "https://startupbeat.com",
+    "image": "https://storage.googleapis.com/site-assets/awRNehntnpGD2MayeMnWnL-zgmNg8UidAj7ohAAHRkE_icon-15e8ee326ee"
+  },
+  {
+    "title": "AllTopStartups",
+    "url": "https://alltopstartups.com",
+    "image": "https://storage.googleapis.com/site-assets/EZQ0zgVsNF1997q9pYk0CwnT-J5AihA1vJ9WOG-UxfY_icon-163ddaf3c16"
+  },
+  {
+    "title": "Novobrief",
+    "url": "https://novobrief.com",
+    "image": "https://storage.googleapis.com/site-assets/sAYMeu-Kbmmcw3C3NPGcLKh_KUKqapwyM4KqRCD0QmQ_icon-161210110d2"
+  },
+  {
+    "title": "Startups Stars",
+    "url": "https://www.startupsstars.com",
+    "image": "https://storage.googleapis.com/site-assets/QXUJrzlkz2-nH9aXi3h_lcbT5ad4ESskhoM8pqiYa2Q_icon-168bc22a64e"
+  },
+  {
+    "title": "Startupticker.ch | The Swiss Startup News channel",
+    "url": "https://www.startupticker.ch/",
+    "image": "https://storage.googleapis.com/site-assets/JMJpDpe_MHF-LQBIG4K1rAVcCQxTXU_AJmNBZ2O849E_icon-15f76847b09"
+  },
+  {
+    "title": "Version One",
+    "url": "https://versionone.vc",
+    "image": "https://storage.googleapis.com/site-assets/SlSfk8GmTBFl1dZ_2r3q3tBuX7rcius5_Hl3DhTx3X8_icon-1649d12840e"
+  }
+]

@@ -1,0 +1,15 @@
+@import "../config";
+
+:host {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    width: 100%;
+
+    .tag-item-placeholder {
+        display: flex;
+        width: 100%;
+        height: $item-edit-height;
+        background-color: $gray-100;
+    }
+}

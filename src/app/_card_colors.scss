@@ -1,0 +1,17 @@
+@import "config";
+
+.tag-card-color {
+    border: $_1px solid transparent;
+
+    transition: border-color $ani-speed $ani-func,
+    background-color $ani-speed $ani-func;
+}
+
+@each $number, $value in $cardColors {
+    .tag-card-bg-color-#{$number} {
+        background-color: #{$value} !important;
+    }
+    .tag-card-border-color-#{$number} {
+        border-color: darken($value, 15%) !important;
+    }
+}

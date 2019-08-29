@@ -1,0 +1,9 @@
+@import "../config";
+
+:host {
+    display: flex;
+
+    .input-group-append {
+        cursor: pointer;
+    }
+}

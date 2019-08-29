@@ -1,0 +1,10 @@
+@import "../config";
+
+:host {
+    display: flex;
+    flex-direction: column;
+    color: $white-700;
+    align-items: center;
+    justify-content: center;
+    padding: map-get($spacers, 4);
+}

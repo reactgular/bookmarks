@@ -1,0 +1,490 @@
+[
+  {
+    "title": "Forbes - Healthcare",
+    "url": "http://www.forbes.com/healthcare/",
+    "image": "https://storage.googleapis.com/site-assets/fO2qrQHwkWX7pPIN8lUDpm7Wi1sgHPaq68vRiI05bxI_icon-169855c10cb"
+  },
+  {
+    "title": "Nature Biotechnology",
+    "url": "http://feeds.nature.com/nbt/rss/current",
+    "image": "https://storage.googleapis.com/test-site-assets/0qZSsMpEyvTD_JmJ6fQGs2jjQHT0cDASmHnvbQXUs9I_oicon-166b30c5bda"
+  },
+  {
+    "title": "FierceBiotech",
+    "url": "https://www.fiercebiotech.com/",
+    "image": "https://storage.googleapis.com/site-assets/eNPCvMDfxN4LJFqIEPvgl5XKAn83tyPBO7CJ8ZarDt4_icon-165b2fd3e96"
+  },
+  {
+    "title": "FiercePharma",
+    "url": "https://www.fiercepharma.com/",
+    "image": "https://storage.googleapis.com/site-assets/lSuz92YVdys0PzGM3NAiazd3tCN1lCJgZPDdvrg9pWI_icon-165b2fdf602"
+  },
+  {
+    "title": "Xconomy",
+    "url": "https://xconomy.com",
+    "image": "https://storage.googleapis.com/site-assets/hNQm3Ir__Ms-RYVrmFiv-9XcwPrGxs6YyLhlu0_KDZc_icon-166e307f085"
+  },
+  {
+    "title": "Food and Drug Administration--Press Releases",
+    "url": "https://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/PressReleases/rss.xml",
+    "image": "https://storage.googleapis.com/test-site-assets/cjU2vWp0KM2wL_HirsiihRuTSSjUGnQCrjU793BsH5s_oicon-166b307d389"
+  },
+  {
+    "title": "Sciencemag",
+    "url": "http://blogs.sciencemag.org/pipeline",
+    "image": "https://storage.googleapis.com/site-assets/2k24_TFePIh3MUUJr_vqRk--EkKG_RZ2TtOvsKiJXX4_icon-16817fe1aa7"
+  },
+  {
+    "title": "Topix Biotech News ",
+    "url": "http://www.topix.com/business/biotech",
+    "image": "https://storage.googleapis.com/site-assets/KpO09ER8H3UCHr48gRiGY51RcuR3c_HeU7NDzDMMQDM_sicon-167ce8409ef"
+  },
+  {
+    "title": "Medical News Today",
+    "url": "http://www.medicalnewstoday.com",
+    "image": "https://storage.googleapis.com/site-assets/40o8b-XT0X3tRIqiEqL8QFxuYliR7cyTSh1fkPt_dEU_icon-15b905b6a95"
+  },
+  {
+    "title": "BioSpace",
+    "url": "https://www.biospace.com/news/",
+    "image": "https://storage.googleapis.com/test-site-assets/0Tkx7st6Mr8O_7yUCA-G1wKRzIpduDd0IgGE-MrsEL0_oicon-166b3068b26"
+  },
+  {
+    "title": "STAT",
+    "url": "https://www.statnews.com",
+    "image": "https://storage.googleapis.com/site-assets/e58Ek-LiURnitwRt2y7O6OhMBrbNGVVt51i_I-JVPWQ_icon-16672126722"
+  },
+  {
+    "title": "Biomedicine - MIT Technology Review",
+    "url": "https://www.technologyreview.com/",
+    "image": "https://storage.googleapis.com/site-assets/-L5UA5s0pfSSiwC3XfihmU7kP-7P5OrcMsZYX3nnKWA_icon-167a4cba930"
+  },
+  {
+    "title": "Pharmaceutical News",
+    "url": "http://www.topix.com/business/pharmaceuticals",
+    "image": "https://storage.googleapis.com/site-assets/pUYnyxO7eOQwOjH6X8Ye-4CXbLe599lSkBOhTjijMvw_sicon-167cf249318"
+  },
+  {
+    "title": "PharmaTimes",
+    "url": "http://www.pharmatimes.com",
+    "image": "https://storage.googleapis.com/site-assets/57J69Zx7aOpvwvnMYGPFMHTYUTm2zdegNyDHZU9uswI_icon-15b92a49f44"
+  },
+  {
+    "title": "LifeSciVC",
+    "url": "https://lifescivc.com",
+    "image": "https://storage.googleapis.com/site-assets/CcNPU_AfzG_ba_qcpCVeXAmwpjMv_oah8A3GREHwK-Q_sicon-16787b20752"
+  },
+  {
+    "title": "Eye on FDA",
+    "url": "http://eyeonfda.com",
+    "image": "https://storage.googleapis.com/site-assets/vf-ESt4wUeUWHOfN3gXBU5LaXeewC13O0mdikZy7dNA_icon-15e31fb807b"
+  },
+  {
+    "title": "FDA Law Blog",
+    "url": "http://www.fdalawblog.net",
+    "image": "https://storage.googleapis.com/site-assets/PsgP11Uj9kGFZfJldclVQ4oGhl3ighyVPBeJmkfKjUM_icon-15fde566ca2"
+  },
+  {
+    "title": "Pharmaceuticals sector",
+    "url": "https://www.ft.com/stream/757b6406-5948-4bca-b352-37bdda7f90ac",
+    "image": "https://storage.googleapis.com/site-assets/njvT0HxkTyulz0QMiz1qzUGqVG2IyFtSmQaivfD8ReQ_icon-16198a239bd"
+  },
+  {
+    "title": "ScienceDaily - Biotechnology ",
+    "url": "https://www.sciencedaily.com/news/plants_animals/biotechnology/",
+    "image": "https://storage.googleapis.com/test-site-assets/DYZwwAfNVHLdfIVqWbOY_PUAEgNkuFsyCFRxB522XQc_oicon-165a65893f4"
+  },
+  {
+    "title": "BioTech Weblog",
+    "url": "http://www.biotech-weblog.com",
+    "image": "https://storage.googleapis.com/site-assets/O_UF3LbZlJTuIhJ4mIXtPIeJQS3pylbTfifLLZYL4Wg_sicon-15b645bed0c"
+  },
+  {
+    "title": "Pharmaceutical Business review",
+    "url": "https://www.pharmaceutical-business-review.com"
+  },
+  {
+    "title": "Xconomy",
+    "url": "https://xconomy.com",
+    "image": "https://storage.googleapis.com/site-assets/8kRfQ0pZBPepssJFb1PdmCnw_Vq9PK3TjTryzyj3exU_icon-15f9072a7f9"
+  },
+  {
+    "title": "Drug Channels",
+    "url": "http://www.drugchannels.net/"
+  },
+  {
+    "title": "The Medicine Show",
+    "url": "https://blogs.forbes.com/matthewherper",
+    "image": "https://storage.googleapis.com/site-assets/3YXfA5YJcjeZSd22XB3-gJgTbb8FPhjqlkH4-RC_UXc_icon-169841d80cc"
+  },
+  {
+    "title": "Roche Media News",
+    "url": "https://www.roche.com/",
+    "image": "https://storage.googleapis.com/site-assets/ITBOAOxTjJkCXSLek8WFzZNodk_ckkfzvC6HAwjZuTE_icon-161fad5c037"
+  },
+  {
+    "title": "Drugs (Pharmaceuticals)",
+    "url": "http://www.nytimes.com/topic/subject/drugs-pharmaceuticals",
+    "image": "https://storage.googleapis.com/site-assets/uemX3rD71itd8UMtW8qtWi3rdr_OHcKJjshgW470IrY_icon-16935241a61"
+  },
+  {
+    "title": "Endpoints",
+    "url": "https://endpts.com",
+    "image": "https://storage.googleapis.com/site-assets/6dofqMJ3dg0pnalVo4xBnQXM1ptqA0nifrLwWIhQqL4_icon-15b935c3c87"
+  },
+  {
+    "title": "Latest articles from Medical Marketing and Media",
+    "url": "https://www.mmm-online.com/pages/rss.aspx?sectionid=60",
+    "image": "https://storage.googleapis.com/site-assets/4mPupHhB8E5fRyIAw2Z9Yh3LDA32CBbTK69e0DjTFL4_icon-165a3859892"
+  },
+  {
+    "title": "Breaking World Pharma News",
+    "url": "http://www.worldpharmanews.com/",
+    "image": "https://storage.googleapis.com/site-assets/HmmCpvgBP353Uz_fKdfuh2YTG8pIy_gmVRoXFqKz-Qw_icon-166e96b58cc"
+  },
+  {
+    "title": "Biotechblog",
+    "url": "https://www.biotechblog.com",
+    "image": "https://storage.googleapis.com/site-assets/VKExzGZxT7dvoK2Ay57Got9Iv83PbKAcjZ5nJLWPNUI_sicon-1659baf56ca"
+  },
+  {
+    "title": "Healthcare Sector and Stocks Analysis from Seeking Alpha",
+    "url": "https://seekingalpha.com",
+    "image": "https://storage.googleapis.com/site-assets/L4sgg2JHQ7-2ajK4CvbXZ8n0J9ODvjwSk7ZgcWj7_Hc_icon-15b92d34d04"
+  },
+  {
+    "title": "English RSS Feed",
+    "url": "https://www.novartis.com/rss/feeds/en.xml",
+    "image": "https://storage.googleapis.com/site-assets/Ttmxx6dmrJgwbonSrNpLv1vDc2qNSL7c2D2AxGkGjXA_icon-15b8a7c3e37"
+  },
+  {
+    "title": "Drugs.com - Clinical Trials",
+    "url": "https://www.drugs.com/clinical_trials.html",
+    "image": "https://storage.googleapis.com/site-assets/e7n56FRasUwPj3lNCN26SQyDfZyR5qfyEUhjVx0x99w_icon-1653b465cfc"
+  },
+  {
+    "title": "BIOtechNow",
+    "url": "http://www.biotech-now.org",
+    "image": "https://storage.googleapis.com/site-assets/txMbjEjnBWALcMj4lV4p7Q1BGZk3riXRM52asmzYKhM_sicon-15b64a1d46a"
+  },
+  {
+    "title": "RSS: BioCentury",
+    "url": "https://www.biocentury.com/rss",
+    "image": "https://storage.googleapis.com/site-assets/mL3pFDQQizl4fstyBwlUKUFbxeBoYDoaNpXXqi5KiUI_icon-169703adf0c"
+  },
+  {
+    "title": "Pharmaceutical/Biotechnology Deals :: Pharma & Medtech Business Intelligence",
+    "url": "http://www.pharmamedtechbi.com/search?type=Deals&advanced=(%40industries%3d%22Pharmaceuticals%22)%20and%20(%40industries%3d%22Biotechnology%22)",
+    "image": "https://storage.googleapis.com/site-assets/L0-wfFoK9qQuWKimbWw8TZd7mueBGfVYQENKRuSQCxE_icon-15b8740c36e"
+  },
+  {
+    "title": "Regulatory Focus Articles",
+    "url": "https://www.raps.org/news-and-articles?rss=Regulatory-Focus",
+    "image": "https://storage.googleapis.com/site-assets/yunH_jCYy4_3AQVXyHHsBinc_MErJ23h9Eoyzauy3Oo_sicon-16225402edd"
+  },
+  {
+    "title": "BioPharma Dive",
+    "url": "https://www.biopharmadive.com/news/",
+    "image": "https://storage.googleapis.com/site-assets/-ImT2XGoAgv-LuAKuGQWiRGMZZWB0grETJLiUMaschg_icon-1622e74fbe7"
+  },
+  {
+    "title": "Pharma Manufacturing",
+    "url": "https://www.pharmamanufacturing.com/home/",
+    "image": "https://storage.googleapis.com/site-assets/8c2EjqQcx29Kg1RIO0HzRpAf5UhJ2drTf_MA3wrlsQ8_icon-1612fb40846"
+  },
+  {
+    "title": "Amgen News Release",
+    "url": "http://investors.amgen.com/Phoenix.zhtml?c=61656&p=irol-news",
+    "image": "https://storage.googleapis.com/site-assets/EstesTHrlRA4Frr4vvHUh_S33Nea3GSW_L6JAMfW-ac_icon-16831cd9b71"
+  },
+  {
+    "title": "Outsourcing-Pharma RSS",
+    "url": "https://www.outsourcing-pharma.com/Info/Outsourcing-Pharma-RSS",
+    "image": "https://storage.googleapis.com/test-site-assets/IZWDvibo6htBrWh_5OBR2P9up1shDhqW__T5dM6-Jds_oicon-166b30ac718"
+  },
+  {
+    "title": "in-PharmaTechnologist RSS",
+    "url": "https://www.in-pharmatechnologist.com/Info/in-PharmaTechnologist-RSS"
+  },
+  {
+    "url": "https://www.pfizer.com/press-release-detail-view",
+    "image": "https://storage.googleapis.com/site-assets/DRT0FjvtNOCyZgEJJo8EmlYvN1Ce-6Kav1tAwtycdFE_icon-15f61ed8cf2"
+  },
+  {
+    "title": "Plenge Gen @rplenge",
+    "url": "https://www.plengegen.com",
+    "image": "https://storage.googleapis.com/site-assets/rEs6JegtCfbN4spqp7baoApJKG2_YyYENBXcxsYYqbg_icon-1694cf4d207"
+  },
+  {
+    "title": "Biosimilar News",
+    "url": "https://www.biosimilarnews.com",
+    "image": "https://storage.googleapis.com/site-assets/ybDF0OxzQgSelbjbHh5p13yXH8nqxzLMhrr2fRILS3Y_icon-168f74ba479"
+  },
+  {
+    "title": "Labiotech.eu",
+    "url": "http://labiotech.eu",
+    "image": "https://storage.googleapis.com/site-assets/wzl0EywxQhMX4nu9e0-relWPApqMQ052EaaL30VHIJk_icon-168f07ea93c"
+  },
+  {
+    "title": "PMLiVE RSS Feed: News RSS",
+    "url": "http://www.pmlive.com",
+    "image": "https://storage.googleapis.com/site-assets/dCNVjLgIktxzY45YRh7qDA3WYK-5QR8McqHDEct7_Bo_icon-15b66547c72"
+  },
+  {
+    "title": "eyeforpharma",
+    "url": "https://social.eyeforpharma.com",
+    "image": "https://storage.googleapis.com/site-assets/7_tvSj0QFvPnN1Qs4niIJMjFu0yrNyMYSkJWjpXermo_sicon-15eeb585ff8"
+  },
+  {
+    "title": "RSS: BC Extra",
+    "url": "https://www.biocentury.com/rss",
+    "image": "https://storage.googleapis.com/site-assets/pmXhMUn5-390oIonnMeADzs87s17tb9lqXbyeLSsHqk_icon-16972e108b9"
+  },
+  {
+    "title": "Research & Development - Technologies & Strategies That Enable Research & Development",
+    "url": "https://www.rdmag.com/rss-feeds/all/rss.xml/all",
+    "image": "https://storage.googleapis.com/site-assets/EKijjRL41AfozfoTDCWLxA_7gkmyP0H9ta03S7xADXU_sicon-168c2803d8b"
+  },
+  {
+    "title": "Drug Truths",
+    "url": "http://www.forbes.com/sites/johnlamattina/",
+    "image": "https://storage.googleapis.com/site-assets/tWLK9rW9fGXUiVx9LJNIe2Hq40F1Crur5TuVZs3OH6k_icon-1699f2b195e"
+  },
+  {
+    "title": "ThePharmaLetter",
+    "url": "https://www.thepharmaletter.com",
+    "image": "https://storage.googleapis.com/test-site-assets/GXYZYrJ33d5WJZOCF_oVWGmEKsQnvX32lCGqCV5qozk_oicon-166b30d6897"
+  },
+  {
+    "title": "BioPharma-Reporter RSS",
+    "url": "https://www.biopharma-reporter.com/Info/BioPharma-Reporter-RSS",
+    "image": "https://storage.googleapis.com/test-site-assets/wCSqjaKQhsSQ87Lr017cfUgkQu64ulcBrXvEpGmpTow_oicon-166b30909e5"
+  },
+  {
+    "title": "Contract Pharma - Breaking News",
+    "url": "https://www.contractpharma.com",
+    "image": "https://storage.googleapis.com/site-assets/V5FwfXI9nOlZnChfIUsfVgaEesoEPT1Rx7S6ogWHpcw_icon-15e475ba339"
+  },
+  {
+    "title": "Pharmaphorum",
+    "url": "https://pharmaphorum.com",
+    "image": "https://storage.googleapis.com/site-assets/al98vMV64uunHZ0IL1ky0yBAV2wZ0LHdPJrwXZ_GAzg_icon-15dd9d48cec"
+  },
+  {
+    "title": "cafepharma",
+    "url": "http://www.cafepharma.com/daily_news",
+    "image": "https://storage.googleapis.com/test-site-assets/kHVaDes0WERHPQrl4tAEGOYBueGL-XD8MLU4hpcUwSs_oicon-166b30f0c75"
+  },
+  {
+    "title": "Press Release",
+    "url": "https://press.pfizer.com/feeds/press_release/all/rss.xml",
+    "image": "https://storage.googleapis.com/site-assets/sn7QEeGaI3ir3RK_jXz_1P5BbwQ_xZ5yS-2A8L1ePOY_icon-164e534f9f2"
+  },
+  {
+    "title": "RSS Feed ALL",
+    "url": "https://www.jnj.com/rss-feed/all.rss",
+    "image": "https://storage.googleapis.com/site-assets/gxDhZaQsCcXeHXPhKE2hGWcL-7UpLovvW7M4S6Jxokc_icon-16943ec1f6d"
+  },
+  {
+    "title": "BioWorld Perspectives",
+    "url": "http://www.bioworld.com/perspectives",
+    "image": "https://storage.googleapis.com/site-assets/da1HPMhEg-E9ISM-uXXMgT7yvQ4Xg_mLV2PyFRPAVlk_icon-15cf6a04598"
+  },
+  {
+    "title": "Pharmaceuticals industry | The Guardian",
+    "url": "https://www.theguardian.com/business/pharmaceuticals-industry",
+    "image": "https://storage.googleapis.com/site-assets/ZnpIVH3iCDny2MQj46_41MYe1yuCBSZ0iFtEitBFWIg_icon-167389aa7d8"
+  },
+  {
+    "title": "European Pharmaceutical Review",
+    "url": "https://www.europeanpharmaceuticalreview.com",
+    "image": "https://storage.googleapis.com/site-assets/DF8UOr2otz2-i_FesnVCW1l5aA369H1IJjAy97lbKLw_icon-167cabb1611"
+  },
+  {
+    "title": "Biotech Strategy Blog",
+    "url": "https://biotechstrategyblog.com",
+    "image": "https://storage.googleapis.com/site-assets/M7G8PT6ds9IR3AjGXVlPkP6EvvR2gtLHDLa_79uA4Xc_sicon-15b643bc7c0"
+  },
+  {
+    "title": "Biotech Due Diligence - Blog",
+    "url": "http://www.biotechduediligence.com/blog",
+    "image": "https://storage.googleapis.com/site-assets/gkNnrznZn2Xf0bJM_5oOP9z3W7F8mWeQCfXu7mj-mRc_icon-15b6b8c419c"
+  },
+  {
+    "title": "Biotechnology Articles on Seeking Alpha",
+    "url": "https://seekingalpha.com",
+    "image": "https://storage.googleapis.com/site-assets/3plmeFdTjucLZ-Deoz1z_JhDFNja8JUlgiLNavklc7w_icon-15b93922854"
+  },
+  {
+    "title": "Trade Secrets",
+    "url": "http://blogs.nature.com/tradesecrets",
+    "image": "https://storage.googleapis.com/site-assets/eYIUQ1oswYt7KgyQCF8572Q-6835BKo1BMajQlzUrj0_icon-168fbcbec7d"
+  },
+  {
+    "title": "FierceBiotech: Research",
+    "url": "https://www.fiercebiotech.com/rss/xml",
+    "image": "https://storage.googleapis.com/site-assets/EPByN8tHW7uyk-TPqY5ALx1i-EN0mzWMFu5MY0so1o8_sicon-15cf68e46d3"
+  },
+  {
+    "title": "SynBioBeta",
+    "url": "https://synbiobeta.com",
+    "image": "https://storage.googleapis.com/site-assets/3sn2oriecdGq4MV-CTRyMyv6YFF5cR8eZaoNH0A5mOg_icon-1697ef6318b"
+  },
+  {
+    "title": "FiercePharma: Marketing",
+    "url": "https://www.fiercepharma.com/rss/xml"
+  },
+  {
+    "title": "Pharmafile",
+    "url": "http://www.pharmafile.com/rssfeed",
+    "image": "https://storage.googleapis.com/site-assets/VgNUava8YR9rptLb3WCpFFGwpH8OsZ6sM3pomyfsnAU_sicon-15ed3ac7c0a"
+  },
+  {
+    "title": "PMLiVE RSS Feed: Everything (news, features, appointments, blogs etc) RSS",
+    "url": "http://www.pmlive.com",
+    "image": "https://storage.googleapis.com/site-assets/uTMAW9fmq1k2YBEZpEnqX4jCebK-HBOvIBz35Wz5hRs_icon-15b6acb379a"
+  },
+  {
+    "title": "www.PharmaBiz.com",
+    "url": "http://www.pharmabiz.com/"
+  },
+  {
+    "title": "FiercePharma: Manufacturing",
+    "url": "https://www.fiercepharma.com/rss/xml"
+  },
+  {
+    "title": "Biopharma News",
+    "url": "http://www.biopharminternational.com/biopharma-news",
+    "image": "https://storage.googleapis.com/site-assets/9z2oo1WmJ-SmTmGy2BXy2G1FFF44wnt5h_nATD5q1Z8_icon-15b8e699688"
+  },
+  {
+    "title": "RNAi Therapeutics",
+    "url": "http://rnaitherapeutics.blogspot.com/",
+    "image": "https://storage.googleapis.com/site-assets/3MBO19gCOuhbTW5tb_bZQd-pwDRrUIQ01mjcDtiJyFE_sicon-15b639fcd9e"
+  },
+  {
+    "title": "Digital Pharma Blog",
+    "url": "http://digitalblog.exlpharma.com",
+    "image": "http://storage.googleapis.com/site-assets/AOY5Nof8kwnWmJtUN45UvwLb8e_N4UMnASr_o7x-YeY_sicon-14859fcaedf"
+  },
+  {
+    "title": "Top Feature",
+    "url": "http://www.pharmexec.com/top-feature"
+  },
+  {
+    "title": "Scrip RSS Feed",
+    "url": "https://scrip.pharmaintelligence.informa.com/search#?publication=Scrip&amp;fbzunique=5f81cfb4-5738-11e9-8fc5-00259075205f",
+    "image": "https://storage.googleapis.com/site-assets/jod6L83hMjuy9ksNGjwLtZwuMTRZwgeC2KwlWeh-Uqs_sicon-169e72a1c8f"
+  },
+  {
+    "title": "Pink Sheet RSS Feed",
+    "url": "https://pink.pharmaintelligence.informa.com/search#?page=1&amp;sortBy=date&amp;sortOrder=desc&amp;publication=Pink%20Sheet&amp;fbzunique=c766f0e2-5738-11e9-b051-002590728cc9",
+    "image": "https://storage.googleapis.com/site-assets/DlLsiBKb4F_3dS-0VJ74__gRiiamPxDeB6wQaLOyAB0_sicon-169e72a281c"
+  },
+  {
+    "title": "RSS: BC Innovations",
+    "url": "https://www.biocentury.com/rss",
+    "image": "https://storage.googleapis.com/site-assets/UUJaNxVhupRAdcyG0MMYudIiG4D4LsNd4cXk0JtGPHE_icon-168edacd0f3"
+  },
+  {
+    "title": "FierceBiotech",
+    "url": "https://www.fiercebiotech.com/rss/xml",
+    "image": "https://storage.googleapis.com/site-assets/2_fiUgO9lGiHpJsxnmyI6PEP5y4Un7QkdxfomZrNogs_icon-15ce92d4102"
+  },
+  {
+    "title": "Drug Truths",
+    "url": "https://blogs.forbes.com/johnlamattina",
+    "image": "https://storage.googleapis.com/site-assets/tWLK9rW9fGXUiVx9LJNIe2Hq40F1Crur5TuVZs3OH6k_icon-1699f2b195e"
+  },
+  {
+    "title": "The Life Sciences Report",
+    "url": "https://www.thelifesciencesreport.com/",
+    "image": "https://storage.googleapis.com/site-assets/1-4xtiIw_Qq0izgn5NwuA7xOWD11ql6eu0fMxr5Sf3w_icon-15b8f8398ed"
+  },
+  {
+    "title": "Open Reading Frame",
+    "url": "http://www.orf-blog.com"
+  },
+  {
+    "title": "RSS: BC Week In Review",
+    "url": "https://www.biocentury.com/rss",
+    "image": "https://storage.googleapis.com/site-assets/HZX3df5hDL5-lS-eTQCXpGRz-KiFXePrcGN2KEnYO1I_icon-168edb3ccb8"
+  },
+  {
+    "title": "FiercePharma",
+    "url": "https://www.fiercepharma.com/rss/xml",
+    "image": "https://storage.googleapis.com/site-assets/5YTzHUtsYltf9Q_uEvGuppYHCDMYwyzBSbIATRVrUIk_icon-15cf37431fe"
+  },
+  {
+    "title": "\"merck\" - Google News",
+    "url": "https://news.google.com/search?q=merck&hl=en-US&gl=US&ceid=US:en",
+    "image": "https://storage.googleapis.com/site-assets/E1eRa-se5jLup2of8QE4IAKl3J5TnUR9cYQ4cRtHUYY_sicon-16763b91a00"
+  },
+  {
+    "title": "Cafepharma",
+    "url": "http://www.cafepharma.com",
+    "image": "https://storage.googleapis.com/site-assets/QZiAbPB0pPQ2-NAWO66ti1aJKBI8A25QvSpQ1gJqoqU_icon-15b7147fca9"
+  },
+  {
+    "title": "PharmTech News",
+    "url": "http://www.pharmtech.com/pharmtech-news",
+    "image": "https://storage.googleapis.com/site-assets/-djxqEQTz5gN853M7UfMK8RPGy0Q-JJbjT9fuAUSaw0_icon-15b8f86d8bd"
+  },
+  {
+    "title": "David Sable",
+    "url": "http://www.forbes.com/sites/davidsable/",
+    "image": "https://storage.googleapis.com/site-assets/hChjpnenL8lKoQLIsA0LGIhsviO_Na-a8UC1Y809So8_icon-169a62eca20"
+  },
+  {
+    "title": "Rss",
+    "url": "https://www.boehringer-ingelheim.com/",
+    "image": "https://storage.googleapis.com/site-assets/um2h9ru3D274xaAFvAGvKoZsXvyI1YlBUURxabVsYCI_sicon-15d663a6b78"
+  },
+  {
+    "title": "PM360",
+    "url": "https://www.pm360online.com",
+    "image": "https://storage.googleapis.com/site-assets/dYN43mphn57sRy56aA7KNAZEnjTg3DfgGmad1C1yxTA_icon-165cccefc74"
+  },
+  {
+    "title": "Blog - Pharmagellan LLC",
+    "url": "http://www.pharmagellan.com/blog/",
+    "image": "https://storage.googleapis.com/site-assets/QWAJemGFE-ukBfxnYbh3gTJMQY0jc_-w3-fqBoBG5UE_icon-16144e18c0a"
+  },
+  {
+    "title": "SugarCone Biotech",
+    "url": "http://www.sugarconebiotech.com",
+    "image": "https://storage.googleapis.com/site-assets/aWz3sRe1OZrvbR0V1E-SoA3J7WpEXGAM3inyAEMCw-Y_icon-15b7adf0ba2"
+  },
+  {
+    "title": "Strategy",
+    "url": "http://www.pharmexec.com/strategy-0"
+  },
+  {
+    "title": "GMP News",
+    "url": "https://www.gmp-publishing.com/en/gmp-news.html/do/rssfeed/all/true",
+    "image": "https://storage.googleapis.com/site-assets/BbJCV3F8eS34PsDkBQ3HHLO2mkGnHdbzLNOI3C1_pVI_sicon-169024e6863"
+  },
+  {
+    "title": "\"abbvie\" - Google News",
+    "url": "https://news.google.com/search?q=abbvie&hl=en-US&gl=US&ceid=US:en",
+    "image": "https://storage.googleapis.com/site-assets/NzpX1K4avJJAzz3k-xL1gncacVU-XavHpKdcnCwc6Oo_sicon-16763c07f73"
+  },
+  {
+    "title": "MIT Biotech Group - Essential Biotech RSS Feed",
+    "url": "http://www.rssmix.com/"
+  },
+  {
+    "title": "Pharmaceutical Commerce",
+    "url": "https://pharmaceuticalcommerce.com",
+    "image": "https://storage.googleapis.com/site-assets/XOEnWAB9k3DOaSl6p1BIO8l6pOGiIeFamqbbiKpFrXU_icon-167f3f6d086"
+  },
+  {
+    "title": "PHARMA JAPAN - Latest -",
+    "url": "https://pj.jiho.jp",
+    "image": "https://storage.googleapis.com/site-assets/yMp8Fsj3JJ2ZUFC74An7R2NAdibNwkq98IU8dkfI9wI_sicon-16773d14354"
+  },
+  {
+    "title": "IgeaHub",
+    "url": "https://www.igeahub.com"
+  }
+]

@@ -1,0 +1,25 @@
+@import "../../../lazy/bookmarks/config";
+
+:host {
+    display: block;
+    position: relative;
+    width: 25rem;
+    margin-top: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+    fa-icon {
+        display: block;
+        font-size: $_128px;
+        color: $gray-300;
+        margin-bottom: map-get($spacers, 3);
+    }
+
+    .txt {
+        display: block;
+        font-family: $roboto-slab;
+        font-size: $_20px;
+        color: $gray-600;
+    }
+}

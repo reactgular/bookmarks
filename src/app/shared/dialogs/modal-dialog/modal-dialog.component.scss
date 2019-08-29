@@ -1,0 +1,9 @@
+@import "../config";
+
+:host {
+    display: block;
+    border-radius: $border-radius;
+    background-color: $white;
+
+    @include mat-elevation(6);
+}

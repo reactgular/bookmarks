@@ -1,0 +1,8 @@
+<div class="tag-card-outline"
+     [class.tag-hide-card]="hide$ | async"
+     [class.tag-selected]="isSelected$ | async"
+     [class.tag-hovered]="isHovered$  | async">
+    <div class="tag-card-content">
+        <ng-content></ng-content>
+    </div>
+</div>

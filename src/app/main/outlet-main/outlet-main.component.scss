@@ -1,0 +1,46 @@
+@import "../config";
+
+:host {
+    display: block;
+    width: 100%;
+    height: 100%;
+    min-width: 0;
+    margin-left: 0;
+
+    transition: margin-left $side-bar-animation;
+
+    .main-content {
+        display: flex;
+        position: relative;
+        flex-grow: 1;
+        z-index: 1;
+    }
+
+    .main-outlet {
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: $top-bar-height;
+        bottom: 0;
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+
+    .selection-overlay {
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: $selection-z-index;
+    }
+
+    &.has-indent {
+        margin-left: $side-bar-width;
+
+        .main-outlet {
+            left: $side-bar-width;
+        }
+    }
+}

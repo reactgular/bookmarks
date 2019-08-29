@@ -1,0 +1,65 @@
+@import "../config";
+
+:host {
+    $btnSize: $_24px;
+
+    .tag-select-overlay {
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        cursor: pointer;
+        z-index: 3;
+    }
+
+    .tag-select-btn {
+        display: flex;
+        position: absolute;
+        top: -($btnSize / 3);
+        left: -($btnSize / 3);
+        width: $btnSize;
+        height: $btnSize;
+        border-radius: 50%;
+        background-color: $white;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        box-shadow: 0 1px 1px 1px rgba(0, 0, 0, .1);
+        color: $gray-800;
+        z-index: 4;
+        opacity: 0;
+
+        transition: top $ani-speed $ani-func,
+        left $ani-speed $ani-func,
+        opacity $ani-speed $ani-func,
+        color $ani-speed $ani-func,
+        background-color $ani-speed $ani-func;
+
+        &:focus {
+            border: 1px solid rgba(0, 0, 0, 0.6);
+            color: $gray-900;
+        }
+
+        &.show-button {
+            opacity: 1;
+        }
+
+        &.tag-selected {
+            color: $white;
+            background-color: $gray-800;
+            top: -($btnSize / 2);
+            left: -($btnSize / 2);
+        }
+
+        fa-icon {
+            $iconSize: $btnSize /  2;
+            display: flex;
+            width: $iconSize;
+            height: $iconSize;
+            font-size: $iconSize;
+            line-height: $iconSize;
+        }
+    }
+}

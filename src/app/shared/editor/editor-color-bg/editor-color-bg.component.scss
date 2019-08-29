@@ -1,0 +1,20 @@
+@import "../config";
+
+:host {
+    .color-overlay {
+        display: flex;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 1;
+        align-items: center;
+        justify-content: center;
+        transform: translateZ(0);
+
+        &.button-color {
+            background-color: mat-color(map-get($app-light-theme, accent));
+        }
+    }
+}

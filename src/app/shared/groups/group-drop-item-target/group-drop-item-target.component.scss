@@ -1,0 +1,33 @@
+@import "../config";
+
+:host {
+    display: flex;
+
+    .content-body {
+        display: flex;
+        width: 100%;
+        padding: map-get($spacers, 2);
+        text-transform: uppercase;
+        color: $gray-400;
+        transition: color $ani-speed $ani-func;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .content-outline {
+        display: flex;
+        width: 100%;
+        border: $_2px dashed transparent;
+        border-radius: $_2px;
+        transition: border $ani-speed $ani-func;
+        margin-bottom: map-get($spacers, 3);
+
+        &.hovering {
+            border: $_2px dashed $gray-400;
+
+            .content-body {
+                color: $gray-600;
+            }
+        }
+    }
+}

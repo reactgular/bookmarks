@@ -1,0 +1,12 @@
+@import "../config";
+
+:host {
+    display: block;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: $overlay-backdrop-color;
+    z-index: $side-bar-z-index - 1;
+}

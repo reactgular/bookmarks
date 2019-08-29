@@ -1,0 +1,8 @@
+<tag-reactive-tool class="ml-2"
+                   [title]="false"
+                   [tool]="hamburger"></tag-reactive-tool>
+<tag-general-title *ngIf="!(search$ | async)"
+                   class="ml-3 w-100 mr-3"></tag-general-title>
+<tag-general-search *ngIf="search$ | async"
+                    class="ml-3 w-100 mr-3"></tag-general-search>
+<tag-reactive-ribbon class="ml-auto mr-2" [tools]="tools"></tag-reactive-ribbon>
